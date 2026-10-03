@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Deendayal Upadhyaya Sahakarita Kisan Kalyan Yojana",
+    "state": "Uttarakhand",
+    "category": "Institutional Credit & Interest Subvention",
+    "description": "Provides interest-free loans to small, marginal, and hill farmers to purchase agri-inputs, farm machinery, and establish allied agricultural enterprises like dairy, poultry, and horticulture.",
+    "benefits": "Interest-free crop and agri-loans up to ₹3,00,000 for individual farmers and up to ₹5,00,000 for Farmer Producer Organizations (FPOs) and Self-Help Groups (SHGs).",
+    "eligibility": [
+      "Small, marginal, and hill farmers residing in Uttarakhand",
+      "Must be members of Primary Agricultural Credit Societies (PACS) or cooperative banks in Uttarakhand"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Ownership Document (Khatauni / Khasra Extract)",
+      "Cooperative Bank Account Passbook",
+      "Passport Size Photo"
+    ],
+    "application_mode": "Offline via District Cooperative Bank Branches / PACS / Local Agriculture Extension Officer",
+    "official_website": "https://cooperative.uk.gov.in",
+    "last_updated": "2026-06-20"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Uttarakhand Apple Mission & High-Density Plantation Scheme",
+    "state": "Uttarakhand",
+    "category": "High-Value Horticulture",
+    "description": "Promotes high-density apple orchards using imported clonal rootstocks to modernize hill horticulture and significantly increase fruit productivity per unit area.",
+    "benefits": "Up to 80% capital subsidy on purchasing high-density apple saplings, anti-hail nets, drip irrigation systems, and trellis support structures.",
+    "eligibility": [
+      "Farmers owning land in hill districts of Uttarakhand located at suitable altitudes for apple cultivation (above 5,000 feet)"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Record (Khatauni Copy)",
+      "Altitude Verification / Land Suitability Certificate from Horticulture Dept",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via Uttarakhand Horticulture Portal / Offline through Chief Horticulture Officer (CHO)",
+    "official_website": "https://shm.uk.gov.in",
+    "last_updated": "2026-06-18"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Chief Minister State Aromatic Plant Mission (Aroma Valley Scheme)",
+    "state": "Uttarakhand",
+    "category": "Aromatic & Medicinal Crop Cultivation",
+    "description": "Encourages cultivation of wild-animal-resistant aromatic plants (Damask Rose, Lemongrass, Cinnamon, Lavender, Mint) to prevent crop damage by wildlife and utilize abandoned hill terraces.",
+    "benefits": "Free supply of high-yielding aromatic planting material, 50% subsidy on installing essential oil distillation units, and guaranteed buyback through CAP (Centre for Aromatic Plants).",
+    "eligibility": [
+      "Farmers, landholders, and cluster groups in hill districts of Uttarakhand"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Record (Khatauni Extract)",
+      "CAP Farmer Registration Card",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via Centre for Aromatic Plants (CAP), Selaqui, Dehradun / District Horticulture Office",
+    "official_website": "https://capuk.in",
+    "last_updated": "2026-06-15"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Mukhyamantri Polyhouse Yojana",
+    "state": "Uttarakhand",
+    "category": "Protected Cultivation & Controlled Environment",
+    "description": "Supports construction of modern naturally ventilated polyhouses across hill blocks for off-season vegetable cultivation and floriculture to boost hill farm incomes.",
+    "benefits": "80% capital subsidy for installing polyhouse structures up to 100 sq. meters to 500 sq. meters, along with subsidised high-yielding vegetable seeds and drip kits.",
+    "eligibility": [
+      "Small and marginal farmers residing in Uttarakhand holding suitable terraced agricultural land"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Ownership Record (Khatauni)",
+      "Polyhouse Blueprint & Dealer Quotation",
+      "Bank Passbook Copy"
+    ],
+    "application_mode": "Online via Uttarakhand Horticulture Portal (shm.uk.gov.in) / District Horticulture Office",
+    "official_website": "https://shm.uk.gov.in",
+    "last_updated": "2026-06-12"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Uttarakhand Climate Responsive Rainfed Farming Project (UDRP - Climate Smart Agriculture)",
+    "state": "Uttarakhand",
+    "category": "Soil Conservation & Watershed Development",
+    "description": "A World Bank-assisted project focusing on soil moisture conservation, water harvesting ponds, spring-shed rejuvenation, and drought-tolerant seed adoption across rainfed hill watersheds.",
+    "benefits": "Grants for constructing plastic-lined farm ponds (poly-tanks), bench terracing, soil health restoration, and distribution of climate-resilient millet/pulse minikits.",
+    "eligibility": [
+      "Farmers residing in selected micro-watershed development blocks across Uttarakhand hill districts"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Record Document (Khatauni)",
+      "Watershed User Group Registration Proof",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Watershed Management Directorate (WMD) / Gram Panchayat Development Officer",
+    "official_website": "https://wmduk.gov.in",
+    "last_updated": "2026-06-08"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Millet Mission Uttarakhand (House Crowning / House-Hold Millet Scheme)",
+    "state": "Uttarakhand",
+    "category": "Traditional & Organic Crops",
+    "description": "Promotes production, processing, and procurement of indigenous hill millets (Mandua / Finger Millet, Jhangora / Barnyard Millet) at Guaranteed Minimum Support Prices.",
+    "benefits": "Direct cash incentive of ₹1,500 per acre for millet cultivators, guaranteed government procurement at remunerative prices, and free certified millet seeds.",
+    "eligibility": [
+      "Farmers cultivating indigenous millets in designated hill blocks of Uttarakhand"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Record (Khatauni)",
+      "Bank Account Details",
+      "Millet Cultivation Verification Form"
+    ],
+    "application_mode": "Online via Agri Portal / Offline through Local Agriculture Extension Officer (AEO)",
+    "official_website": "https://agriculture.uk.gov.in",
+    "last_updated": "2026-06-02"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Chief Minister Solar Pump Scheme (PM-KUSUM Uttarakhand)",
+    "state": "Uttarakhand",
+    "category": "Renewable Energy & Off-Grid Irrigation",
+    "description": "Installs solar water pumpsets (2 HP to 7.5 HP) on hill terraces and valley lands where electricity grid lines are difficult to extend.",
+    "benefits": "Up to 80% to 90% combined Central and State financial subsidy on standalone solar water pumping systems.",
+    "eligibility": [
+      "Farmers owning land in Uttarakhand with access to surface water streams, wells, or ponds without grid power"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Record (Khatauni Copy)",
+      "Self-Declaration of No Existing Electric Connection",
+      "Bank Passbook Details"
+    ],
+    "application_mode": "Online via UREDA Portal (ureda.uk.gov.in) / District Agriculture Officer",
+    "official_website": "https://ureda.uk.gov.in",
+    "last_updated": "2026-05-28"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Mukhyamantri Anchal Amrit Yojana & Dairy Development Scheme",
+    "state": "Uttarakhand",
+    "category": "Dairy Farming & Livestock",
+    "description": "Promotes high-yielding dairy cattle rearing, milk co-operatives formation, modern cattle sheds, and chaff cutters across hill and plain districts.",
+    "benefits": "50% capital subsidy on purchasing crossbred cows/badri cows, 75% subsidy on chaff cutters, and ₹4 per liter bonus on milk supplied to dairy cooperatives.",
+    "eligibility": [
+      "Dairy farmers and members of Anchal Dairy Cooperative Societies in Uttarakhand"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Anchal Dairy Cooperative Membership Card",
+      "Land Proof for Shed Construction",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Local Dairy Development Officer / Anchal Milk Union Centre",
+    "official_website": "https://dairy.uk.gov.in",
+    "last_updated": "2026-05-20"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Uttarakhand Cold-Water Fisheries & Trout Racing Mission",
+    "state": "Uttarakhand",
+    "category": "Fisheries & High-Altitude Aquaculture",
+    "description": "Utilizes perennial mountain streams to construct concrete raceways for commercial culture of high-value Rainbow Trout fish.",
+    "benefits": "60% subsidy for SC/ST/Women and 40% for General beneficiaries on raceway construction, trout feed, and disease-free trout seed.",
+    "eligibility": [
+      "Individual landholders and fishermen in hill districts with perennial cold-water stream access"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Ownership Document (Khatauni)",
+      "Water Availability / Quality Test Report",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via District Fisheries Officer (DFO) / Directorate of Fisheries, Dehradun",
+    "official_website": "https://fisheries.uk.gov.in",
+    "last_updated": "2026-05-15"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Hill Farm Machinery & Power Tiller Subsidy Scheme (SMAM Uttarakhand)",
+    "state": "Uttarakhand",
+    "category": "Farm Mechanization",
+    "description": "Subsidizes specialized light-weight agricultural machinery designed for narrow mountain terraces, including power tillers, brush cutters, weeders, and mini-threshers.",
+    "benefits": "50% to 80% subsidy on hill-friendly farm equipment for individual farmers and up to 80% for Custom Hiring Centers operated by SHGs/Cooperatives.",
+    "eligibility": [
+      "Farmers owning land in Uttarakhand hill districts registered on the Agmachinery portal"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Record (Khatauni)",
+      "Equipment Quotation / Proforma Invoice",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via Agmachinery Portal / District Agriculture Office",
+    "official_website": "https://agriculture.uk.gov.in",
+    "last_updated": "2026-05-10"
+  }
+]

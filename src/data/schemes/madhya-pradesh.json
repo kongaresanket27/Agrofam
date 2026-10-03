@@ -1,0 +1,208 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Mukhyamantri Kisan Kalyan Yojana",
+    "state": "Madhya Pradesh",
+    "category": "Income Support",
+    "description": "A state top-up financial assistance initiative supplementing PM-KISAN payouts to ensure predictable cash flow for agricultural input purchases.",
+    "benefits": "An additional annual cash transfer of ₹6,000 paid directly to the farmer's bank account via Direct Benefit Transfer (DBT) in equal installments.",
+    "eligibility": [
+      "Resident landholding farmers of Madhya Pradesh",
+      "Must be active and verified beneficiaries of the central PM-KISAN scheme"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Khasra / Khatoni (Land Record Copy)",
+      "Samagra ID",
+      "Aadhaar-linked Bank Passbook"
+    ],
+    "application_mode": "Online via MP e-Uparjan / SAARA Portal",
+    "official_website": "https://saara.mp.gov.in",
+    "last_updated": "2026-06-14"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Mukhyamantri Bhavantar Bhugtan Yojana",
+    "state": "Madhya Pradesh",
+    "category": "Price Deficit Compensation",
+    "description": "Protects farmers against market price crashes by paying the direct price difference whenever notified oilseeds and pulses sell below the Minimum Support Price (MSP) in state mandis.",
+    "benefits": "Direct payment of the price gap between the MSP and market/model price directly into the farmer's bank account.",
+    "eligibility": [
+      "Farmers in MP cultivating notified Kharif/Rabi crops (soybean, pulses, oilseeds)",
+      "Must register produce on the e-Uparjan portal and sell through notified Krishi Upaj Mandis"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "e-Uparjan Registration Number",
+      "Mandi Sale Receipt & Weighment Slip (Toul Parchi)",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via MP e-Uparjan Portal / Mandi Samiti Office",
+    "official_website": "https://mpeuparjan.nic.in",
+    "last_updated": "2026-05-20"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Mukhyamantri Solar Pump Yojana (MP)",
+    "state": "Madhya Pradesh",
+    "category": "Renewable Energy & Irrigation",
+    "description": "Subsidizes standalone solar photovoltaic water pumping systems for agricultural irrigation in remote and off-grid farmlands.",
+    "benefits": "Up to 90% capital subsidy on solar pumpsets (3 HP to 10 HP); farmers pay the remaining 10% share.",
+    "eligibility": [
+      "Farmers owning cultivable land in MP with a verified water source (well, borewell, or stream)",
+      "Must not have an active grid-connected agricultural electricity connection"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Khasra Copy",
+      "No-Objection Certificate (NOC) from MP Discom",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via MP Solar Pump Portal",
+    "official_website": "https://cmsolarpump.mp.gov.in",
+    "last_updated": "2026-06-08"
+  },
+  {
+    "id": 4,
+    "scheme_name": "MP Krishi Yantra Anudan Yojana",
+    "state": "Madhya Pradesh",
+    "category": "Farm Mechanization",
+    "description": "Provides financial grants to smallholders and farmer groups to purchase tractors, combine harvesters, rotavators, seed drills, and power tillers.",
+    "benefits": "40% to 50% subsidy (up to ₹1,50,000 – ₹2,00,000 depending on machine type and farmer category).",
+    "eligibility": [
+      "Landholding farmers registered on the DBT Agriculture Portal of MP",
+      "Higher subsidy priority for SC/ST, women, and small/marginal farmers"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Khasra / Khatoni Extract",
+      "Dealer Quotation / Proforma Invoice",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online via MP DBT Farmer Portal (e-Krishi Yantra)",
+    "official_website": "https://dbt.mpkrishi.org",
+    "last_updated": "2026-06-18"
+  },
+  {
+    "id": 5,
+    "scheme_name": "MP Micro-Irrigation Scheme (Drip & Sprinkler)",
+    "state": "Madhya Pradesh",
+    "category": "Water Management",
+    "description": "Promotes efficient water use by subsidizing drip and sprinkler systems across drought-prone and water-stressed districts.",
+    "benefits": "70% to 80% subsidy for small and marginal farmers; 55% to 60% for general landholding farmers.",
+    "eligibility": [
+      "Farmers in MP possessing agricultural land with access to a functional water source"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Khasra Copy",
+      "Water Source Availability Certificate",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via MP Horticulture Portal (e-Anudan)",
+    "official_website": "https://mpfsts.mpeproc.gov.in",
+    "last_updated": "2026-04-28"
+  },
+  {
+    "id": 6,
+    "scheme_name": "MP Baliraja Khet Talab Yojana (Farm Pond Scheme)",
+    "state": "Madhya Pradesh",
+    "category": "Water Harvesting",
+    "description": "Provides financial assistance to build farm ponds (Khet Talab) on private land to catch monsoon rainwater and recharge groundwater.",
+    "benefits": "Up to 50% financial grant (capped between ₹80,000 and ₹1,20,000 based on pond dimension and lining type).",
+    "eligibility": [
+      "Individual farmers in MP owning at least 0.5 hectares of land"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Samagra ID",
+      "Khasra Copy",
+      "Geo-tagged Site Photo",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online via e-Anudan Portal / District Agriculture Office",
+    "official_website": "https://dbt.mpkrishi.org",
+    "last_updated": "2026-05-15"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Mukhyamantri Natural Farming Promotion Scheme (MP)",
+    "state": "Madhya Pradesh",
+    "category": "Organic & Natural Farming",
+    "description": "Encourages cow-based chemical-free natural farming, incentivizing farmers to adopt Jeevamrut, Beejamrut, and indigenous seed cultivation.",
+    "benefits": "Monthly stipend of ₹900 (total ₹10,800 annually) for indigenous cow upkeep and 75% subsidy on natural farming input kits.",
+    "eligibility": [
+      "Farmers in MP practicing verified natural farming on minimum 0.25 acres",
+      "Must own at least one indigenous cow"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Khasra Extract",
+      "Cow Tag Certificate / Registration",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via MP Natural Farming Portal / Gram Sevak",
+    "official_website": "https://mpkrishi.org",
+    "last_updated": "2026-03-22"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Mukhyamantri Krishak Jeevan Kalyan Yojana",
+    "state": "Madhya Pradesh",
+    "category": "Farmer Insurance & Social Security",
+    "description": "Provides immediate financial relief and compensation to farming families in the event of accidental death or severe injury during agricultural work.",
+    "benefits": "Ex-gratia grant of ₹2,00,000 for accidental death or permanent total disability; ₹1,00,000 for partial disability.",
+    "eligibility": [
+      "Farmers, farm laborers, and landless agricultural workers in MP aged 18 to 70 years"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "FIR / Medical Certificate / Post-Mortem Report",
+      "Samagra ID",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via Tehsil Office / District Collectorate",
+    "official_website": "https://saara.mp.gov.in",
+    "last_updated": "2026-05-30"
+  },
+  {
+    "id": 9,
+    "scheme_name": "MP State Horticulture Development Scheme",
+    "state": "Madhya Pradesh",
+    "category": "Horticulture Expansion",
+    "description": "Subsidizes high-value fruit orchard establishment, polyhouse/shade net installation, and high-tech nursery development.",
+    "benefits": "50% capital grant on high-density fruit planting material, polyhouse setup, and drip system integration.",
+    "eligibility": [
+      "Farmers in MP converting traditional crop fields into fruit or vegetable cultivation"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Khasra Copy",
+      "Horticulture Department Registration Number",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via MP FSTS Horticulture Portal",
+    "official_website": "https://mpfsts.mpeproc.gov.in",
+    "last_updated": "2026-06-10"
+  },
+  {
+    "id": 10,
+    "scheme_name": "MP Acharya Vidyasagar Dairy Chhatra Yojana",
+    "state": "Madhya Pradesh",
+    "category": "Animal Husbandry & Dairy",
+    "description": "Assists smallholders and unemployed rural youth in setting up modern dairy units with high-yielding milch cows or buffaloes.",
+    "benefits": "Up to 25% subsidy for General category and 33.33% for SC/ST category (capped up to ₹1,50,000 to ₹2,00,000 per dairy unit).",
+    "eligibility": [
+      "Small, marginal, and landless farmers in MP establishing a minimum unit of 5 to 10 milch cattle"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Caste Certificate (if applicable)",
+      "Bank Loan Approval Sanction Letter",
+      "Bank Passbook"
+    ],
+    "application_mode": "Offline via District Veterinary / Animal Husbandry Department",
+    "official_website": "https://mpanimalhusbandry.gov.in",
+    "last_updated": "2026-04-12"
+  }
+]

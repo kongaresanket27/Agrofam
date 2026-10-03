@@ -1,0 +1,391 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "state": "Central Government",
+    "category": "Direct Income Support",
+    "description": "A Central Sector scheme that provides direct direct income support to all landholding farmer families across India to meet crop input and domestic needs.",
+    "benefits": "₹6,000 per year provided in three equal installments of ₹2,000 every four months directly into the beneficiary's bank account via Direct Benefit Transfer (DBT).",
+    "eligibility": [
+      "Landholding farmer families with cultivable land registered in their name.",
+      "Excludes institutional landholders, high-income taxpayers, government employees, and constitutional post holders."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Ownership Record (Khatauni / Land Mutation Certificate)",
+      "Aadhaar-linked Bank Account Details"
+    ],
+    "application_mode": "Online via PM-KISAN portal or offline via Common Service Center (CSC) / State Nodal Officer",
+    "official_website": "https://pmkisan.gov.in",
+    "last_updated": "2026-06-20"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "state": "Central Government",
+    "category": "Crop Insurance & Risk Mitigation",
+    "description": "Comprehensive yield-based crop insurance coverage against non-preventable natural risks, drought, floods, pests, and post-harvest losses.",
+    "benefits": "Nominal premium rates paid by farmers: 2% for Kharif crops, 1.5% for Rabi crops, and 5% for Annual Commercial/Horticultural crops. Remaining premium is subsidized by Central and State Governments.",
+    "eligibility": [
+      "All farmers including sharecroppers, tenant farmers, and owner-cultivators growing notified crops in notified areas."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Possession Certificate / Tenancy Agreement",
+      "Sowing Certificate / Declaration",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via National Crop Insurance Portal (NCIP), Banks, or CSCs",
+    "official_website": "https://pmfby.gov.in",
+    "last_updated": "2026-05-15"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Kisan Credit Card (KCC) Scheme",
+    "state": "Central Government",
+    "category": "Agricultural Credit & Short-Term Loans",
+    "description": "Provides single-window institutional credit to farmers for agricultural production, post-harvest expenses, animal husbandry, and fisheries at highly subsidized interest rates.",
+    "benefits": "Short-term crop loans up to ₹3 Lakh at an effective interest rate of 4% per annum (after 3% prompt repayment incentive). No collateral required for loans up to ₹1.6 Lakh.",
+    "eligibility": [
+      "Individual/joint landholders, tenant farmers, sharecroppers, Self-Help Groups (SHGs), and Joint Liability Groups (JLGs) engaged in agriculture or allied activities."
+    ],
+    "documents": [
+      "Duly filled KCC Application Form",
+      "Identity Proof & Address Proof (Aadhaar / Voter ID)",
+      "Land Ownership Documents / Crop Pattern Proof"
+    ],
+    "application_mode": "Offline/Online via Commercial Banks, Regional Rural Banks (RRBs), or Cooperative Banks",
+    "official_website": "https://agricoop.gov.in",
+    "last_updated": "2026-06-10"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) - Per Drop More Crop",
+    "state": "Central Government",
+    "category": "Irrigation & Water Management",
+    "description": "Focuses on micro-irrigation technologies like drip and sprinkler systems to improve water-use efficiency on farms, reduce pumping costs, and boost crop productivity.",
+    "benefits": "55% financial subsidy on micro-irrigation equipment for Small and Marginal Farmers, and 45% subsidy for other farmers.",
+    "eligibility": [
+      "Farmers owning agricultural land with an assured water source.",
+      "Members of Water User Associations and Self-Help Groups."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Ownership Records (7/12 extract / RTC)",
+      "Bank Account Passbook",
+      "Water source availability certificate/declaration"
+    ],
+    "application_mode": "Online/Offline through State Agriculture / Micro-Irrigation Departments",
+    "official_website": "https://pmksy.gov.in",
+    "last_updated": "2026-04-28"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Agriculture Infrastructure Fund (AIF)",
+    "state": "Central Government",
+    "category": "Agri-Infrastructure & Post-Harvest Support",
+    "description": "A medium-to-long term debt financing facility for creating post-harvest management infrastructure, cold chains, silos, assaying units, and community farming assets.",
+    "benefits": "3% interest subvention per annum on loans up to ₹2 Crore for a maximum period of 7 years, along with credit guarantee coverage under CGTMSE.",
+    "eligibility": [
+      "Primary Agricultural Credit Societies (PACS), FPOs, Agri-entrepreneurs, Startups, SHGs, and Individual Farmers."
+    ],
+    "documents": [
+      "Detailed Project Report (DPR)",
+      "Aadhaar Card & PAN Card",
+      "KYC and Financial Credentials of the Applicant / Entity"
+    ],
+    "application_mode": "Online via National Agriculture Infrastructure Fund Portal",
+    "official_website": "https://agriinfra.dac.gov.in",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Soil Health Card (SHC) Scheme",
+    "state": "Central Government",
+    "category": "Soil Fertility & Input Efficiency",
+    "description": "Integrated now under Rashtriya Krishi Vikas Yojana (RKVY), this initiative tests farm soil chemistry to give farmers customized recommendations on nutrient dosages and organic amendments.",
+    "benefits": "Free soil sample testing and issuance of a personalized Soil Health Card every 3 years containing nutrient status (12 parameters) and tailored fertilizer dosage advice.",
+    "eligibility": [
+      "All farmers cultivating agricultural land across India."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Parcel / Survey Number Information"
+    ],
+    "application_mode": "Offline soil collection through State Soil Testing Laboratories / Village Agriculture Extension Officers",
+    "official_website": "https://soilhealth.dac.gov.in",
+    "last_updated": "2026-05-08"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Paramparagat Krishi Vikas Yojana (PKVY)",
+    "state": "Central Government",
+    "category": "Organic Farming & Soil Health",
+    "description": "Promotes chemical-free organic farming through cluster-based approaches, Participatory Guarantee System (PGS) certification, and marketing support.",
+    "benefits": "Financial assistance of ₹50,000 per hectare over 3 years, of which ₹31,000 is directly provided for organic inputs (seeds, bio-fertilizers, bio-pesticides).",
+    "eligibility": [
+      "Farmers forming groups/clusters of 50 or more having 50 acres of land in total.",
+      "Individual farmers adopting organic farming under certified clusters."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Ownership Documents",
+      "Cluster Registration Consent & Bank Details"
+    ],
+    "application_mode": "Offline/Online via Regional Council under PGS-India / District Agriculture Officer",
+    "official_website": "https://pgsindia-ncof.dac.gov.in",
+    "last_updated": "2026-05-19"
+  },
+  {
+    "id": 8,
+    "scheme_name": "National Mission on Natural Farming (NMNF)",
+    "state": "Central Government",
+    "category": "Sustainable Agriculture",
+    "description": "Supports livestock-centric, zero-chemical natural farming (Bhartiya Prakritik Krishi Paddhati) to cut input costs, restore soil organic carbon, and reduce environmental degradation.",
+    "benefits": "₹15,000 per hectare financial incentive over 3 years for adopting natural farming inputs, establishing Bio-Input Resource Centres (BHRCs), and field demonstrations.",
+    "eligibility": [
+      "All landholding farmers willing to transition from chemical to natural farming."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Ownership Proof",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via NMNF Portal or through District Agriculture Office",
+    "official_website": "https://naturalfarming.dac.gov.in",
+    "last_updated": "2026-06-12"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Sub-Mission on Agricultural Mechanization (SMAM)",
+    "state": "Central Government",
+    "category": "Farm Machinery & Technology",
+    "description": "Increases farm power availability and mechanization among small and marginal farmers by subsidizing agricultural machinery and establishing Custom Hiring Centres (CHCs).",
+    "benefits": "40% to 80% subsidy on procurement of tractors, power tillers, rotavators, combine harvesters, and up to 80% capital subsidy for establishing CHCs.",
+    "eligibility": [
+      "Small and marginal farmers, SC/ST, women farmers, cooperative societies, and FPOs."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Records",
+      "Caste / Category Certificate (where applicable)",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via Direct Benefit Transfer in Agricultural Mechanization portal",
+    "official_website": "https://agrimachinery.nic.in",
+    "last_updated": "2026-05-11"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Pradhan Mantri Kisan Maandhan Yojana (PM-KMY)",
+    "state": "Central Government",
+    "category": "Farmer Pension & Social Security",
+    "description": "A voluntary and contributory pension scheme designed to provide old-age social security to small and marginal farmers when they reach 60 years of age.",
+    "benefits": "Assured monthly pension of ₹3,000 upon reaching the age of 60 years. Central Government matches monthly contributions made by the farmer (₹55 to ₹200/month based on entry age).",
+    "eligibility": [
+      "Small and marginal farmers owning up to 2 hectares of cultivable land.",
+      "Age group between 18 and 40 years."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Savings Bank Account / PM-KISAN Account Details",
+      "Land Holding Proof"
+    ],
+    "application_mode": "Offline via Common Service Centres (CSC) or online self-enrollment",
+    "official_website": "https://pmkmy.gov.in",
+    "last_updated": "2026-04-14"
+  },
+  {
+    "id": 11,
+    "scheme_name": "National Agriculture Market (e-NAM)",
+    "state": "Central Government",
+    "category": "Agri-Marketing & Price Discovery",
+    "description": "A pan-India electronic trading portal networking existing APMC mandis to create a unified national market for agricultural commodities.",
+    "benefits": "Transparent real-time online bidding, quality assaying support, access to broader buyer markets across India, and direct bank payout without intermediary deductions.",
+    "eligibility": [
+      "All farmers, traders, and Farmer Producer Organizations (FPOs) registered with participating APMC mandis."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Local APMC Registration / Trader License (if applicable)"
+    ],
+    "application_mode": "Online via e-NAM portal or mobile app",
+    "official_website": "https://enam.gov.in",
+    "last_updated": "2026-06-05"
+  },
+  {
+    "id": 12,
+    "scheme_name": "Mission for Integrated Development of Horticulture (MIDH)",
+    "state": "Central Government",
+    "category": "Horticulture Development",
+    "description": "A scheme driving holistic growth of the horticulture sector covering fruits, vegetables, root/tuber crops, mushrooms, spices, aromatic plants, and flowers.",
+    "benefits": "40% to 80% subsidy for setting up polyhouses/greenhouses, drip irrigation, pack houses, cold storage facilities, and high-quality sapling nurseries.",
+    "eligibility": [
+      "Individual horticulturists, farmer groups, SHGs, and commercial horticulture units."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Ownership Record",
+      "Bank Account Details",
+      "Project Plan (for infrastructure units)"
+    ],
+    "application_mode": "Offline/Online through State Horticulture Mission (SHM) offices",
+    "official_website": "https://midh.gov.in",
+    "last_updated": "2026-05-22"
+  },
+  {
+    "id": 13,
+    "scheme_name": "Formation and Promotion of 10,000 Farmer Producer Organizations (FPOs)",
+    "state": "Central Government",
+    "category": "Collectivization & Business Development",
+    "description": "Focuses on mobilizing farmers into FPOs to achieve economies of scale, improve bargaining power, access credit, and gain direct market linkages.",
+    "benefits": "Financial matching equity grant up to ₹2,000 per member (max ₹15 Lakh per FPO) along with credit guarantee cover up to ₹2 Crore per FPO.",
+    "eligibility": [
+      "Groups of minimum 300 farmers in plain areas or 100 farmers in Hilly/North-Eastern regions formed as FPOs."
+    ],
+    "documents": [
+      "FPO Registration Certificate (Companies Act / Cooperative Societies Act)",
+      "Board of Directors' Aadhaar & PAN details",
+      "FPO Bank Account Passbook"
+    ],
+    "application_mode": "Online submission through Implementing Agencies (NABARD, SFAC, NCDC)",
+    "official_website": "https://sfacindia.com",
+    "last_updated": "2026-05-29"
+  },
+  {
+    "id": 14,
+    "scheme_name": "Pradhan Mantri Annadata Aay Sanrakshan Abhiyan (PM-AASHA)",
+    "state": "Central Government",
+    "category": "Price Support & Minimum Support Price (MSP)",
+    "description": "An umbrella scheme ensuring farmers receive fair MSP prices for pulses, oilseeds, and copra through direct physical procurement and price shortfall payment systems.",
+    "benefits": "Protects farmers from market distress sales by assuring procurement at MSP (Price Support Scheme) or compensating the difference between market price and MSP (Price Deficiency Payment Scheme).",
+    "eligibility": [
+      "All growers producing notified pulses, oilseeds, and oil palm crops registered on procurement portals."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Crop Sowing Certificate / Land Record",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online registration at designated procurement centers / e-Samridhi portal before harvest season",
+    "official_website": "https://agricoop.gov.in",
+    "last_updated": "2026-06-03"
+  },
+  {
+    "id": 15,
+    "scheme_name": "Namo Drone Didi Scheme",
+    "state": "Central Government",
+    "category": "Agri-Tech & Women Empowerment",
+    "description": "Equips Women Self-Help Groups (SHGs) with agricultural drones to provide rental liquid fertilizer and pesticide spraying services to local farmers.",
+    "benefits": "80% financial subsidy (up to ₹8 Lakh) provided to Women SHGs for purchasing agricultural drone packages, along with comprehensive drone pilot training.",
+    "eligibility": [
+      "Active Women Self-Help Groups (SHGs) under Deendayal Antyodaya Yojana - NRLM.",
+      "Selected SHG members meeting basic educational criteria for drone pilot licensing."
+    ],
+    "documents": [
+      "Aadhaar Card of selected SHG Drone Pilot",
+      "SHG Registration Proof & Joint Bank Account",
+      "10th Pass Certificate / Educational Qualification Proof"
+    ],
+    "application_mode": "Offline via State Rural Livelihood Mission (SRLM) Block Offices",
+    "official_website": "https://nrlm.gov.in",
+    "last_updated": "2026-05-17"
+  },
+  {
+    "id": 16,
+    "scheme_name": "Pradhan Mantri Matsya Sampada Yojana (PMMSY)",
+    "state": "Central Government",
+    "category": "Fisheries & Aquaculture",
+    "description": "A flagship scheme aimed at driving sustainable development of the fisheries sector through modernization, bio-floc aquaculture, deep-sea fishing craft, and cold chain logistics.",
+    "benefits": "Capital subsidy of 40% for General category beneficiaries and 60% for SC/ST/Women for fish culture, bio-floc units, cages, motorized boats, and refrigerated vehicles.",
+    "eligibility": [
+      "Fishers, fish farmers, fish workers, fisheries cooperatives, and women fish vendors."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Fisherman ID Card / Land or Water Body Lease Document",
+      "Detailed Project Report (DPR)",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via PMMSY portal or offline via District Fisheries Office",
+    "official_website": "https://pmmsy.dof.gov.in",
+    "last_updated": "2026-06-14"
+  },
+  {
+    "id": 17,
+    "scheme_name": "National Beekeeping & Honey Mission (NBHM)",
+    "state": "Central Government",
+    "category": "Apiculture & Allied Farming",
+    "description": "Promotes scientific beekeeping to boost crop pollination, increase agricultural yields, and support honey and beehive product processing.",
+    "benefits": "Up to 80% subsidy for procurement of bee boxes, bee colonies, honey extraction equipment, testing laboratories, and custom processing units.",
+    "eligibility": [
+      "Individual farmers, landless agricultural workers, beekeepers, and beekeeper SHGs/FPOs."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Madhukranti Portal Beekeeper Registration",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via Madhukranti Beekeeping Registration Portal / National Bee Board",
+    "official_website": "https://madhukranti.in",
+    "last_updated": "2026-05-04"
+  },
+  {
+    "id": 18,
+    "scheme_name": "Rashtriya Gokul Mission (RGM)",
+    "state": "Central Government",
+    "category": "Animal Husbandry & Dairy",
+    "description": "Focuses on genetic upgradation of bovine population, conservation of indigenous bovine breeds, and increasing milk productivity through artificial insemination.",
+    "benefits": "Subsidy of up to 50% (max ₹2 Crore) for setting up breed multiplication farms, free nationwide artificial insemination (NAIP) services, and sex-sorted semen assistance.",
+    "eligibility": [
+      "Individual dairy entrepreneurs, FPOs, SHGs, and Section 8 companies engaged in cattle breeding."
+    ],
+    "documents": [
+      "Aadhaar Card & PAN Card",
+      "Land Ownership / Lease Documents for Dairy Farm",
+      "Detailed Business Plan & Bank Details"
+    ],
+    "application_mode": "Online through NLM / RGM Application Portal",
+    "official_website": "https://dahd.nic.in",
+    "last_updated": "2026-06-08"
+  },
+  {
+    "id": 19,
+    "scheme_name": "National Mission on Edible Oils - Oil Palm (NMEO-OP)",
+    "state": "Central Government",
+    "category": "Edible Oil Self-Reliance",
+    "description": "Promotes oil palm cultivation to expand coverage, reduce national import dependency on edible oils, and provide price viability guarantees to growers.",
+    "benefits": "₹29,000 per hectare assistance for planting material, ₹5,000/ha/year for maintenance inputs, and a Formula Price guarantee mechanism for fresh fruit bunches (FFBs).",
+    "eligibility": [
+      "Farmers owning land in notified oil palm potential districts across India."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Title Deed (Adangal / Chitta)",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline/Online via State Agriculture/Horticulture Department",
+    "official_website": "https://nmeo.dac.gov.in",
+    "last_updated": "2026-04-30"
+  },
+  {
+    "id": 20,
+    "scheme_name": "PM Dhan-Dhaanya Krishi Yojana",
+    "state": "Central Government",
+    "category": "Targeted District Agri-Development",
+    "description": "A focused national scheme launched to fast-track modern agricultural practices, crop diversification, and productivity enhancements across 100 high-potential agrarian districts.",
+    "benefits": "Targeted funding allocations for soil health enhancement, localized cold storage units, quality seed distribution, and integrated pest management.",
+    "eligibility": [
+      "Farmers operating within designated agricultural districts under the Dhan-Dhaanya program framework."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Possession Proof",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via District Agriculture Mission / Krishi Vigyan Kendras (KVKs)",
+    "official_website": "https://agricoop.gov.in",
+    "last_updated": "2026-05-26"
+  }
+]

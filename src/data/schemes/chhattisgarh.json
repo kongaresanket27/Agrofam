@@ -1,0 +1,215 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Krishak Unnati Yojana",
+    "state": "Chhattisgarh",
+    "category": "Input Cost Assistance / Paddy Procurement Support",
+    "description": "A flagship state scheme providing input assistance and price support to paddy farmers in Chhattisgarh, ensuring remunerative returns and enhancing agricultural productivity.",
+    "benefits": "Financial assistance through Direct Benefit Transfer (DBT) calculated per acre to cover differential paddy input costs, guaranteeing substantial income payout per quintal.",
+    "eligibility": [
+      "Farmers registered on the CG Unified Farmer Portal (Kisan Portal).",
+      "Cultivators (owners and registered tenant farmers) selling paddy through Primary Agricultural Credit Societies (PACS)."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Khasra / Revenue Record Extract (B1/P2)",
+      "Bank Account Details (Aadhaar linked)",
+      "Farmer Registration Acknowledgement"
+    ],
+    "application_mode": "Online via Unified Kisan Portal (kisan.cg.nic.in)",
+    "official_website": "https://agriportal.cg.nic.in",
+    "last_updated": "2026-06-10"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Deendayal Upadhyay Bhoomihin Krishi Majdoor Kalyan Yojana",
+    "state": "Chhattisgarh",
+    "category": "Financial Support / Rural Livelihood",
+    "description": "Provides direct cash assistance to landless agricultural labourer families, rural artisans, and traditional priests in Scheduled areas across Chhattisgarh to support their living standards.",
+    "benefits": "Annual cash benefit of ₹10,000 paid directly to the bank account in installments.",
+    "eligibility": [
+      "Domicile of Chhattisgarh.",
+      "Rural landless families dependent primarily on agricultural labor.",
+      "Traditional priests (Baiga, Gunia, Manjhi, Haat Pahariya) in tribal areas without landholding."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Resident Certificate / Ration Card",
+      "Landless Declaration Certificate verified by Tehsildar/Gram Panchayat",
+      "Bank Passbook Copy"
+    ],
+    "application_mode": "Online / Offline via Gram Panchayat or Revenue Portal",
+    "official_website": "https://revenue.cg.nic.in/ddubkmky/",
+    "last_updated": "2026-05-18"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Saur Sujala Yojana",
+    "state": "Chhattisgarh",
+    "category": "Solar Irrigation & Power",
+    "description": "Implemented by CREDA under the Energy Department, providing highly subsidized solar-powered water pumping systems to farmers for reliable irrigation in non-electrified off-grid agricultural zones.",
+    "benefits": "Subsidized 3 HP and 5 HP solar pumps provided at a nominal fraction (5% to 10%) of the total equipment cost.",
+    "eligibility": [
+      "Small and marginal farmers of Chhattisgarh with agricultural land.",
+      "Fields located in areas lacking regular electrical grid connections.",
+      "Assured ground/surface water source."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Ownership Documents (Khatoni/Khasra)",
+      "Small/Marginal Farmer Certificate",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via CREDA District Offices / Agriculture Department",
+    "official_website": "https://creda.co.in",
+    "last_updated": "2026-04-22"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Shakambhari Yojana",
+    "state": "Chhattisgarh",
+    "category": "Minor Irrigation Support",
+    "description": "Provides financial subsidy to small and marginal farmers for digging open wells and installing diesel/electric/solar pump sets for crop diversification and micro-irrigation.",
+    "benefits": "Up to 75% subsidy on irrigation pumps and up to 50% subsidy on open well construction cost.",
+    "eligibility": [
+      "Small and marginal farmers possessing up to 2 hectares of land.",
+      "Prioritization given to SC, ST, and women farmers."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Record (Khasra Extract)",
+      "Category Certificate (if SC/ST)",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Senior Agriculture Development Officer (SADO)",
+    "official_website": "https://agriportal.cg.nic.in",
+    "last_updated": "2026-03-12"
+  },
+  {
+    "id": 5,
+    "scheme_name": "CG Mukhyamantri Kisan Kalyan Yojana (State Top-Up)",
+    "state": "Chhattisgarh",
+    "category": "Direct Income Support",
+    "description": "A state supplement scheme that offers additional annual financial top-ups to small and marginal farmers enrolled in PM-KISAN within Chhattisgarh.",
+    "benefits": "Additional ₹6,000 per year paid in installments directly into bank accounts (bringing combined annual benefit to ₹12,000 when paired with PM-KISAN).",
+    "eligibility": [
+      "Resident farmers of Chhattisgarh.",
+      "Must be an active, verified beneficiary of PM-KISAN.",
+      "Aadhaar-seeded bank account with completed e-KYC."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "PM-KISAN Beneficiary ID",
+      "Bank Passbook (e-KYC verified)",
+      "Land Record Documents"
+    ],
+    "application_mode": "Automatic inclusion for PM-KISAN verified farmers / Gram Panchayat Agri Office",
+    "official_website": "https://agri.cg.gov.in",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Krishi Yantra Seva Kendra (Farm Machinery Banks)",
+    "state": "Chhattisgarh",
+    "category": "Farm Mechanization",
+    "description": "Incentivizes rural youth and agricultural cooperatives to set up Custom Hiring Centres (CHCs) to rent out heavy farm machinery (tractors, harvesters, rotavators) at affordable rates to smallholders.",
+    "benefits": "Capital subsidy of up to 40% (max ₹10 lakh to ₹25 lakh depending on unit capacity) on machinery unit establishment.",
+    "eligibility": [
+      "Rural youth, self-help groups (SHGs), Primary Agricultural Credit Societies (PACS), or individual farmers in Chhattisgarh.",
+      "Age between 18 and 45 years for individual entrepreneurs."
+    ],
+    "documents": [
+      "Aadhaar Card & PAN Card",
+      "Educational Qualification Proof",
+      "Bank Loan Sanction Letter",
+      "Detailed Project Report (DPR)"
+    ],
+    "application_mode": "Online via Agriculture Engineering Portal / SADO Office",
+    "official_website": "https://agriportal.cg.nic.in",
+    "last_updated": "2026-02-15"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Jaivik Kheti Mission (Organic Farming Mission Chhattisgarh)",
+    "state": "Chhattisgarh",
+    "category": "Organic & Sustainable Farming",
+    "description": "Promotes 100% organic farming practices in designated tribal districts (such as Dantewada, Sukma, Bijapur, Bastar, Surguja) to reduce synthetic chemical dependency.",
+    "benefits": "Distribution of free organic seed kits, bio-fertilizers, vermicompost units support, and free Organic Certification under Participatory Guarantee System (PGS).",
+    "eligibility": [
+      "Farmers operating in notified organic districts/blocks of Chhattisgarh.",
+      "Individual or cluster farmer groups committing to 3-year organic conversion."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Khasra / Land Ownership Proof",
+      "Group Registration Document (for clusters)",
+      "Bank Details"
+    ],
+    "application_mode": "Offline via District Horticulture / Agriculture Office",
+    "official_website": "https://agriportal.cg.nic.in",
+    "last_updated": "2026-05-02"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Kisan Samriddhi Yojana",
+    "state": "Chhattisgarh",
+    "category": "Tube Well & Irrigation Infrastructure",
+    "description": "Provides financial aid for borewell drilling and installation of energised pumps in areas with viable groundwater, increasing double-cropped acreage.",
+    "benefits": "Subsidy ranging from ₹25,000 to ₹43,000 based on farmer category (General, OBC, SC/ST) for tube well drilling and pump installation.",
+    "eligibility": [
+      "All landholding farmers in Chhattisgarh.",
+      "Priority given to SC/ST and small/marginal farmers with no prior tube well subsidy."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Records (Khatoni/Khasra)",
+      "Groundwater Feasibility Report",
+      "Caste Certificate (if applicable)"
+    ],
+    "application_mode": "Offline via Office of Senior Agricultural Development Officer",
+    "official_website": "https://agriportal.cg.nic.in",
+    "last_updated": "2026-01-30"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Dr. Khoobchand Baghel Krishak Ratna Award & Incentives",
+    "state": "Chhattisgarh",
+    "category": "Agricultural Excellence & Innovation",
+    "description": "An annual state award and incentive program honoring innovative farmers in Chhattisgarh who demonstrate breakthrough techniques in crop yield, water conservation, and integrated farming.",
+    "benefits": "State-level recognition certificate along with a cash award of ₹1,00,000.",
+    "eligibility": [
+      "Individual progressive farmers of Chhattisgarh.",
+      "Demonstrated record of adopting innovative, sustainable, or high-yield agricultural practices."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Detailed report of agricultural innovation/yield statistics",
+      "Recommendations from District Agriculture Officer",
+      "Land Ownership Documents"
+    ],
+    "application_mode": "Offline nomination through District Agriculture Officer",
+    "official_website": "https://agriportal.cg.nic.in",
+    "last_updated": "2026-06-15"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Chhattisgarh Dairy Samagra Vikas Yojana",
+    "state": "Chhattisgarh",
+    "category": "Animal Husbandry & Dairy Development",
+    "description": "Focuses on boosting milk production across Chhattisgarh by supporting dairy unit setup, indigenous cow breed conservation, and fodder cultivation.",
+    "benefits": "50% capital subsidy on purchasing 2 to 10 high-yielding milch cows/buffaloes, construction of modern cattle sheds, and chaff cutter purchases.",
+    "eligibility": [
+      "Individual farmers, rural women, and dairy cooperatives in Chhattisgarh.",
+      "Must possess land/space for cattle shelter and fodder growth."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Veterinary Fitness Certificate for Livestock",
+      "Land Record / Residence Proof"
+    ],
+    "application_mode": "Offline via Veterinary Assistant Surgeon / District Animal Husbandry Office",
+    "official_website": "https://aah.cg.gov.in",
+    "last_updated": "2026-04-05"
+  }
+]

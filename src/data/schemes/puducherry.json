@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Production Incentive / Back-Ended Subsidy for Horticulture Crops",
+    "state": "Puducherry",
+    "category": "Horticulture Production Incentive",
+    "description": "Offers direct financial incentives to farmers growing fruit trees, vegetables, and perennial crops to cover input costs.",
+    "benefits": "₹12,250 for Mango, ₹5,830 for Guava, up to ₹18,750 for winter vegetables, and ₹7,500/ha for coconut per year.",
+    "eligibility": [
+      "Landowners and tenant farmers in Puducherry, Karaikal, Mahe, and Yanam with Farmer ID Cards"
+    ],
+    "documents": [
+      "Farmer ID Card / Land Records",
+      "Aadhaar Card",
+      "Bank Passbook",
+      "Cultivation Certificate for Tenants"
+    ],
+    "application_mode": "Offline via Uzhavar Udhaviyagam (Farmers' Help Centres) / Online via State Portal",
+    "official_website": "https://agri.py.gov.in",
+    "last_updated": "2026-06-25"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Production Incentive for Paddy Cultivation (Traditional & Conventional)",
+    "state": "Puducherry",
+    "category": "Crop Production Subsidy",
+    "description": "Provides per-acre direct cash support to paddy farmers to cushion rising cultivation costs and promote native high-yielding seeds.",
+    "benefits": "Direct benefit transfer (DBT) per hectare financial incentive credited directly into farmer's bank account.",
+    "eligibility": [
+      "Paddy growers registered with the Department of Agriculture, UT Puducherry"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Farmer Identity Card",
+      "Chitta / Adangal / Land Ownership proof",
+      "Bank Account details"
+    ],
+    "application_mode": "Online via Puducherry Agri Portal / Uzhavar Udhaviyagam",
+    "official_website": "https://agri.py.gov.in",
+    "last_updated": "2026-07-05"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Subsidy Registration for Millet & Groundnut Cultivation",
+    "state": "Puducherry",
+    "category": "Crop Diversification",
+    "description": "Promotes rainfed oilseeds and millet crops by subsidizing certified seed cost, pest protection, and micro-nutrients.",
+    "benefits": "50% seed cost subsidy and input kit grants for groundnut and millet crops.",
+    "eligibility": [
+      "All practicing farmers in Puducherry UT"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Farmer Registration ID",
+      "Bank Details"
+    ],
+    "application_mode": "Online via National/State Services Portal",
+    "official_website": "https://agri.py.gov.in",
+    "last_updated": "2026-05-14"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Puducherry Agricultural Machinery & Equipment Subsidy",
+    "state": "Puducherry",
+    "category": "Farm Mechanization",
+    "description": "Provides financial support for purchasing tractors, power tillers, rotavators, and brush cutters.",
+    "benefits": "50% subsidy on farm implements (up to ₹1,000,000 max depending on machine category).",
+    "eligibility": [
+      "Individual farmers, registered farmer groups, and agri-entrepreneurs in Puducherry"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Farmer ID",
+      "Dealer Quotation",
+      "Bank Account Copy"
+    ],
+    "application_mode": "Offline via Additional Director of Agriculture (Mechanization)",
+    "official_website": "https://agri.py.gov.in",
+    "last_updated": "2026-06-12"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Drip and Sprinkler Micro-Irrigation Assistance Scheme",
+    "state": "Puducherry",
+    "category": "Micro Irrigation",
+    "description": "Encourages water-saving drip and sprinkler irrigation installations for sugarcane, coconut, and horticultural crops.",
+    "benefits": "75% to 100% subsidy on installation of micro-irrigation systems for small/marginal farmers.",
+    "eligibility": [
+      "Farmers owning cultivated land with accessible water sources in Puducherry, Karaikal, or Yanam"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Ownership Document (Chitta)",
+      "Borewell/Water Source Proof",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Uzhavar Udhaviyagam",
+    "official_website": "https://agri.py.gov.in",
+    "last_updated": "2026-04-18"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Subsidy Registration for Fodder Crop Cultivation",
+    "state": "Puducherry",
+    "category": "Livestock & Fodder Support",
+    "description": "Encourages farmers to dedicate land to green fodder development (Co-4, Napier grass) to support local dairy production.",
+    "benefits": "Financial assistance per hectare for green fodder planting seed kits and field maintenance.",
+    "eligibility": [
+      "Farmers owning cattle and cultivating fodder crops in UT Puducherry"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Farmer ID / Cattle Proof",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online / Offline via Department of Agriculture & Farmers Welfare",
+    "official_website": "https://agri.py.gov.in",
+    "last_updated": "2026-05-22"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Puducherry Soil Health & Organic Farming Incentive",
+    "state": "Puducherry",
+    "category": "Soil Conservation",
+    "description": "Promotes green manuring, soil testing, and application of bio-fertilizers and neem-coated inputs.",
+    "benefits": "Free soil testing cards + 50% subsidy on organic manure, bio-agents, and green manure seeds.",
+    "eligibility": [
+      "All resident farmers in UT Puducherry"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Farmer ID",
+      "Land Extract Copy"
+    ],
+    "application_mode": "Offline via Local Agriculture Officer",
+    "official_website": "https://agri.py.gov.in",
+    "last_updated": "2026-03-30"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Roof-Top Vegetable Gardening Kit Subsidy Scheme",
+    "state": "Puducherry",
+    "category": "Urban Agriculture",
+    "description": "Distributes subsidized urban garden kits containing grow bags, seeds, coco-peat, and bio-pesticides for rooftop vegetable farming.",
+    "benefits": "75% subsidy on mini rooftop vegetable gardening kits.",
+    "eligibility": [
+      "Urban and semi-urban households residing in Puducherry UT"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Address Proof (Electricity Bill)",
+      "Mobile Number"
+    ],
+    "application_mode": "Offline via Botanical Garden / Agriculture Department Outlets",
+    "official_website": "https://agri.py.gov.in",
+    "last_updated": "2026-06-08"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Precision Farming Scheme for High-Value Crops",
+    "state": "Puducherry",
+    "category": "High-Tech Agriculture",
+    "description": "Promotes high-tech polyhouses, shade-net houses, and precision farming for flowers and exotic vegetables.",
+    "benefits": "50% capital subsidy for erecting shade net structures and polyhouses.",
+    "eligibility": [
+      "Progressive farmers and agri-entrepreneurs in Puducherry UT"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Ownership Document",
+      "Project Cost Estimate",
+      "Bank Details"
+    ],
+    "application_mode": "Offline via Deputy Director of Agriculture (Horticulture)",
+    "official_website": "https://agri.py.gov.in",
+    "last_updated": "2026-05-02"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Puducherry Crop Insurance Price Stabilization Scheme",
+    "state": "Puducherry",
+    "category": "Risk Management & Relief",
+    "description": "State share subsidy for crop insurance premiums and relief assistance during natural disasters like cyclones.",
+    "benefits": "100% premium subsidy for small/marginal farmers under PMFBY and direct relief grants.",
+    "eligibility": [
+      "Farmers affected by natural disasters or enrolled under crop insurance in Puducherry"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Adangal/Crop Sowing Certificate",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via Revenue / Agriculture Department",
+    "official_website": "https://agri.py.gov.in",
+    "last_updated": "2026-07-10"
+  }
+]

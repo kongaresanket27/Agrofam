@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Namo Shetkari Maha Sanman Nidhi Yojana",
+    "state": "Maharashtra",
+    "category": "Financial Assistance",
+    "description": "A state government initiative created to supplement PM-KISAN by providing an additional annual financial grant to landholding farmers across Maharashtra to support seasonal cultivation costs.",
+    "benefits": "₹6,000 per year distributed in three equal installments of ₹2,000 directly into the beneficiary's bank account (combining with PM-KISAN for a total of ₹12,000/year).",
+    "eligibility": [
+      "Resident farmers of Maharashtra",
+      "Registered and active beneficiaries of PM-KISAN",
+      "Valid Aadhaar-linked bank account with AEPS enabled"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "7/12 & 8A Land Extract",
+      "PM-KISAN Registration ID",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via MahaDBT Portal",
+    "official_website": "https://mahadbt.maharashtra.gov.in",
+    "last_updated": "2026-06-15"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Nanaji Deshmukh Krishi Sanjivani Yojana (PoCRA)",
+    "state": "Maharashtra",
+    "category": "Climate-Smart Agriculture",
+    "description": "A World Bank-assisted project focused on promoting climate-resilient agriculture in drought-prone and climate-vulnerable districts (specifically Marathwada and Vidarbha) through water management, soil health, and sustainable farming.",
+    "benefits": "75% to 100% financial subsidies on drip/sprinkler irrigation, farm ponds, shade net houses, and organic soil conditioners.",
+    "eligibility": [
+      "Small and marginal farmers in notified climate-vulnerable villages of Maharashtra",
+      "Land ownership recorded in 7/12 extract"
+    ],
+    "documents": [
+      "7/12 Land Record",
+      "Aadhaar Card",
+      "Bank Account details",
+      "Caste Certificate (if applicable for higher subsidy tier)"
+    ],
+    "application_mode": "Online (PoCRA Portal / App)",
+    "official_website": "https://mahapocra.gov.in",
+    "last_updated": "2026-05-20"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Magel Tyala Shettale (Farm Ponds Scheme)",
+    "state": "Maharashtra",
+    "category": "Water Conservation",
+    "description": "Ensures that every eligible farmer who requests a farm pond receives financial assistance to construct one, assisting in rainwater harvesting and drought mitigation.",
+    "benefits": "Direct capital grant subsidy of up to ₹50,000 for constructing lined farm ponds.",
+    "eligibility": [
+      "Farmers owning a minimum of 0.60 hectares of land",
+      "Feasible location for rainwater storage on land"
+    ],
+    "documents": [
+      "7/12 and 8A Land Records",
+      "Aadhaar Card",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online via MahaDBT",
+    "official_website": "https://mahadbt.maharashtra.gov.in",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Magel Tyala Saur Krishi Pump Yojana",
+    "state": "Maharashtra",
+    "category": "Farm Power & Energy",
+    "description": "Provides off-grid solar-powered irrigation pumps to farmers, ensuring reliable daytime power supply for crop irrigation and reducing reliance on conventional power grids.",
+    "benefits": "Up to 90% to 95% subsidy on 3 HP, 5 HP, and 7.5 HP solar agriculture pump sets; farmers pay only 5% to 10% of total cost.",
+    "eligibility": [
+      "Farmers with valid land records and access to a permanent water source (well/borewell)",
+      "Farmers without existing grid electricity connections for irrigation"
+    ],
+    "documents": [
+      "7/12 Extract",
+      "Aadhaar Card",
+      "No-Objection Certificate (NOC) for shared water source if applicable",
+      "Bank Details"
+    ],
+    "application_mode": "Online via MSEDCL Portal / MahaDBT",
+    "official_website": "https://www.mahadiscom.in",
+    "last_updated": "2026-05-18"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Dr. Babasaheb Ambedkar Krushi Swavalamban Yojana",
+    "state": "Maharashtra",
+    "category": "SC Farmer Welfare & Infrastructure",
+    "description": "Targeted scheme aimed at socio-economic uplifting of Scheduled Caste (SC) and Neo-Buddhist farmers by upgrading their land infrastructure, irrigation capacity, and farm electrification.",
+    "benefits": "Subsidies up to ₹4 Lakh for new wells, ₹1 Lakh for well repairs, and 100% subsidies for micro-irrigation and pump sets.",
+    "eligibility": [
+      "Farmers belonging to Scheduled Caste (SC) or Neo-Buddhist categories in Maharashtra",
+      "Landholding between 0.20 hectares and 6 hectares"
+    ],
+    "documents": [
+      "Caste Certificate",
+      "7/12 and 8A Land Extract",
+      "Aadhaar Card",
+      "Income Certificate"
+    ],
+    "application_mode": "Online via MahaDBT",
+    "official_website": "https://mahadbt.maharashtra.gov.in",
+    "last_updated": "2026-06-10"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Birsa Munda Krishi Kranti Yojana",
+    "state": "Maharashtra",
+    "category": "ST Farmer Welfare & Infrastructure",
+    "description": "A dedicated welfare scheme created for Scheduled Tribe (ST) farmers to improve agricultural production through irrigation assets, micro-irrigation, and soil treatment grants.",
+    "benefits": "Subsidies up to ₹2.5 Lakh for new dug wells, along with additional grants for pump sets, plastic lining for farm ponds, and power connection setup.",
+    "eligibility": [
+      "Farmers belonging to Scheduled Tribe (ST) community residing in Maharashtra",
+      "Landholding between 0.20 hectares and 6 hectares"
+    ],
+    "documents": [
+      "ST Caste Certificate",
+      "7/12 Land Record",
+      "Aadhaar Card",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via MahaDBT",
+    "official_website": "https://mahadbt.maharashtra.gov.in",
+    "last_updated": "2026-04-22"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Mahatma Jyotiba Phule Shetkari Karj Mukti Yojana",
+    "state": "Maharashtra",
+    "category": "Debt Relief",
+    "description": "Provides crop loan waivers to distressed farmers across Maharashtra who have overdue short-term crop loans, relieving their financial burden and restoring credit eligibility.",
+    "benefits": "Direct loan waiver of up to ₹2 Lakh for short-term crop loans, directly settling accounts with participating banks.",
+    "eligibility": [
+      "Farmers who took short-term crop loans from scheduled or cooperative banks in Maharashtra",
+      "Overdue or defaulted loan accounts meeting state cutoff criteria"
+    ],
+    "documents": [
+      "Aadhaar Card with biometric verification",
+      "Loan Account Passbook / Bank Slip",
+      "7/12 Land Record"
+    ],
+    "application_mode": "CSC Centers / Bank Branches (Aadhaar Biometric Verification)",
+    "official_website": "https://mjpsky.maharashtra.gov.in",
+    "last_updated": "2026-06-28"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Sub-Mission on Agricultural Mechanization (SMAM) - Maharashtra",
+    "state": "Maharashtra",
+    "category": "Farm Mechanization",
+    "description": "Encourages farm mechanization by providing subsidies on tractors, power tillers, rotavators, harvest equipment, and spray drones through a transparent lottery system.",
+    "benefits": "40% to 50% capital subsidy (up to ₹2.4 Lakh for mini-tractors and equipment; up to ₹4 Lakh for agricultural drones to FPOs).",
+    "eligibility": [
+      "Individual farmers, Women farmers, SC/ST farmers, and Farmer Producer Organizations (FPOs)",
+      "Must not have received equipment subsidy in the past 10 years"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "7/12 & 8A Land Extracts",
+      "Official dealer quotation for machinery",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via MahaDBT",
+    "official_website": "https://mahadbt.maharashtra.gov.in",
+    "last_updated": "2026-06-12"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Integrated Livestock & Poultry Development Program",
+    "state": "Maharashtra",
+    "category": "Animal Husbandry",
+    "description": "Provides financial aid to rural, landless, and marginal farmers for setting up small-scale livestock units (milch cows, goats, and poultry) to generate supplementary household income.",
+    "benefits": "50% to 75% subsidy on purchasing indigenous/crossbred milch cows, goat/sheep rearing units (10+1 breed units), or 100 day-old chicks setups.",
+    "eligibility": [
+      "BPL families, landless agricultural laborers, women SHGs, and small landholders in rural Maharashtra"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Ration Card / BPL Certificate",
+      "Caste Certificate (for 75% subsidy tier)",
+      "Bank Account details"
+    ],
+    "application_mode": "Online via Department of Animal Husbandry Portal",
+    "official_website": "https://ah.mahabms.com",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Paramparagat Krishi Vikas Yojana (PKVY - Organic Cluster Grant)",
+    "state": "Maharashtra",
+    "category": "Organic Farming",
+    "description": "Promotes organic farming practices through cluster-based models by supporting vermicomposting, bio-fertilizer infrastructure, and organic certification for high-value export crops.",
+    "benefits": "Financial aid of ₹50,000 per hectare over 3 years for cluster farmers (covering vermicompost units, organic inputs, and PGS certification).",
+    "eligibility": [
+      "Farmers willing to form clusters of a minimum 50 members and convert land to organic farming"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "7/12 Land Record",
+      "Cluster Registration Form",
+      "Bank Passbook"
+    ],
+    "application_mode": "Group Application via District Agriculture Officer",
+    "official_website": "https://krishi.maharashtra.gov.in",
+    "last_updated": "2026-05-10"
+  }
+]

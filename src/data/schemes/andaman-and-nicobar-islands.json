@@ -1,0 +1,195 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Coconut Farming Development Scheme",
+    "state": "Andaman & Nicobar Islands",
+    "category": "Horticulture & Plantation",
+    "description": "Promotes commercial coconut farming, post-harvest copra processing, and rejuvenation of old palm groves across the islands.",
+    "benefits": "50% capital subsidy on certified coconut seedlings, drip irrigation systems, and post-harvest equipment.",
+    "eligibility": [
+      "Farmers owning land suitable for plantation crops in Andaman and Nicobar Islands"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Local Certificate / Tribal Card (if applicable)",
+      "Land Record (Record of Rights)",
+      "Bank Passbook"
+    ],
+    "application_mode": "Offline via Zonal Agriculture Office / Agriculture Demonstration Farm",
+    "official_website": "https://andaman.gov.in",
+    "last_updated": "2026-06-28"
+  },
+  {
+    "id": 2,
+    "scheme_name": "High Yielding Programme (HYP) for Island Crops",
+    "state": "Andaman & Nicobar Islands",
+    "category": "Seed & Crop Support",
+    "description": "Distributes high-yielding variety (HYV) seeds of paddy, pulses, and vegetables tailored to island tropical climate.",
+    "benefits": "50% to 75% subsidy on seed mini-kits and organic plant protection inputs.",
+    "eligibility": [
+      "All active farmers in North, Middle, and South Andaman, and Nicobar district"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Island Resident Card",
+      "Land Record Details"
+    ],
+    "application_mode": "Offline via Agriculture Sub-Station / Panchayat Samiti",
+    "official_website": "https://agri.andaman.gov.in",
+    "last_updated": "2026-06-15"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Development of Minor Irrigation & Water Harvesting Structures",
+    "state": "Andaman & Nicobar Islands",
+    "category": "Irrigation & Water Conservation",
+    "description": "Funds construction of individual farm ponds (Pani Jhora), dug wells, and pump sets to retain heavy rainfall for agriculture.",
+    "benefits": "50% financial grant for constructing farm ponds and installing water lifting pump sets.",
+    "eligibility": [
+      "Island farmers holding agricultural land holdings"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Revenue Records",
+      "Bank Passbook Copy",
+      "Estimate from Agri Engineer"
+    ],
+    "application_mode": "Offline via Assistant Director of Agriculture (Soil Conservation)",
+    "official_website": "https://andaman.gov.in",
+    "last_updated": "2026-05-19"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Organic Spices Development Scheme (Arecanut, Pepper, Clove, Cinnamon)",
+    "state": "Andaman & Nicobar Islands",
+    "category": "Spices Promotion",
+    "description": "Supports inter-cropping and high-density planting of spices like black pepper, nutmeg, clove, and cinnamon in coconut orchards.",
+    "benefits": "Subsidized quality spice saplings plus financial grant of ₹20,000 per hectare for multi-tier cropping.",
+    "eligibility": [
+      "Plantation crop farmers in Andaman & Nicobar Islands"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Revenue Document",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via District Horticulture Office",
+    "official_website": "https://agri.andaman.gov.in",
+    "last_updated": "2026-04-22"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Outer Island Area Livelihood & Agri Grant Scheme",
+    "state": "Andaman & Nicobar Islands",
+    "category": "Livelihood & Infrastructure",
+    "description": "Special livelihood grant program for remote outer islands (Little Andaman, Nicobar group) to boost sustainable agriculture, cottage industry, and food security.",
+    "benefits": "Community and individual grants ranging from ₹10,000 to ₹50,000 for local farming inputs and equipment.",
+    "eligibility": [
+      "Residents and tribal farmers in remote/outer islands of A&N"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Tribal Certificate / Resident Proof",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Deputy Commissioner / Tehsildar Office",
+    "official_website": "https://andaman.gov.in",
+    "last_updated": "2026-07-02"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Soil Conservation & Soil Health Card Scheme",
+    "state": "Andaman & Nicobar Islands",
+    "category": "Soil Health & Land Reclamation",
+    "description": "Supports terracing, contour bunding, and lime treatment for acidic tropical soils.",
+    "benefits": "Subsidized agricultural lime supply and 100% free soil testing and recommendation cards.",
+    "eligibility": [
+      "Farmers owning soil-degraded or acidic farmland in the UT"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Document",
+      "Soil Sample Details"
+    ],
+    "application_mode": "Offline via Soil Testing Laboratory / Zonal Officer",
+    "official_website": "https://andaman.gov.in",
+    "last_updated": "2026-03-25"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Island Micro-Protective Cultivation (Polyhouse/Shadenet) Scheme",
+    "state": "Andaman & Nicobar Islands",
+    "category": "Protected Cultivation",
+    "description": "Protects high-value crops and vegetable nurseries from heavy tropical rains using UV-stabilized shade nets and rain shelters.",
+    "benefits": "50% capital subsidy for erecting poly-houses and rain-shelter structures.",
+    "eligibility": [
+      "Vegetable farmers and nursery operators in A&N Islands"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Rights Certificate",
+      "Structure Cost Quotation"
+    ],
+    "application_mode": "Offline via Directorate of Agriculture, Port Blair",
+    "official_website": "https://agri.andaman.gov.in",
+    "last_updated": "2026-05-10"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Island Organic Farm Input & Bio-Pesticide Subsidy",
+    "state": "Andaman & Nicobar Islands",
+    "category": "Eco-Friendly Farming",
+    "description": "Encourages pesticide-free organic farming across the archipelago by subsidizing bio-fertilizers, neem oil, and compost units.",
+    "benefits": "50% financial subsidy on certified bio-pesticides and organic manure distribution.",
+    "eligibility": [
+      "Farmers practicing organic agriculture in A&N Islands"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Farmer Registration ID",
+      "Bank Details"
+    ],
+    "application_mode": "Offline via Agriculture Demonstration Farm",
+    "official_website": "https://agri.andaman.gov.in",
+    "last_updated": "2026-04-14"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Subsidized Farm Power Machinery Scheme",
+    "state": "Andaman & Nicobar Islands",
+    "category": "Farm Mechanization",
+    "description": "Provides small weeders, brush cutters, paddy transplanters, and coconut climbing devices at subsidized prices.",
+    "benefits": "50% to 60% direct subsidy on light farm machinery suitable for hilly/island terrain.",
+    "eligibility": [
+      "Individual farmers and SHGs in A&N Islands"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Ownership Document",
+      "Proforma Invoice from Dealer"
+    ],
+    "application_mode": "Offline via Engineering Wing, Agriculture Department, Port Blair",
+    "official_website": "https://andaman.gov.in",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Promotion of Bee-Keeping (Apiculture) in Plantation Crops",
+    "state": "Andaman & Nicobar Islands",
+    "category": "Agri-Allied Activity",
+    "description": "Promotes apiculture in coconut and spice gardens to enhance crop pollination and supplement household income.",
+    "benefits": "40% subsidy on bee boxes, honey extractors, and bee colony units.",
+    "eligibility": [
+      "Farmers and rural youth in A&N Islands with coconut/horticulture land"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Residence Proof",
+      "Bank Passbook",
+      "Training Certificate (if completed)"
+    ],
+    "application_mode": "Offline via Zonal Agriculture Office",
+    "official_website": "https://agri.andaman.gov.in",
+    "last_updated": "2026-05-05"
+  }
+]

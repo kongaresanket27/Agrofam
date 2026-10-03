@@ -1,0 +1,195 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Free/Subsidized Paddy & High-Yielding Seed Distribution Scheme",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "Seed Distribution",
+    "description": "Distributes high-yielding paddy, pulse, and oilseed varieties to tribal and small farmers prior to Kharif and Rabi seasons.",
+    "benefits": "100% subsidy for SC/ST small farmers and 50% subsidy for general farmers on certified seed kits.",
+    "eligibility": [
+      "Farmers, especially ST/SC cultivators in Silvassa, Daman, and Diu"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Caste Certificate (for ST/SC)",
+      "Land Record Extract (7/12)",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Zonal Agriculture Office / District Panchayat",
+    "official_website": "https://ddd.gov.in",
+    "last_updated": "2026-06-18"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Subsidized Chemical & Organic Fertilizer Distribution Scheme",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "Agricultural Inputs",
+    "description": "Ensures affordable supply of bio-fertilizers, bacterial culture, and soil conditioners for crop fields.",
+    "benefits": "Subsidized rates for fertilizer bags and organic bacterial culture kits.",
+    "eligibility": [
+      "Resident farmers in UT Dadra & Nagar Haveli and Daman & Diu"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Farmer Card / Land Ownership Proof",
+      "Bank Account Copy"
+    ],
+    "application_mode": "Offline via Department of Agriculture, Silvassa / Daman",
+    "official_website": "https://ddd.gov.in",
+    "last_updated": "2026-05-20"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Chickoo & Horticultural Fruit Plantation Scheme",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "Horticulture Development",
+    "description": "Promotes high-yielding orchards like Chickoo, Mango, and Coconut with plant saplings, fencing, and drip irrigation grants.",
+    "benefits": "50% capital subsidy on fruit saplings, soil preparation, and drip setup.",
+    "eligibility": [
+      "Farmers owning agricultural land in the UT"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "7/12 Land Record",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via Soil Conservation & Horticulture Department",
+    "official_website": "https://ddd.gov.in",
+    "last_updated": "2026-06-02"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Subsidized Power Tiller & Farm Equipment Scheme",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "Farm Mechanization",
+    "description": "Subsidizes modern farm machinery such as small tractors, weeders, power tillers, and spray pumps.",
+    "benefits": "50% subsidy (up to ₹50,000 for mini equipment and ₹1,500,000 for tractors) for eligible farmers.",
+    "eligibility": [
+      "Individual farmers and farmer groups in DNH and Daman & Diu"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Records",
+      "Dealer Proforma Quotation",
+      "Bank Passbook"
+    ],
+    "application_mode": "Offline via Zonal Agriculture Office, Moti Daman / Silvassa",
+    "official_website": "https://ddd.gov.in",
+    "last_updated": "2026-04-10"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Drip & Micro-Irrigation Assistance Scheme",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "Micro Irrigation",
+    "description": "Financial assistance to convert flood irrigation into drip/sprinkler systems for water conservation.",
+    "benefits": "Up to 70% subsidy on installation of micro-irrigation pipelines and emitters.",
+    "eligibility": [
+      "Farmers having assured irrigation borewells or farm ponds"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Possession Proof",
+      "Water Source Proof",
+      "Bank Passbook"
+    ],
+    "application_mode": "Offline via Agriculture Office",
+    "official_website": "https://ddd.gov.in",
+    "last_updated": "2026-05-12"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Soil Health Card & Soil Conservation Works Scheme",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "Soil Conservation",
+    "description": "Carries out soil levelling, field bunding, soil testing, and distribution of micronutrients to prevent erosion.",
+    "benefits": "Free soil testing and 50% subsidy on field bunding and soil reclamation inputs.",
+    "eligibility": [
+      "Cultivators in rural areas of DNH, Daman, and Diu"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Extract",
+      "Soil Sample Details"
+    ],
+    "application_mode": "Offline via Soil Conservation Officer, Silvassa / Daman",
+    "official_website": "https://ddd.gov.in",
+    "last_updated": "2026-03-18"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Subsidized Greenhouse & Poly-Net House Scheme",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "Protected Agriculture",
+    "description": "Encourages cultivation of off-season vegetables and cut flowers under controlled polyhouse environments.",
+    "benefits": "50% capital subsidy for polyhouse and shade-net construction.",
+    "eligibility": [
+      "Individual farmers and horticulturists in the UT"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "7/12 Land Record",
+      "Project Plan & Cost Estimate"
+    ],
+    "application_mode": "Offline via District Horticulture Officer",
+    "official_website": "https://ddd.gov.in",
+    "last_updated": "2026-06-22"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Organic Vermicompost Unit Setup Subsidy",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "Organic Inputs",
+    "description": "Provides cash grants for constructing permanent vermicompost pits and procuring earthworm cultures.",
+    "benefits": "Financial grant of ₹10,000 to ₹20,000 per vermicompost unit.",
+    "eligibility": [
+      "Farmers adopting organic farming practices in the UT"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Ownership Certificate",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Zonal Agriculture Office",
+    "official_website": "https://ddd.gov.in",
+    "last_updated": "2026-05-04"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Agri-Stack & Digital Farmer Identity Program",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "Digital Agriculture",
+    "description": "Creates a unified digital registry (AgriStack) for seamless distribution of government crop subsidies, direct benefit transfers, and insurance claims.",
+    "benefits": "Direct access to single-window subsidized seeds, fertilizers, and instant DBT relief.",
+    "eligibility": [
+      "All landholding and tenant farmers in Dadra & Nagar Haveli and Daman & Diu"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Mobile Number linked to Aadhaar",
+      "7/12 Land Record"
+    ],
+    "application_mode": "Online / Offline via District e-Governance / Agriculture Stack Counters",
+    "official_website": "https://ddd.gov.in",
+    "last_updated": "2026-07-12"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Plant Protection Equipment & Pesticide Subsidy",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "Plant Protection",
+    "description": "Provides battery-operated knapsack sprayers and bio-pesticides at concessional rates to protect crops from pest outbreaks.",
+    "benefits": "50% subsidy on battery sprayers and eco-friendly bio-pesticide formulations.",
+    "eligibility": [
+      "Active crop growers in DNH and Daman & Diu"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Record Copy",
+      "Bank Details"
+    ],
+    "application_mode": "Offline via Zonal Agriculture Office",
+    "official_website": "https://ddd.gov.in",
+    "last_updated": "2026-04-28"
+  }
+]

@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "YSR Rythu Bharosa - PM Kisan",
+    "state": "Andhra Pradesh",
+    "category": "Direct Income Support",
+    "description": "Provides financial assistance to farmer families including tenant farmers to support their agricultural input costs before the sowing season.",
+    "benefits": "Financial assistance of ₹13,500 per year per farmer family in three installments (₹7,500 in May, ₹4,000 in October, and ₹2,000 in January).",
+    "eligibility": [
+      "Cultivator landowning farmers in Andhra Pradesh",
+      "Tenant farmers belonging to SC, ST, BC, and Minority communities",
+      "Must be registered on the Navasakam portal"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Pattadar Passbook / CCRC (Crop Cultivator Rights Certificate)",
+      "Aadhaar-linked Bank Passbook",
+      "Rice Card / Ration Card"
+    ],
+    "application_mode": "Online via Grama / Ward Sachivalayam Portal",
+    "official_website": "https://rythubharosa.ap.gov.in",
+    "last_updated": "2026-06-15"
+  },
+  {
+    "id": 2,
+    "scheme_name": "YSR Free Crop Insurance (YSR Uchita Fasal Bima)",
+    "state": "Andhra Pradesh",
+    "category": "Crop Insurance & Risk Mitigation",
+    "description": "A 100% state-funded crop insurance scheme protecting farmers against crop loss due to natural calamities without requiring farmers to pay any premium.",
+    "benefits": "Complete waiver of crop insurance premium; direct compensation for crop yield loss credited directly to bank accounts.",
+    "eligibility": [
+      "All farmers cultivating notified crops in Andhra Pradesh",
+      "E-crop registration (e-Crop booking) is mandatory"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "e-Crop Booking Data Slip",
+      "Pattadar Passbook / CCRC",
+      "Bank Account Details"
+    ],
+    "application_mode": "Automatic coverage via e-Crop booking at Rythu Bharosa Kendras (RBKs)",
+    "official_website": "https://karshak.ap.gov.in",
+    "last_updated": "2026-05-20"
+  },
+  {
+    "id": 3,
+    "scheme_name": "YSR Sunna Vaddi Crop Loan Scheme",
+    "state": "Andhra Pradesh",
+    "category": "Credit Subvention",
+    "description": "Encourages prompt repayment of agricultural credit by providing a 100% interest subvention on short-term crop loans.",
+    "benefits": "Zero-interest crop loans up to ₹1,00,000 upon timely repayment within the stipulated bank schedule.",
+    "eligibility": [
+      "Farmers in Andhra Pradesh who avail short-term crop loans up to ₹1 lakh from institutional banks and repay on time"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Crop Loan Clearance Certificate",
+      "Pattadar Passbook",
+      "Bank Passbook"
+    ],
+    "application_mode": "Direct credit settlement through participating commercial/cooperative banks",
+    "official_website": "https://ap.gov.in",
+    "last_updated": "2026-06-02"
+  },
+  {
+    "id": 4,
+    "scheme_name": "YSR Yantra Seva Scheme",
+    "state": "Andhra Pradesh",
+    "category": "Farm Mechanization",
+    "description": "Establishes Custom Hiring Centers (CHCs) at the Rythu Bharosa Kendra level to supply high-value agricultural machinery at subsidized rental rates.",
+    "benefits": "40% government subsidy and 50% bank loan support for purchasing machinery groups, tractors, and combine harvesters.",
+    "eligibility": [
+      "Farmer groups, Rythu Mitra Groups, and SHGs registered under RBKs in Andhra Pradesh"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Group Registration Details",
+      "Proforma Invoice from Approved Dealers",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via YSR Yantra Seva App / RBK Level Processing",
+    "official_website": "https://agri.ap.gov.in",
+    "last_updated": "2026-06-10"
+  },
+  {
+    "id": 5,
+    "scheme_name": "YSR Cheyutha",
+    "state": "Andhra Pradesh",
+    "category": "Livelihood & Women Empowerment",
+    "description": "Provides direct financial assistance to women in rural farming communities to set up sustainable livestock, retail, and agri-business enterprises.",
+    "benefits": "Financial grant of ₹18,750 per year (totaling ₹75,000 over 4 years) transferred directly to bank accounts.",
+    "eligibility": [
+      "Women belonging to SC, ST, BC, and Minority communities aged between 45 and 60 years in Andhra Pradesh"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "Income Certificate",
+      "Aadhaar-linked Bank Passbook"
+    ],
+    "application_mode": "Online via Grama / Ward Sachivalayam",
+    "official_website": "https://navasakam.ap.gov.in",
+    "last_updated": "2026-05-18"
+  },
+  {
+    "id": 6,
+    "scheme_name": "AP Micro Irrigation Project (APMIP)",
+    "state": "Andhra Pradesh",
+    "category": "Water Efficient Irrigation",
+    "description": "Promotes micro-irrigation systems to improve water use efficiency, minimize soil erosion, and increase crop yields across drought-prone districts.",
+    "benefits": "100% subsidy for SC/ST farmers, 90% for small and marginal farmers, and 80% for general categories on drip and sprinkler setups.",
+    "eligibility": [
+      "Farmers owning land in Andhra Pradesh with access to a functional borewell or water source"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Pattadar Passbook",
+      "Caste Certificate (if applying for 100% subsidy)",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via APMIP Portal / RBK Centre",
+    "official_website": "https://apmip.ap.gov.in",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "id": 7,
+    "scheme_name": "YSR Rythu Bharosa Kendra (RBK) Agri-Input Subsidy",
+    "state": "Andhra Pradesh",
+    "category": "Input Assistance & Quality Supply",
+    "description": "Ensures direct supply of quality-certified seeds, fertilizers, and pesticides at subsidized rates directly at village-level centers.",
+    "benefits": "50% to 75% doorstep input subsidies on certified seeds and bio-fertilizers ordered via RBK digital kiosks.",
+    "eligibility": [
+      "Registered cultivators in Andhra Pradesh using e-Crop booking at local RBKs"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "e-Crop Registration Slip",
+      "Pattadar Passbook / CCRC"
+    ],
+    "application_mode": "In-person at local Rythu Bharosa Kendra (RBK)",
+    "official_website": "https://rbk.ap.gov.in",
+    "last_updated": "2026-05-28"
+  },
+  {
+    "id": 8,
+    "scheme_name": "YSR Animal Husbandry & Cattle Insurance Scheme",
+    "state": "Andhra Pradesh",
+    "category": "Livestock & Animal Husbandry",
+    "description": "Provides financial support and livestock insurance coverage for milch cattle to secure dairy farmers against livestock mortality.",
+    "benefits": "Subsidized insurance premium up to 80% and direct payouts up to ₹30,000 to ₹50,000 per insured head of cattle.",
+    "eligibility": [
+      "Dairy farmers and cattle owners in Andhra Pradesh registered with local veterinary dispensaries"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Livestock Health Certificate",
+      "Ear Tag Photo",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Village Veterinary Assistant / RBK",
+    "official_website": "https://ah.ap.gov.in",
+    "last_updated": "2026-04-14"
+  },
+  {
+    "id": 9,
+    "scheme_name": "AP Zero Budget Natural Farming (APZBNF / APCNF)",
+    "state": "Andhra Pradesh",
+    "category": "Organic & Natural Farming",
+    "description": "Encourages climate-resilient, chemical-free agriculture through community-managed natural farming practices and input grants.",
+    "benefits": "Free training, bio-input preparation kits, Jeevamrutha preparation incentives, and organic certification support.",
+    "eligibility": [
+      "Farmers in Andhra Pradesh committing land to chemical-free natural farming practices"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Pattadar Passbook / CCRC",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Community Resource Persons (CRPs) / RBK",
+    "official_website": "https://apcnf.in",
+    "last_updated": "2026-06-08"
+  },
+  {
+    "id": 10,
+    "scheme_name": "AP Oil Palm Cultivation Mission",
+    "state": "Andhra Pradesh",
+    "category": "Horticulture & Commercial Crops",
+    "description": "Supports crop diversification by encouraging farmers to convert traditional field crops into oil palm plantations.",
+    "benefits": "Subsidy up to ₹29,000 per hectare for planting material, inter-cropping support, and micro-irrigation installation.",
+    "eligibility": [
+      "Farmers in designated oil palm cultivation zones in Andhra Pradesh with guaranteed water availability"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Pattadar Passbook Copy",
+      "Water Availability Certificate",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online via Department of Horticulture AP",
+    "official_website": "https://horticulture.ap.gov.in",
+    "last_updated": "2026-05-11"
+  }
+]

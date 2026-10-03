@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Rythu Bharosa",
+    "state": "Telangana",
+    "category": "Income Support",
+    "description": "A direct cash transfer scheme providing seasonal financial assistance to landowning farmers to purchase critical agricultural inputs.",
+    "benefits": "Direct cash transfer of ₹6,000 per acre per season (total ₹12,000/acre annually) deposited into bank accounts via DBT.",
+    "eligibility": [
+      "Pattadar landowning farmers recorded in the official Dharani land management system of Telangana"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Pattadar Passbook / Dharani Khata Number",
+      "Aadhaar-linked Bank Passbook"
+    ],
+    "application_mode": "Automated DBT based on Dharani Database / Agriculture Officer Verification",
+    "official_website": "https://dharani.telangana.gov.in",
+    "last_updated": "2026-06-16"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Rythu Bima Scheme",
+    "state": "Telangana",
+    "category": "Life Insurance & Social Security",
+    "description": "A fully state-funded direct benefit life insurance scheme providing immediate financial support to families of deceased farmers.",
+    "benefits": "₹5,00,000 life insurance payout delivered to the nominee within 10 days in case of natural or accidental death of the farmer.",
+    "eligibility": [
+      "Pattadar landholding farmers in Telangana aged 18 to 59 years recorded in Dharani"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Pattadar Passbook",
+      "Nominee Aadhaar Details & Bank Account"
+    ],
+    "application_mode": "Enrolled via Agricultural Extension Officers (AEO)",
+    "official_website": "https://rythubima.telangana.gov.in",
+    "last_updated": "2026-06-05"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Free Power Supply for Agriculture (Telangana)",
+    "state": "Telangana",
+    "category": "Energy & Irrigation Support",
+    "description": "Provides round-the-clock free electrical power to agricultural pump sets, eliminating energy costs for farming operations.",
+    "benefits": "100% free, 24x7 high-quality electricity supply for agricultural pump sets.",
+    "eligibility": [
+      "All agricultural electricity connection holders and pump set operators in Telangana"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Agricultural Power Connection Number (Service Number)",
+      "Pattadar Passbook Copy"
+    ],
+    "application_mode": "Offline via TSSPDCL / TSNPDCL Local Discom Office",
+    "official_website": "https://www.tssouthernpower.com",
+    "last_updated": "2026-05-12"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Rythu Runa Mafi (Crop Loan Waiver Scheme)",
+    "state": "Telangana",
+    "category": "Debt Relief",
+    "description": "Relieves agricultural debt distress by waiving outstanding short-term crop loans disbursed by institutional banks.",
+    "benefits": "Complete waiver of short-term institutional crop loans up to ₹2,00,000 per farmer family.",
+    "eligibility": [
+      "Farmers holding short-term crop loans from commercial or cooperative banks meeting state cutoff criteria"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Pattadar Passbook",
+      "Crop Loan Account Details / Bank Passbook"
+    ],
+    "application_mode": "Direct Bank Settlement based on Department Verification Portal",
+    "official_website": "https://agri.telangana.gov.in",
+    "last_updated": "2026-06-22"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Telangana Micro Irrigation Project (TMIP)",
+    "state": "Telangana",
+    "category": "Water Efficient Irrigation",
+    "description": "Subsidizes micro-irrigation installations to maximize crop yield per drop of water across semi-arid zones.",
+    "benefits": "100% subsidy for SC/ST farmers, 90% for small/marginal farmers, and 80% for general categories on drip and sprinkler setups.",
+    "eligibility": [
+      "Farmers in Telangana owning land with an assured water source (borewell or canal)"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Pattadar Passbook",
+      "Caste Certificate (for SC/ST 100% subsidy)",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via TMIP Portal",
+    "official_website": "https://horticulture.telangana.gov.in",
+    "last_updated": "2026-04-19"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Giri Vikas Scheme",
+    "state": "Telangana",
+    "category": "Tribal Farmer Empowerment",
+    "description": "Develops fallow lands of tribal farmers by fully funding water source extraction, power connectivity, and motor installation.",
+    "benefits": "100% state-funded drilling of borewells, installation of motor pumpsets, and power line extension for tribal agricultural lands.",
+    "eligibility": [
+      "Small and marginal ST (Scheduled Tribe) farmers possessing RoFR or Pattadar passbooks in ITDA areas"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Caste Certificate (ST)",
+      "RoFR / Pattadar Land Document",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Integrated Tribal Development Agency (ITDA) / AEO",
+    "official_website": "https://twd.telangana.gov.in",
+    "last_updated": "2026-03-28"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Sunna Vaddi Crop Loan Scheme (0% Interest Crop Loans)",
+    "state": "Telangana",
+    "category": "Credit Subvention",
+    "description": "Incentivizes timely bank loan repayment by reimbursing complete interest charges on short-term agricultural credit.",
+    "benefits": "100% interest subvention (0% effective interest rate) on crop loans up to ₹1,00,000 repaid within due dates.",
+    "eligibility": [
+      "Farmers in Telangana who clear their short-term crop loans within the stipulated schedule"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Crop Loan Account Clearance Receipt",
+      "Bank Passbook"
+    ],
+    "application_mode": "Automatic Credit Transfer via Bank Branch",
+    "official_website": "https://agri.telangana.gov.in",
+    "last_updated": "2026-05-17"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Telangana Oil Palm Mission",
+    "state": "Telangana",
+    "category": "Crop Diversification",
+    "description": "Encourages farmers to shift from paddy to oil palm cultivation to boost domestic edible oil production.",
+    "benefits": "Up to 50%–70% financial subsidy on plant saplings, drip irrigation integration, inter-cropping support, and 4-year maintenance grants.",
+    "eligibility": [
+      "Farmers in designated oil palm cultivation districts with guaranteed micro-irrigation facilities"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Pattadar Passbook",
+      "Water Availability Certificate",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via Horticulture Department Telangana",
+    "official_website": "https://horticulture.telangana.gov.in",
+    "last_updated": "2026-06-11"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Telangana Farm Mechanization Scheme",
+    "state": "Telangana",
+    "category": "Farm Mechanization",
+    "description": "Assists farmers and Custom Hiring Centers (CHCs) in acquiring machinery to modernize land preparation, planting, and harvesting.",
+    "benefits": "50% to 80% subsidy on mini-tractors, paddy transplanters, rotavators, and combine harvesters.",
+    "eligibility": [
+      "Individual farmers, CHCs, and farm worker groups registered in Telangana"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Pattadar Passbook Copy",
+      "Proforma Invoice from Approved Dealer",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via Agritrans / Agri Department Portal",
+    "official_website": "https://agri.telangana.gov.in",
+    "last_updated": "2026-05-29"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Telangana Sheep Rearing Scheme",
+    "state": "Telangana",
+    "category": "Livestock & Livelihood",
+    "description": "Promotes economic self-reliance among traditional shepherd communities by subsidizing high-quality sheep units.",
+    "benefits": "75% state subsidy on sheep units (20 ewes + 1 ram) including free veterinary health cover and feed support.",
+    "eligibility": [
+      "Members of Primary Sheep Cooperative Societies (PSCS) aged 18 and above in Telangana"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "PSCS Society Membership Card",
+      "Caste Certificate",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via District Animal Husbandry Officer / PSCS",
+    "official_website": "https://tgahd.telangana.gov.in",
+    "last_updated": "2026-04-26"
+  }
+]

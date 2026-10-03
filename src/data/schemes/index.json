@@ -1,0 +1,187 @@
+[
+  {
+    "file": "andaman-and-nicobar-islands.json",
+    "name": "Andaman and Nicobar Islands",
+    "slug": "andaman-and-nicobar-islands"
+  },
+  {
+    "file": "andhra-pradesh.json",
+    "name": "Andhra Pradesh",
+    "slug": "andhra-pradesh"
+  },
+  {
+    "file": "arunachal-pradesh.json",
+    "name": "Arunachal Pradesh",
+    "slug": "arunachal-pradesh"
+  },
+  {
+    "file": "assam.json",
+    "name": "Assam",
+    "slug": "assam"
+  },
+  {
+    "file": "bihar.json",
+    "name": "Bihar",
+    "slug": "bihar"
+  },
+  {
+    "file": "chandigarh.json",
+    "name": "Chandigarh",
+    "slug": "chandigarh"
+  },
+  {
+    "file": "chhattisgarh.json",
+    "name": "Chhattisgarh",
+    "slug": "chhattisgarh"
+  },
+  {
+    "file": "dadra-and-nagar-haveli-and-daman-and-diu.json",
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "slug": "dadra-and-nagar-haveli-and-daman-and-diu"
+  },
+  {
+    "file": "delhi.json",
+    "name": "Delhi",
+    "slug": "delhi"
+  },
+  {
+    "file": "goa.json",
+    "name": "Goa",
+    "slug": "goa"
+  },
+  {
+    "file": "gujarat.json",
+    "name": "Gujarat",
+    "slug": "gujarat"
+  },
+  {
+    "file": "haryana.json",
+    "name": "Haryana",
+    "slug": "haryana"
+  },
+  {
+    "file": "himachal-pradesh.json",
+    "name": "Himachal Pradesh",
+    "slug": "himachal-pradesh"
+  },
+  {
+    "file": "jammu-and-kashmir.json",
+    "name": "Jammu and Kashmir",
+    "slug": "jammu-and-kashmir"
+  },
+  {
+    "file": "jharkhand.json",
+    "name": "Jharkhand",
+    "slug": "jharkhand"
+  },
+  {
+    "file": "karnataka.json",
+    "name": "Karnataka",
+    "slug": "karnataka"
+  },
+  {
+    "file": "kerala.json",
+    "name": "Kerala",
+    "slug": "kerala"
+  },
+  {
+    "file": "ladakh.json",
+    "name": "Ladakh",
+    "slug": "ladakh"
+  },
+  {
+    "file": "lakshadweep.json",
+    "name": "Lakshadweep",
+    "slug": "lakshadweep"
+  },
+  {
+    "file": "madhya-pradesh.json",
+    "name": "Madhya Pradesh",
+    "slug": "madhya-pradesh"
+  },
+  {
+    "file": "maharashtra.json",
+    "name": "Maharashtra",
+    "slug": "maharashtra"
+  },
+  {
+    "file": "manipur.json",
+    "name": "Manipur",
+    "slug": "manipur"
+  },
+  {
+    "file": "meghalaya.json",
+    "name": "Meghalaya",
+    "slug": "meghalaya"
+  },
+  {
+    "file": "mizoram.json",
+    "name": "Mizoram",
+    "slug": "mizoram"
+  },
+  {
+    "file": "nagaland.json",
+    "name": "Nagaland",
+    "slug": "nagaland"
+  },
+  {
+    "file": "odisha.json",
+    "name": "Odisha",
+    "slug": "odisha"
+  },
+  {
+    "file": "puducherry.json",
+    "name": "Puducherry",
+    "slug": "puducherry"
+  },
+  {
+    "file": "punjab.json",
+    "name": "Punjab",
+    "slug": "punjab"
+  },
+  {
+    "file": "rajasthan.json",
+    "name": "Rajasthan",
+    "slug": "rajasthan"
+  },
+  {
+    "file": "sikkim.json",
+    "name": "Sikkim",
+    "slug": "sikkim"
+  },
+  {
+    "file": "tamil-nadu.json",
+    "name": "Tamil Nadu",
+    "slug": "tamil-nadu"
+  },
+  {
+    "file": "telangana.json",
+    "name": "Telangana",
+    "slug": "telangana"
+  },
+  {
+    "file": "tripura.json",
+    "name": "Tripura",
+    "slug": "tripura"
+  },
+  {
+    "file": "uttar-pradesh.json",
+    "name": "Uttar Pradesh",
+    "slug": "uttar-pradesh"
+  },
+  {
+    "file": "uttarakhand.json",
+    "name": "Uttarakhand",
+    "slug": "uttarakhand"
+  },
+  {
+    "file": "west-bengal.json",
+    "name": "West Bengal",
+    "slug": "west-bengal"
+  },
+  {
+    "file": "central.json",
+    "name": "Central Government",
+    "slug": "central"
+  }
+]

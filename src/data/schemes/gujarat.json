@@ -1,0 +1,201 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Ikhedut Portal Assistance Schemes (Subsidized Farm Machinery)",
+    "state": "Gujarat",
+    "category": "Farm Mechanization",
+    "description": "Provides financial assistance for purchasing agricultural equipment such as tractors, power tillers, rotavators, multi-crop threshers, and seed drills to reduce labor dependency.",
+    "benefits": "40% to 50% capital subsidy on approved farm machinery (up to ₹60,000–₹1,00,000 depending on the implement and category).",
+    "eligibility": [
+      "Farmers owning agricultural land in Gujarat registered on the Ikhedut portal",
+      "Small and marginal farmers, SC/ST, and women farmers receive higher subsidy percentages"
+    ],
+    "documents": [
+      "7/12 and 8-A Land Extract Copies",
+      "Aadhaar Card Copy",
+      "Bank Account Passbook / Canceled Cheque",
+      "Quotation/Proforma Invoice from Authorized Dealer"
+    ],
+    "application_mode": "Online via Ikhedut Portal (ikhedut.gujarat.gov.in)",
+    "official_website": "https://ikhedut.gujarat.gov.in",
+    "last_updated": "2026-06-15"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Mukhya Mantri Kisan Sahay Yojana (MMKSY)",
+    "state": "Gujarat",
+    "category": "Crop Insurance & Disaster Relief",
+    "description": "A state-funded crop protection scheme offering financial compensation without any premium payment by farmers in cases of drought, excessive rainfall, or unseasonal heavy rains.",
+    "benefits": "Compensation of ₹20,000/hectare for crop loss between 33% and 60% (up to 4 hectares), and ₹25,000/hectare for crop loss above 60% (up to 4 hectares).",
+    "eligibility": [
+      "All land-owning farmers and tenant farmers in Gujarat growing notified crops during Kharif season"
+    ],
+    "documents": [
+      "7/12 and 8-A Land Extract",
+      "Crop Sowing Certificate / Village Form 8-A",
+      "Aadhaar Card Copy",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online via E-Gram Centers / Ikhedut Portal",
+    "official_website": "https://ikhedut.gujarat.gov.in",
+    "last_updated": "2026-05-20"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Kisan Suryodaya Yojana",
+    "state": "Gujarat",
+    "category": "Agricultural Power & Irrigation",
+    "description": "Provides uninterrupted daytime electricity supply (5:00 AM to 9:00 PM) to farmers for agricultural irrigation.",
+    "benefits": "Guaranteed daytime power supply for crop irrigation, eliminating the need for hazardous nighttime farming activities.",
+    "eligibility": [
+      "Farmers holding valid agricultural electricity connections across covered villages in Gujarat"
+    ],
+    "documents": [
+      "Agricultural Electricity Connection Consumer Number / Bill",
+      "7/12 Land Record Document",
+      "Aadhaar Card Copy"
+    ],
+    "application_mode": "Automatic coverage by DISCOMs (GUVNL / PGVCL / DGVCL / MGVCL / UGVCL)",
+    "official_website": "https://guvnl.com",
+    "last_updated": "2026-04-10"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Gujarat Micro Irrigation Scheme (GGRC - Per Drop More Crop)",
+    "state": "Gujarat",
+    "category": "Water Efficient Irrigation",
+    "description": "Promotes micro-irrigation systems (drip and sprinkler) through Gujarat Green Revolution Company (GGRC) to optimize water usage in arid and semi-arid zones.",
+    "benefits": "70% to 80% subsidy on total installation costs of drip or sprinkler irrigation systems.",
+    "eligibility": [
+      "Farmers owning cultivable land in Gujarat with access to an assured irrigation source"
+    ],
+    "documents": [
+      "7/12 and 8-A Land Extract",
+      "Aadhaar Card Copy",
+      "Bank Passbook Copy",
+      "Electricity Bill / Water Source Proof"
+    ],
+    "application_mode": "Online via GGRC Portal or through authorized system suppliers",
+    "official_website": "https://ggrc.co.in",
+    "last_updated": "2026-06-02"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Integrated Horticulture Development Scheme",
+    "state": "Gujarat",
+    "category": "Horticulture & Organic Crops",
+    "description": "Offers assistance for fruit orchards, tissue culture banana, dragon fruit (Kamalam), papaya plantations, shade net houses, and high-tech greenhouses.",
+    "benefits": "Subsidy ranging from 50% to 75% on planting materials, tissue culture plants, and greenhouse infrastructure setup.",
+    "eligibility": [
+      "Individual farmers, SHGs, and Farmer Producer Organizations (FPOs) cultivating horticultural crops in Gujarat"
+    ],
+    "documents": [
+      "7/12 Land Record",
+      "Plantation Layout / Project Report",
+      "Aadhaar Card Copy",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via Ikhedut Portal",
+    "official_website": "https://doh.gujarat.gov.in",
+    "last_updated": "2026-05-15"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Mukhya Mantri Natural Farming Scheme (Prakrutik Kheti Scheme)",
+    "state": "Gujarat",
+    "category": "Natural & Organic Farming",
+    "description": "Provides financial incentives to adopt zero-budget natural farming (ZBNF), maintenance of indigenous cows, and purchase of natural input preparation kits.",
+    "benefits": "Financial assistance of ₹900 per month (₹10,800 per year) per family for maintaining an indigenous (Desi) cow for natural manure preparation, plus ₹750 for natural input kits.",
+    "eligibility": [
+      "Farmers in Gujarat practicing natural farming using indigenous cow-based inputs"
+    ],
+    "documents": [
+      "7/12 Land Record Document",
+      "Indigenous Cow Tagging / Veterinary Health Certificate",
+      "Aadhaar Card Copy",
+      "Bank Passbook Details"
+    ],
+    "application_mode": "Online via Ikhedut Portal / Gram Panchayat Office",
+    "official_website": "https://ikhedut.gujarat.gov.in",
+    "last_updated": "2026-06-08"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Assistance for Fencing Around Agricultural Fields (Solar / Wire Mesh)",
+    "state": "Gujarat",
+    "category": "Crop Protection Infrastructure",
+    "description": "Offers subsidy for erecting solar powered fencing or barbed wire fencing around farm perimeters to protect crops from wild animals like blue bulls (Nilgai) and wild boars.",
+    "benefits": "Financial grant up to 50% of the cost (maximum ₹200 per meter or up to ₹1,50,000 per field) for perimeter fencing.",
+    "eligibility": [
+      "Farmers or groups of farmers owning contiguous land plots in Gujarat"
+    ],
+    "documents": [
+      "7/12 and 8-A Land Extract Documents",
+      "Aadhaar Card Copy",
+      "Joint Land Map / Boundary Plan",
+      "Bank Passbook Copy"
+    ],
+    "application_mode": "Online via Ikhedut Portal",
+    "official_website": "https://ikhedut.gujarat.gov.in",
+    "last_updated": "2026-05-28"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Cow-Based Dairy Infrastructure Scheme (Gau Poshak Yojana)",
+    "state": "Gujarat",
+    "category": "Animal Husbandry & Dairy",
+    "description": "Supports livestock rearers in constructing modern cattle sheds, purchasing milking machines, and establishing mini dairy units.",
+    "benefits": "50% capital subsidy for cattle shed construction, silage units, and automatic milking machines up to ₹1,50,000.",
+    "eligibility": [
+      "Livestock rearers, milk producers, and dairy SHGs residing in Gujarat"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Dairy Cooperative Membership Proof / Cattle Ownership Record",
+      "Bank Passbook Details"
+    ],
+    "application_mode": "Offline / Online via District Animal Husbandry Office / Ikhedut Portal",
+    "official_website": "https://doah.gujarat.gov.in",
+    "last_updated": "2026-04-18"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Assistance for Construction of Farm Ponds (Khet Talavadi)",
+    "state": "Gujarat",
+    "category": "Water Harvesting & Conservation",
+    "description": "Subsidizes the digging and plastic lining of farm ponds to harvest rainwater for supplementary irrigation in rainfed regions.",
+    "benefits": "Financial assistance of 50% to 70% of total excavation/lining cost (up to ₹75,000–₹1,00,000 per pond).",
+    "eligibility": [
+      "Land-owning farmers in rain-fed or drought-prone districts of Gujarat"
+    ],
+    "documents": [
+      "7/12 and 8-A Land Records",
+      "Site Layout Map for proposed pond",
+      "Aadhaar Card Copy",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via Ikhedut Portal",
+    "official_website": "https://ikhedut.gujarat.gov.in",
+    "last_updated": "2026-05-10"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Marine & Freshwater Fisheries Infrastructure Subsidy Scheme",
+    "state": "Gujarat",
+    "category": "Fisheries & Marine Resources",
+    "description": "Provides capital subsidy for purchasing outboard motors, safety equipment, fish drying units, insulated ice boxes, and aquaculture pond construction.",
+    "benefits": "40% to 60% financial subsidy on fishing gear, boat engines, insulated transport vehicles, and fish farming inputs.",
+    "eligibility": [
+      "Traditional fishermen, aquaculture farmers, and fisher cooperatives registered in Gujarat"
+    ],
+    "documents": [
+      "Fisherman Identity Card / Biometric Card",
+      "Boat Registration Certificate (for marine fishers) / Land Record (for aquaculture)",
+      "Aadhaar Card Copy",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline / Online via Commissionerate of Fisheries / Ikhedut Portal",
+    "official_website": "https://fisheries.gujarat.gov.in",
+    "last_updated": "2026-06-11"
+  }
+]

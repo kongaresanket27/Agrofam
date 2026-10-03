@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Mera Pani Meri Virasat Yojana",
+    "state": "Haryana",
+    "category": "Water Conservation & Crop Diversification",
+    "description": "Incentivizes farmers to switch from water-intensive paddy (rice) cultivation to alternative crops like maize, pulses, cotton, sesame, or horticultural crops to conserve groundwater.",
+    "benefits": "Financial incentive of ₹7,000 per acre provided directly into the farmer's bank account for replacing paddy with alternative crops.",
+    "eligibility": [
+      "Farmers residing and cultivating land in designated dark zones / groundwater stressed blocks of Haryana",
+      "Must register land and crop diversification details on the Meri Fasal Mera Byora (MFMB) portal"
+    ],
+    "documents": [
+      "Parivar Pehchan Patra (PPP / Family ID)",
+      "Meri Fasal Mera Byora (MFMB) Registration ID",
+      "Land Record Documents (Jamabandi / Khasra Girdawari)",
+      "Aadhaar Card Copy",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via Meri Fasal Mera Byora Portal (fasal.haryana.gov.in)",
+    "official_website": "https://fasal.haryana.gov.in",
+    "last_updated": "2026-06-18"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Bhavantar Bharpayee Yojana (BBY)",
+    "state": "Haryana",
+    "category": "Price Support & Crop Insurance",
+    "description": "Protects horticulture producers from market price fluctuations by compensating the difference between the protected price set by the government and the actual wholesale market selling price.",
+    "benefits": "Direct financial compensation for the deficit amount when wholesale market prices fall below the fixed base support price for 21 notified vegetable and fruit crops.",
+    "eligibility": [
+      "Vegetable and fruit growers owning or leasing land in Haryana",
+      "Compulsory registration of crop area on the MFMB portal during the notified sowing period"
+    ],
+    "documents": [
+      "Parivar Pehchan Patra (PPP)",
+      "MFMB Crop Registration Acknowledgement",
+      "Mandi Sale Receipt / J-Form (e-Kharid)",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online via Meri Fasal Mera Byora Portal",
+    "official_website": "https://hortharyana.gov.in",
+    "last_updated": "2026-05-30"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Agricultural Machinery Subsidy & Crop Residue Management (CRM) Scheme",
+    "state": "Haryana",
+    "category": "Farm Mechanization & Environmental Welfare",
+    "description": "Provides financial subsidy on in-situ and ex-situ crop residue management machinery (Super Seeder, Happy Seeder, Straw Baler, Mulcher) to prevent paddy stubble burning.",
+    "benefits": "50% individual subsidy on purchase of stubble management machinery and 80% subsidy for Custom Hiring Centers (CHCs) established by Panchayats or Farmer Groups.",
+    "eligibility": [
+      "Individual land-owning farmers, Panchayats, Farmer Producer Organizations (FPOs), and Custom Hiring Centers in Haryana",
+      "Registration on MFMB portal is mandatory"
+    ],
+    "documents": [
+      "Parivar Pehchan Patra (PPP)",
+      "Tractor RC (for tractor-drawn implements)",
+      "Land Ownership Documents (Jamabandi)",
+      "Undertaking Form for non-stubble burning",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online via Agri Haryana Portal (agriharyana.gov.in)",
+    "official_website": "https://agriharyana.gov.in",
+    "last_updated": "2026-06-10"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Direct Seeded Rice (DSR) Incentive Scheme",
+    "state": "Haryana",
+    "category": "Water-Saving Agronomic Practice",
+    "description": "Encourages rice growers to adopt the Direct Seeded Rice (DSR) technique instead of traditional puddled transplantation to save irrigation water and energy.",
+    "benefits": "Direct cash incentive of ₹4,000 per acre deposited into the farmer's Aadhaar-linked bank account.",
+    "eligibility": [
+      "Paddy cultivators in Haryana who sow rice directly using DSR machines",
+      "Verification of DSR fields conducted by district agriculture officers"
+    ],
+    "documents": [
+      "Parivar Pehchan Patra (PPP)",
+      "MFMB Registration Details",
+      "Aadhaar Card Copy",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via Meri Fasal Mera Byora Portal",
+    "official_website": "https://fasal.haryana.gov.in",
+    "last_updated": "2026-06-15"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Haryana Pashudhan Bima Yojana & Pashu Kisan Credit Card",
+    "state": "Haryana",
+    "category": "Animal Husbandry & Credit Support",
+    "description": "Provides free or low-cost livestock insurance for cows, buffaloes, sheep, goats, and pigs, along with collateral-free short-term credit cards for animal rearers.",
+    "benefits": "Free insurance coverage up to ₹80,000 per cattle for BPL families (nominal premium for general categories) and working capital credit line up to ₹1,60,000 without collateral.",
+    "eligibility": [
+      "Livestock rearers residing in Haryana holding valid Parivar Pehchan Patra (PPP)",
+      "Animals must be ear-tagged with UID"
+    ],
+    "documents": [
+      "Parivar Pehchan Patra (PPP)",
+      "Aadhaar Card Copy",
+      "Ear Tag Number / Livestock Health Certificate",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Government Veterinary Hospitals or Banks",
+    "official_website": "https://pashudhanharyana.gov.in",
+    "last_updated": "2026-05-22"
+  },
+  {
+    "id": 6,
+    "scheme_name": "PM-KUSUM Component-B (Solar Water Pumping Scheme)",
+    "state": "Haryana",
+    "category": "Renewable Energy & Irrigation",
+    "description": "Offers heavy subsidies to farmers for replacing diesel pumps or installing new off-grid solar powered water pumps (3 HP to 10 HP) for crop irrigation.",
+    "benefits": "75% total subsidy (45% state subsidy + 30% central subsidy), with the farmer bearing only 25% of the capital cost.",
+    "eligibility": [
+      "Farmers having land records and existing micro-irrigation systems (drip/sprinkler) or opting for new micro-irrigation setup in Haryana",
+      "Preference given to farmers without existing grid electricity connections for farming"
+    ],
+    "documents": [
+      "Parivar Pehchan Patra (PPP)",
+      "Jamabandi (Land Record)",
+      "Micro-Irrigation Installation Certificate / Undertaking",
+      "Aadhaar Card",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via HAREDA / Saral Haryana Portal (saralharyana.gov.in)",
+    "official_website": "https://hareda.gov.in",
+    "last_updated": "2026-06-05"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Integrated Horticulture Development Plan (IHDP)",
+    "state": "Haryana",
+    "category": "Horticulture Development",
+    "description": "Subsidizes high-tech greenhouses, polyhouses, shade-net structures, pack houses, cold storage units, and fruit orchard plantations.",
+    "benefits": "50% to 65% capital subsidy for establishing polyhouses, shade nets, micro-irrigation in orchards, and post-harvest infrastructure.",
+    "eligibility": [
+      "Farmers, FPOs, and agri-entrepreneurs in Haryana registered on the Horticulture Department portal"
+    ],
+    "documents": [
+      "Parivar Pehchan Patra (PPP)",
+      "Jamabandi (Form 7/12 equivalent)",
+      "Detailed Project Report (DPR) / Technical Cost Estimate",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via Haryana Horticulture Portal (hortharyana.gov.in)",
+    "official_website": "https://hortharyana.gov.in",
+    "last_updated": "2026-05-18"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Mukhyamantri Kisan Evam Khetihar Mazdoor Jeevan Suraksha Yojana",
+    "state": "Haryana",
+    "category": "Social Security & Accident Relief",
+    "description": "Provides financial compensation to farmers and agricultural laborers in case of accidental death or permanent disability while operating farm machinery.",
+    "benefits": "Financial grant up to ₹5,00,000 in case of death or total disability, and ₹37,500 to ₹2,50,000 for partial disability / loss of limbs during farm operations.",
+    "eligibility": [
+      "All farmers and farm workers aged between 12 and 65 years residing in Haryana"
+    ],
+    "documents": [
+      "Parivar Pehchan Patra (PPP)",
+      "FIR Copy / Police Report of Accident",
+      "Post-Mortem Report / Disability Certificate from CMO",
+      "Aadhaar Card and Bank Account Details of Beneficiary/Nominee"
+    ],
+    "application_mode": "Offline / Online via Haryana State Agricultural Marketing Board (HSAMB) / Saral Portal",
+    "official_website": "https://hsamb.org.in",
+    "last_updated": "2026-04-12"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Promotion of Cotton Cultivation and Desi Cotton Scheme",
+    "state": "Haryana",
+    "category": "Crop Promotion & Incentive",
+    "description": "Encourages cotton growers to cultivate indigenous (Desi) cotton varieties and adopt integrated pest management (IPM) practices against pink bollworm.",
+    "benefits": "Direct cash assistance of ₹3,000 per acre for Desi cotton growers along with subsidized bio-pesticides and pheromone traps.",
+    "eligibility": [
+      "Cotton farmers in major cotton-producing districts of Haryana (Sirsa, Fatehabad, Hisar, Jind, Bhiwani)",
+      "Registration on MFMB portal is required"
+    ],
+    "documents": [
+      "Parivar Pehchan Patra (PPP)",
+      "MFMB Registration Copy",
+      "Aadhaar Card Copy",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via Agri Haryana / MFMB Portal",
+    "official_website": "https://agriharyana.gov.in",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Intensive Fisheries Development & Inland Aquaculture Scheme",
+    "state": "Haryana",
+    "category": "Fisheries & Aquaculture",
+    "description": "Provides subsidy for excavating new fish ponds, re-circulatory aquaculture systems (RAS), biofloc units, fish feed, and solar power unit integration for aquaculture.",
+    "benefits": "40% subsidy for General category and 60% subsidy for SC/ST and Women farmers on total unit construction cost and operational inputs.",
+    "eligibility": [
+      "Landowners, lessees, or panchayat land-lessees in Haryana taking up fish farming or shrimp culture in saline water areas"
+    ],
+    "documents": [
+      "Parivar Pehchan Patra (PPP)",
+      "Land Documents / Lease Agreement (minimum 10 years)",
+      "Site Map & Technical Plan",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline / Online via Haryana Fisheries Department Portal",
+    "official_website": "https://fisheriesharyana.gov.in",
+    "last_updated": "2026-05-28"
+  }
+]

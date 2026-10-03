@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Holistic Agriculture Development Programme (HADP)",
+    "state": "Jammu and Kashmir",
+    "category": "Comprehensive Farm & Agri-Business Transformation",
+    "description": "An umbrella initiative encompassing 29 sector-specific projects designed to modernize farming, improve crop yields, boost seed production, and promote high-value organic and niche crops across J&K.",
+    "benefits": "50% to 80% capital subsidies, free high-quality seeds, machinery support, and credit linkage across agriculture, horticulture, livestock, and apiculture sectors.",
+    "eligibility": [
+      "Farmers, farm youth, agri-entrepreneurs, and Self-Help Groups (SHGs) residing in Jammu & Kashmir",
+      "Registration on the Kisan Khidmat Portal is mandatory"
+    ],
+    "documents": [
+      "Domicile Certificate of J&K",
+      "Kisan Khidmat Portal Registration ID",
+      "Aadhaar Card Copy",
+      "Land Ownership Record (Khasra/Khatauni Extract)",
+      "Bank Account Details / Passbook"
+    ],
+    "application_mode": "Online via Kisan Khidmat Portal (hadp.jk.gov.in)",
+    "official_website": "https://hadp.jk.gov.in",
+    "last_updated": "2026-06-15"
+  },
+  {
+    "id": 2,
+    "scheme_name": "High Density Apple Plantation Scheme",
+    "state": "Jammu and Kashmir",
+    "category": "Horticulture Development",
+    "description": "Encourages apple growers to transition from traditional apple orchards to High-Density Apple Plantations (HDAP) using rootstocks for higher density and early commercial yields.",
+    "benefits": "50% subsidy on setting up high-density orchards, including imported dwarf/semi-dwarf rootstocks, anti-hail net structures, drip irrigation, and trellising systems.",
+    "eligibility": [
+      "Individual orchardists, land-owning farmers, or registered grower groups in J&K",
+      "Minimum land area holding of 1 Kanal (0.125 acre) dedicated to high-density setup"
+    ],
+    "documents": [
+      "Domicile Certificate",
+      "Land Revenue Records (Girdawari/Jamabandi)",
+      "Aadhaar Card Copy",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online via HADP / J&K Horticulture Portal",
+    "official_website": "https://horticulture.jk.gov.in",
+    "last_updated": "2026-05-28"
+  },
+  {
+    "id": 3,
+    "scheme_name": "JK Saffron Mission & Rejuvenation Scheme",
+    "state": "Jammu and Kashmir",
+    "category": "GI Tag Crop Promotion & Processing",
+    "description": "Aims to boost the productivity of world-renowned Kashmiri Saffron by supporting corm multiplication, drip irrigation setup, and access to India International Saffron Trade Centre (IISTC) for grading and processing.",
+    "benefits": "Subsidized high-quality saffron corms, 100% assistance for solar irrigation connections, and free quality testing/e-auction access at IISTC Dussu, Pulwama.",
+    "eligibility": [
+      "Traditional saffron growers and new farmers in notified saffron belts (Pulwama, Budgam, Srinagar, and Kishtwar districts)"
+    ],
+    "documents": [
+      "Domicile Certificate of J&K",
+      "Land Revenue Certificate confirming Saffron Land status",
+      "Aadhaar Card Copy",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via HADP Portal / Offline via District Agriculture Officer",
+    "official_website": "https://diragrikmr.nic.in",
+    "last_updated": "2026-06-02"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Mukhyamantri / LG Green Cold Chain & Post-Harvest Scheme",
+    "state": "Jammu and Kashmir",
+    "category": "Post-Harvest Infrastructure",
+    "description": "Provides financial support to build Controlled Atmosphere (CA) cold stores, refrigerated vans, and pack houses to prevent post-harvest losses of perishable fruits like apples, cherries, and walnuts.",
+    "benefits": "50% capital subsidy (up to ₹2 Crore per project) for constructing CA stores, solar-powered pack-houses, and cold chain transport.",
+    "eligibility": [
+      "Agri-entrepreneurs, Farmer Producer Organizations (FPOs), Cooperatives, and individual orchardists in J&K"
+    ],
+    "documents": [
+      "Domicile Certificate",
+      "Detailed Project Report (DPR)",
+      "Land Allotment / Lease Agreement (minimum 15 years)",
+      "Aadhaar Card Copy",
+      "Bank Loan Sanction / Account Details"
+    ],
+    "application_mode": "Online via J&K HADP / Horticulture Department Portal",
+    "official_website": "https://horticulture.jk.gov.in",
+    "last_updated": "2026-05-20"
+  },
+  {
+    "id": 5,
+    "scheme_name": "J&K Integrated Sheep & Goat Development Scheme (ISGDS)",
+    "state": "Jammu and Kashmir",
+    "category": "Animal Husbandry & Small Ruminant Rearing",
+    "description": "Encourages establishment of sheep and goat breeding units to meet local mutton demand, boost Pashmina/wool production, and generate rural employment.",
+    "benefits": "50% capital subsidy up to ₹1,25,000 for setting up 25-ewe/doe units, plus free veterinary care, tagging, and insurance coverage.",
+    "eligibility": [
+      "Unemployed youth, small and marginal farmers, and nomadic migratory tribals (Gujjars/Bakarwals) residing in J&K"
+    ],
+    "documents": [
+      "Domicile Certificate of J&K",
+      "Aadhaar Card Copy",
+      "Unemployment Declaration / Category Certificate (if applicable)",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via Kisan Khidmat / Offline via District Sheep Husbandry Officer",
+    "official_website": "https://sheephusbandry.jk.gov.in",
+    "last_updated": "2026-06-10"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Promotion of Medicinal & Aromatic Plants (MAPs)",
+    "state": "Jammu and Kashmir",
+    "category": "High-Value Cash Crops",
+    "description": "Promotes commercial cultivation of high-value medicinal and aromatic plants such as Lavender, Rose, Muskmelon, and Rosemary under the Lavender / Purple Revolution banner.",
+    "benefits": "Free supply of quality planting material (QPM/cuttings), 50% subsidy on distillation units, and direct market buyback linkages through CSIR-IIIM.",
+    "eligibility": [
+      "Farmers owning cultivable hilly or rainfed land across all districts of J&K, especially Doda, Ramban, Kishtwar, and Kashmir valley"
+    ],
+    "documents": [
+      "Domicile Certificate",
+      "Land Ownership Certificate (Revenue Record)",
+      "Aadhaar Card Copy",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via HADP Portal / CSIR-IIIM Jammu",
+    "official_website": "https://iiim.res.in",
+    "last_updated": "2026-05-15"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Sericulture Development & Mulberry Plantation Scheme",
+    "state": "Jammu and Kashmir",
+    "category": "Sericulture & Cottage Industry",
+    "description": "Supports silk farmers by providing high-yielding mulberry saplings, rearing appliances, and financial grants for constructing modern silkworm rearing houses.",
+    "benefits": "Financial assistance up to ₹1,25,000 for constructing rearing houses, free mulberry saplings, and subsidized silkworm seed (chawki) supplies.",
+    "eligibility": [
+      "Traditional silk rearers, women SHGs, and smallholders in J&K having space for mulberry cultivation"
+    ],
+    "documents": [
+      "Domicile Certificate",
+      "Aadhaar Card Copy",
+      "Land Record Extract for Mulberry Plantation",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via Sericulture Development Department Offices or Online via HADP Portal",
+    "official_website": "https://jksericulture.nic.in",
+    "last_updated": "2026-04-18"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Integrated Apiculture Development Scheme (IADS)",
+    "state": "Jammu and Kashmir",
+    "category": "Beekeeping & Honey Production",
+    "description": "Promotes scientific beekeeping for honey and beeswax production, boosting overall crop pollination and generating supplementary farm income.",
+    "benefits": "80% subsidy for SC/ST/Women beneficiaries and 50% for General category on purchase of bee hives, colonies, honey extractors, and migration transportation.",
+    "eligibility": [
+      "Farmers, rural youth, and SHG groups residing in Jammu & Kashmir"
+    ],
+    "documents": [
+      "Domicile Certificate",
+      "Aadhaar Card Copy",
+      "Training Certificate in Apiculture (if available)",
+      "Bank Passbook Copy"
+    ],
+    "application_mode": "Online via HADP / Kisan Khidmat Portal",
+    "official_website": "https://hadp.jk.gov.in",
+    "last_updated": "2026-06-08"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Trout Culture & Commercial Aquaculture Incentive Scheme",
+    "state": "Jammu and Kashmir",
+    "category": "Fisheries & Inland Aquaculture",
+    "description": "Promotes commercial cold-water trout farming in running water raceways across high-altitude streams and carp culture in plain areas.",
+    "benefits": "40% subsidy for General and 60% for SC/ST/Women on constructing running-water trout raceways (up to ₹5,50,000 per unit cost base), fish seed, and floating feed.",
+    "eligibility": [
+      "Unemployed youth, small farmers, and cooperative groups in J&K with suitable land and perennial cold water supply"
+    ],
+    "documents": [
+      "Domicile Certificate of J&K",
+      "Land Revenue Extract / Lease Agreement",
+      "NOC / Water Feasibility Certificate from Jal Shakti Department",
+      "Aadhaar Card and Bank Details"
+    ],
+    "application_mode": "Online via Kisan Khidmat / Offline via District Fisheries Officer",
+    "official_website": "https://jkfisheries.in",
+    "last_updated": "2026-05-22"
+  },
+  {
+    "id": 10,
+    "scheme_name": "J&K Solar Pump / Micro-Irrigation Promotion Scheme",
+    "state": "Jammu and Kashmir",
+    "category": "Water Management & Clean Energy",
+    "description": "Encourages farmers in off-grid or rainfed areas to install solar-powered irrigation pumpsets integrated with drip and sprinkler irrigation units.",
+    "benefits": "Up to 80% combined central and UT subsidy on solar water pump setups (up to 10 HP) and 80% subsidy on drip/sprinkler micro-irrigation kits.",
+    "eligibility": [
+      "Farmers holding agricultural land in J&K without regular electricity supply for irrigation"
+    ],
+    "documents": [
+      "Domicile Certificate",
+      "Jamabandi Land Record",
+      "Aadhaar Card Copy",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via JAKEDA / HADP Portal",
+    "official_website": "https://jakeda.jk.gov.in",
+    "last_updated": "2026-06-01"
+  }
+]

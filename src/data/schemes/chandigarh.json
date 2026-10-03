@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "PM Kisan Samman Nidhi (Chandigarh UT)",
+    "state": "Chandigarh (UT)",
+    "category": "Direct Income Support / Agriculture",
+    "description": "Provides financial income support to landholding peri-urban farmer families in the peripheral villages of Chandigarh UT to meet agricultural input costs.",
+    "benefits": "₹6,000 per year paid in three equal installments of ₹2,000 directly via Direct Benefit Transfer (DBT).",
+    "eligibility": [
+      "Landholding farmer families possessing cultivable agricultural land in UT villages.",
+      "Must have a valid Aadhaar-seeded bank account and completed e-KYC verification."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Ownership Documents (Jamabandi/Khasra)",
+      "Bank Account Details",
+      "e-KYC Verification Proof"
+    ],
+    "application_mode": "Online via PM-KISAN Portal (pmkisan.gov.in) / UT Agriculture Dept",
+    "official_website": "https://pmkisan.gov.in",
+    "last_updated": "2026-06-12"
+  },
+  {
+    "id": 2,
+    "scheme_name": "PM Street Vendor’s AtmaNirbhar Nidhi (PM SVANidhi - Chandigarh)",
+    "state": "Chandigarh (UT)",
+    "category": "Micro-Business & Urban Livelihood Support",
+    "description": "Provides working capital loans to urban street vendors and micro-traders in Chandigarh to restart and expand their informal businesses post-pandemic.",
+    "benefits": "Collateral-free working capital loan up to ₹50,000 in tranches with 7% interest subsidy and cashback incentives on digital transactions.",
+    "eligibility": [
+      "Urban street vendors operating in Chandigarh prior to March 2020 or possessing Certificate of Vending.",
+      "Vending ID card issued by Municipal Corporation Chandigarh (MCC)."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Vending ID / Letter of Recommendation from MCC",
+      "Bank Account Details",
+      "Mobile Number linked to Aadhaar"
+    ],
+    "application_mode": "Online via PM SVANidhi Portal / Sampark Centres",
+    "official_website": "https://pmsvanidhi.mohua.gov.in",
+    "last_updated": "2026-05-20"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Chandigarh Urban Agriculture & Terrace Gardening Initiative",
+    "state": "Chandigarh (UT)",
+    "category": "Urban Agriculture & Horticulture",
+    "description": "Promotes micro-farming, kitchen gardening, and rooftop organic cultivation across residential sectors and rural fringes under the Greening Chandigarh campaign.",
+    "benefits": "Free organic seed kits, subsidized saplings, rooftop farming toolkits, and free training workshops conducted by UT Horticulture Division.",
+    "eligibility": [
+      "Residents of Chandigarh (Urban & Rural sectors).",
+      "Resident Welfare Associations (RWAs) and educational institutions."
+    ],
+    "documents": [
+      "Aadhaar Card / UT Resident Proof",
+      "Application Form available at UT Nursery/Horticulture Dept"
+    ],
+    "application_mode": "Offline via Government Nurseries / Department of Horticulture",
+    "official_website": "https://chandigarh.gov.in",
+    "last_updated": "2026-04-10"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Kisan Credit Card (KCC) Scheme - UT Chandigarh",
+    "state": "Chandigarh (UT)",
+    "category": "Agricultural Credit / Allied Activities",
+    "description": "Provides short-term revolving credit to farmers, dairy owners, and poultry growers in peripheral sectors of Chandigarh at subsidized interest rates.",
+    "benefits": "Credit limit up to ₹3 lakh to ₹5 lakh at an effective interest rate of 4% per annum (after 3% prompt repayment subvention).",
+    "eligibility": [
+      "Farmers, tenant farmers, and sharecroppers cultivating land in Chandigarh UT.",
+      "Individuals engaged in animal husbandry, dairy farming, or fisheries in UT villages."
+    ],
+    "documents": [
+      "Aadhaar Card & PAN Card",
+      "Land Possession Certificate or Livestock Possession Proof",
+      "Passport Size Photographs",
+      "No-Dues Certificate from local banks"
+    ],
+    "application_mode": "Offline through commercial banks / Lead District Bank Office Chandigarh",
+    "official_website": "https://chandigarh.gov.in",
+    "last_updated": "2026-03-18"
+  },
+  {
+    "id": 5,
+    "scheme_name": "PM Vishwakarma Scheme (Chandigarh UT Branch)",
+    "state": "Chandigarh (UT)",
+    "category": "Traditional Artisans & Livelihood",
+    "description": "Provides end-to-end support to traditional artisans and craftspeople in Chandigarh including carpenters, blacksmiths, armorers, and potters.",
+    "benefits": "Free skill training with ₹500/day stipend, ₹15,000 toolkit incentive, and collateral-free loans up to ₹3 Lakh at 5% interest rate.",
+    "eligibility": [
+      "Resident artisans of Chandigarh practicing one of the 18 eligible traditional trades.",
+      "Minimum age of 18 years; restricted to one family member."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Ration Card / Residence Certificate",
+      "Bank Account Passbook",
+      "Trade Practice Declaration"
+    ],
+    "application_mode": "Online via PM Vishwakarma Portal or e-Sampark Centres",
+    "official_website": "https://pmvishwakarma.gov.in",
+    "last_updated": "2026-06-05"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Pradhan Mantri Fasal Bima Yojana (PMFBY - UT Sector)",
+    "state": "Chandigarh (UT)",
+    "category": "Crop Insurance",
+    "description": "Comprehensive yield risk coverage for food crops, oilseeds, and horticultural crops grown in Chandigarh against natural disasters and pests.",
+    "benefits": "Insurance payout based on crop damage; nominal premium of 1.5% for Rabi, 2% for Kharif, and 5% for commercial/horticultural crops.",
+    "eligibility": [
+      "All farmers (loanee and non-loanee) growing notified crops in Chandigarh UT."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Record (Khasra/Khatauni)",
+      "Sowing Certificate verified by Patwari",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online via National Crop Insurance Portal (pmfby.gov.in) / Banks",
+    "official_website": "https://pmfby.gov.in",
+    "last_updated": "2026-05-15"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Sub-Mission on Agricultural Mechanization (SMAM - UT UT Division)",
+    "state": "Chandigarh (UT)",
+    "category": "Farm Machinery Subsidy",
+    "description": "Supports peri-urban cultivators in Chandigarh with subsidies to purchase micro-cultivators, power tillers, sprayers, and shredders suitable for small acreage.",
+    "benefits": "Financial subsidy ranging from 40% to 50% on cost of approved agricultural machinery.",
+    "eligibility": [
+      "Small and marginal farmers residing and cultivating in UT Chandigarh.",
+      "Priority given to SC/ST and women farmers."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Ownership Proof",
+      "Bank Account Details",
+      "Category Certificate (if applicable)"
+    ],
+    "application_mode": "Online via Agrimachinery Portal / UT Agriculture Officer",
+    "official_website": "https://agrimachinery.nic.in",
+    "last_updated": "2026-02-28"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Soil Health Card Scheme - UT Chandigarh",
+    "state": "Chandigarh (UT)",
+    "category": "Soil Productivity & Advisory",
+    "description": "Regular testing of agricultural soil samples across Chandigarh's rural belts to give customized crop-wise nutrient recommendations.",
+    "benefits": "Free Soil Health Card detailing 12 critical soil parameters (macro/micro nutrients) and macro-fertilizer dosage advisory.",
+    "eligibility": [
+      "All land-owning and cultivating farmers in UT Chandigarh."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Khasra Number",
+      "Contact Details"
+    ],
+    "application_mode": "Offline sample collection driven by UT Agriculture Department",
+    "official_website": "https://soilhealth.dac.gov.in",
+    "last_updated": "2026-04-18"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Chandigarh SC/ST/BPL Free Bus Pass & Welfare Subsidy",
+    "state": "Chandigarh (UT)",
+    "category": "Social Assistance & Mobility",
+    "description": "UT-funded social relief initiative giving free and concessional public transportation passes via Chandigarh Transport Undertaking (CTU) to vulnerable groups.",
+    "benefits": "Free annual/monthly travel passes across CTU local routes for SC/ST, BPL residents, students, and senior citizens.",
+    "eligibility": [
+      "Domicile/Permanent residents of Chandigarh UT.",
+      "BPL cardholders, registered SC/ST candidates, or senior citizens aged 60+."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Chandigarh Residence Proof",
+      "Caste / Income Certificate (BPL Card)",
+      "Passport Photograph"
+    ],
+    "application_mode": "Online via e-Sampark Portal / CTU Bus Stand Counters",
+    "official_website": "https://chdctu.gov.in",
+    "last_updated": "2026-05-01"
+  },
+  {
+    "id": 10,
+    "scheme_name": "National Livestock Mission - Chandigarh UT Chapter",
+    "state": "Chandigarh (UT)",
+    "category": "Animal Husbandry & Dairy Development",
+    "description": "Encourages sustainable livestock management, backyard poultry, and fodder development in UT villages to enhance supplemental rural income.",
+    "benefits": "Up to 50% capital subsidy on poultry development, goat rearing units, and disease prevention vaccination.",
+    "eligibility": [
+      "Individual farmers, SHGs, and joint liability groups operating within UT Chandigarh limits."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Land/Premises Availability Proof for Shed",
+      "Training Certificate (if applicable)"
+    ],
+    "application_mode": "Online via NLM Portal / UT Animal Husbandry Office",
+    "official_website": "https://nlm.udyamimitra.in",
+    "last_updated": "2026-06-08"
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "FOCUS (Farmers’ Collectivization for Upscaling Production and Marketing System)",
+    "state": "Meghalaya",
+    "category": "Producer Group Financial Assistance & Agri-Marketing",
+    "description": "Meghalaya's flagship flagship farmer support program designed to organize small and marginal farmers into Producer Groups (PGs) and provide seed capital to scale up farming, processing, and direct market access.",
+    "benefits": "Direct seed capital grant of ₹5,000 per member (up to ₹1,00,000 per Producer Group) deposited into the group's bank account for agri-business operations.",
+    "eligibility": [
+      "Farmers residing in Meghalaya organized into registered Producer Groups (10 to 20 members)",
+      "Must be registered on the Meghviman / FOCUS portal"
+    ],
+    "documents": [
+      "Aadhaar Card Copy of all members",
+      "Producer Group Formation Resolution",
+      "Meghalaya Permanent Resident / Epic Copy",
+      "Joint Bank Account Details of the Producer Group"
+    ],
+    "application_mode": "Online via FOCUS Portal (focus.mbda.gov.in) / Offline through District BDO Office",
+    "official_website": "https://focus.mbda.gov.in",
+    "last_updated": "2026-06-20"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Meghalaya Lakadong Turmeric Mission",
+    "state": "Meghalaya",
+    "category": "GI Tag Crop Promotion & Value Addition",
+    "description": "Dedicated mission to expand cultivation, quality processing, and export of the world-famous high-curcumin Lakadong Turmeric grown primarily in the Jaintia Hills region.",
+    "benefits": "Free distribution of high-yielding Lakadong turmeric seed rhizomes, 75% subsidy on solar turmeric driers and washing equipment, and direct market buyback linkages.",
+    "eligibility": [
+      "Traditional and new turmeric growers, SHGs, and Producer Groups in West & East Jaintia Hills and surrounding notified districts"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Possession Certificate or Headman Certificate",
+      "Producer Group / SHG Membership Proof",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via District Horticulture Officer (DHO) / MBDA Offices",
+    "official_website": "https://meghagri.gov.in",
+    "last_updated": "2026-06-05"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Meghalaya Ginger Development Mission",
+    "state": "Meghalaya",
+    "category": "High-Value Spices & Processing",
+    "description": "Aims to increase ginger yield, eliminate disease in seed ginger, and build processing facilities to produce ginger powder, oil, and candy for export.",
+    "benefits": "Subsidized disease-free organic seed ginger, 50% subsidy on ginger processing and washing machines, and free organic certification.",
+    "eligibility": [
+      "Farmers and farmer cooperatives in major ginger-growing districts like Ri-Bhoi, West Garo Hills, and East Khasi Hills"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Village Headman Land Identity Certificate",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via District Horticulture Office / MBDA Office",
+    "official_website": "https://meghagri.gov.in",
+    "last_updated": "2026-05-18"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Meghalaya Piggery Mission (Pork Self-Sufficiency Scheme)",
+    "state": "Meghalaya",
+    "category": "Animal Husbandry & Livestock",
+    "description": "A major initiative funded in partnership with NCDC to achieve self-sufficiency in pork production by supporting commercial pig breeding, fattening, and processing units.",
+    "benefits": "Interest-free / highly subsidized loans, up to 50% capital grant for establishing 3-sow or 10-sow pig breeding units, plus free pig insurance and vaccination.",
+    "eligibility": [
+      "Permanent residents of Meghalaya, Cooperative Societies, Producer Groups, and individual livestock farmers"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Residential Certificate / Epic Copy",
+      "Land Availability Proof or Headman Certificate for Pig Shed",
+      "Bank Account Details / Passbook"
+    ],
+    "application_mode": "Offline via District AH & Veterinary Officer / Meghalaya Livestock Enterprises Federation",
+    "official_website": "https://megahvet.gov.in",
+    "last_updated": "2026-06-12"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Meghalaya Mushroom Mission",
+    "state": "Meghalaya",
+    "category": "Horticulture & Supplementary Farming",
+    "description": "Promotes commercial mushroom farming (Oyster, Button, Shiitake) to augment farm incomes, combat malnutrition, and create year-round employment.",
+    "benefits": "75% subsidy on mushroom spawn production units, substrate preparation units, and climate-controlled mushroom cultivation sheds.",
+    "eligibility": [
+      "Smallholders, landless laborers, women SHGs, and rural youth residing in Meghalaya"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Village Headman Certificate",
+      "Mushroom Training Completion Certificate",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via District Horticulture Officer / Mushroom Development Center Shillong",
+    "official_website": "https://meghagri.gov.in",
+    "last_updated": "2026-05-22"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Meghalaya Honey Mission (Apiculture Promotion)",
+    "state": "Meghalaya",
+    "category": "Beekeeping & Value Addition",
+    "description": "Supports scientific apiculture to produce pure forest and wildflower honey, boosting crop pollination and generating supplementary rural livelihoods.",
+    "benefits": "80% subsidy on scientific bee boxes, colonies, honey extraction equipment, and free technical training provided by the Commerce & Industries / Agriculture Dept.",
+    "eligibility": [
+      "Individual farmers, rural youth, and SHGs residing in Meghalaya"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Village Headman Identity Certificate",
+      "Bank Passbook Details"
+    ],
+    "application_mode": "Offline via District Commerce & Industries Centre (DCIC) / District Horticulture Office",
+    "official_website": "https://mbda.gov.in",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Sub-Mission on Agricultural Mechanization (SMAM - Meghalaya)",
+    "state": "Meghalaya",
+    "category": "Farm Mechanization",
+    "description": "Provides financial subsidies on power tillers, power weeders, mini-tractors, and brush cutters tailored for Meghalaya's hilly terrace topography.",
+    "benefits": "50% to 80% subsidy for individual tribal farmers and up to 80% subsidy for establishing Custom Hiring Centers (CHCs) by Producer Groups.",
+    "eligibility": [
+      "Farmers owning or cultivating agricultural land in Meghalaya, SHGs, and registered Producer Groups"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Document / Headman Certificate",
+      "Dealer Quotation for Machinery",
+      "Bank Passbook Details"
+    ],
+    "application_mode": "Online via Agmachinery Portal / Offline via District Agriculture Officer (DAO)",
+    "official_website": "https://meghagri.gov.in",
+    "last_updated": "2026-05-28"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Meghalaya Integrated Aquaculture Development Project (Fish Mission)",
+    "state": "Meghalaya",
+    "category": "Fisheries & Inland Aquaculture",
+    "description": "Promotes fish farming in individual and community ponds, high-altitude trout culture, and paddy-cum-fish culture to meet regional fish demand.",
+    "benefits": "60% to 75% capital subsidy for excavating new fish ponds, fingerlings, fish feed, and water quality testing kits.",
+    "eligibility": [
+      "Landowners, farmer groups, and unemployed youth in Meghalaya with suitable land and water sources"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Possession Certificate / Village Headman NOC",
+      "Bank Account Passbook",
+      "Site Inspection Report by Fisheries Officer"
+    ],
+    "application_mode": "Offline via District Fisheries Development Officer (DFDO)",
+    "official_website": "https://meghfisheries.gov.in",
+    "last_updated": "2026-06-15"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Protected Cultivation & Polyhouse Scheme (Meghalaya Horticulture)",
+    "state": "Meghalaya",
+    "category": "Controlled Environment Agriculture",
+    "description": "Encourages off-season vegetable growing (capsicum, tomato, cucumber) and cut flowers (carnations, gerbera) under polyhouses and shade-net structures.",
+    "benefits": "50% to 70% capital grant for installing tubular polyhouse structures, drip irrigation systems, and high-yielding seeds.",
+    "eligibility": [
+      "Horticulture farmers and Producer Groups in Meghalaya with permanent water and land access"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Ownership Proof / Headman Certificate",
+      "Polyhouse Blueprint & Dealer Quotation",
+      "Bank Passbook Details"
+    ],
+    "application_mode": "Offline via District Horticulture Office / MBDA",
+    "official_website": "https://meghagri.gov.in",
+    "last_updated": "2026-04-25"
+  },
+  {
+    "id": 10,
+    "scheme_name": "PM-KUSUM Off-Grid Solar Water Pumping Scheme (Meghalaya Component)",
+    "state": "Meghalaya",
+    "category": "Renewable Energy & Irrigation",
+    "description": "Installs standalone solar-powered pumpsets in off-grid hilly agricultural areas to ensure reliable irrigation for high-value horticulture crops.",
+    "benefits": "Up to 85% total subsidy (combined central and state funds) on standalone solar pumpsets (2 HP to 5 HP).",
+    "eligibility": [
+      "Farmers owning land in Meghalaya with access to surface water or open wells lacking grid power"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Ownership Document / Headman Certificate",
+      "Self-Declaration of No Existing Electric Pump Connection",
+      "Bank Passbook Details"
+    ],
+    "application_mode": "Offline via MNREDA (Meghalaya Non-Conventional and Rural Energy Development Agency) / District Agriculture Office",
+    "official_website": "https://mnreda.gov.in",
+    "last_updated": "2026-05-10"
+  }
+]

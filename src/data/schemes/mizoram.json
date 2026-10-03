@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Bana Lutu / Handholding Scheme (formerly SEDP Agriculture)",
+    "state": "Mizoram",
+    "category": "Direct Income & Livelihood Support",
+    "description": "The flagship program of the Government of Mizoram aimed at transforming rural livelihoods by offering financial grants, technical guidance, and direct marketing support to settled agricultural households.",
+    "benefits": "Financial assistance of up to ₹50,000 per selected family for input purchases, crop diversification, and setting up small agro-enterprises.",
+    "eligibility": [
+      "Permanent resident agricultural households of Mizoram practicing settled farming",
+      "Priority given to BPL families transitioning away from slash-and-burn (Jhum) cultivation"
+    ],
+    "documents": [
+      "Voter ID / Domicile Certificate of Mizoram",
+      "Aadhaar Card Copy",
+      "Village Council Letter / Land Settlement Certificate (LSC)",
+      "Aadhaar-linked Bank Account Passbook"
+    ],
+    "application_mode": "Offline via Village Council Development Committee (VCDC) / Block Development Office",
+    "official_website": "https://agriculture.mizoram.gov.in",
+    "last_updated": "2026-06-18"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Mission Organic Value Chain Development for North Eastern Region (MOVCDNER-Mizoram)",
+    "state": "Mizoram",
+    "category": "Organic Farming & Export Promotion",
+    "description": "Develops certified organic commodity clusters for signature regional crops like Mizo Chili (Bird's Eye Chili), Ginger, Turmeric, and Passion Fruit.",
+    "benefits": "Financial grant of ₹45,000 per hectare spread over 3 years for organic seeds/inputs, free group NPOP/PGS organic certification, and processing equipment subsidies.",
+    "eligibility": [
+      "Farmers registered under Farmer Interest Groups (FIGs) or Farmer Producer Companies (FPCs) in designated organic clusters in Mizoram"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Holding Document / LSC Copy",
+      "FIG / FPC Membership Certificate",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Mizoram Organic Mission (MOM) / District Agriculture Office",
+    "official_website": "https://mizoramorganic.mizoram.gov.in",
+    "last_updated": "2026-06-05"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Mizoram Oil Palm Cultivation Mission",
+    "state": "Mizoram",
+    "category": "High-Value Commercial Crop",
+    "description": "Promotes oil palm plantations across suitable low-altitude hill slopes and valley areas to boost farmer incomes and replace unstable shifting cultivation.",
+    "benefits": "100% subsidy on high-yielding oil palm sprouts/saplings, maintenance subsidy of ₹5,200 per hectare per year for 4 years, and guaranteed fresh fruit bunch (FFB) buyback.",
+    "eligibility": [
+      "Farmers holding suitable land with LSC or Village Council Allotment in designated oil palm districts of Mizoram"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Passbook / Land Settlement Certificate (LSC)",
+      "Bank Account Details",
+      "Village Council Recommendation Letter"
+    ],
+    "application_mode": "Offline through District Agriculture Officer (DAO) / Oil Palm Processing Partner Offices",
+    "official_website": "https://agriculture.mizoram.gov.in",
+    "last_updated": "2026-05-28"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Integrated Horticulture Development Scheme (Polyhouse & Floriculture)",
+    "state": "Mizoram",
+    "category": "Protected Cultivation & Floriculture",
+    "description": "Encourages commercial flower cultivation (Anthurium, Cymbidium Orchids) and off-season vegetable farming under polyhouses and shade nets.",
+    "benefits": "50% to 75% capital subsidy for installing polyhouses, shade-net structures, and micro-irrigation systems, along with subsidized high-value planting material.",
+    "eligibility": [
+      "Horticulture farmers and women SHGs residing in Mizoram with dedicated land and water access"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "LSC / Land Revenue Document",
+      "Polyhouse Quotation & Layout Blueprint",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via District Horticulture Officer (DHO) / Directorate of Horticulture",
+    "official_website": "https://horticulture.mizoram.gov.in",
+    "last_updated": "2026-06-12"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Sub-Mission on Agricultural Mechanization (SMAM - Mizoram)",
+    "state": "Mizoram",
+    "category": "Farm Mechanization",
+    "description": "Provides financial subsidies on power tillers, brush cutters, mini-paddy threshers, and power weeders engineered specifically for Mizoram's steep terrain.",
+    "benefits": "50% to 80% subsidy for individual smallholders and up to 80% subsidy for establishing Custom Hiring Centers (CHCs) operated by SHGs/Cooperatives.",
+    "eligibility": [
+      "Farmers owning or cultivating agricultural land in Mizoram, registered SHGs, and cooperatives"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "LSC / Village Council Certificate",
+      "Equipment Proforma Invoice from Authorized Dealer",
+      "Bank Passbook Details"
+    ],
+    "application_mode": "Online via Agmachinery Portal / Offline via District Agriculture Office",
+    "official_website": "https://agriculture.mizoram.gov.in",
+    "last_updated": "2026-05-15"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Backyard Piggery & Poultry Development Scheme",
+    "state": "Mizoram",
+    "category": "Animal Husbandry & Livestock",
+    "description": "Provides high-quality piglet breeding stock, day-old chicks, and feed subsidies to rural families to support meat self-sufficiency and family income.",
+    "benefits": "50% to 75% subsidy on purchasing piglets/chicks, construction of pig/poultry shelters, and free animal vaccination/deworming support.",
+    "eligibility": [
+      "Permanent resident families of Mizoram with space for livestock rearing"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Voter ID / Mizoram Domicile Proof",
+      "Village Council Recommendation Letter",
+      "Bank Passbook Copy"
+    ],
+    "application_mode": "Offline via District AH & Veterinary Officer / AH&Veti Department",
+    "official_website": "https://ahvet.mizoram.gov.in",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Mizoram Dragon Fruit & Tropical Fruits Promotion Scheme",
+    "state": "Mizoram",
+    "category": "Horticulture Development",
+    "description": "Supports the expansion of high-value tropical fruits like Dragon Fruit, Passion Fruit, and Mandarin Orange across well-drained hill slopes.",
+    "benefits": "Subsidy up to ₹1,20,000 per hectare for concrete trellis installation, planting material, and drip irrigation setup.",
+    "eligibility": [
+      "Land-owning farmers in Mizoram registering for fresh fruit orchard establishment"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "LSC / Land Allotment Document",
+      "Bank Account Details",
+      "Field Inspection Report by Horticulture Officer"
+    ],
+    "application_mode": "Offline via District Horticulture Office",
+    "official_website": "https://horticulture.mizoram.gov.in",
+    "last_updated": "2026-05-10"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Mizoram Fish Farmer Development Agency (FFDA) Pond Scheme",
+    "state": "Mizoram",
+    "category": "Fisheries & Inland Aquaculture",
+    "description": "Supports construction of new fish ponds, renovation of existing ponds, and paddy-cum-fish culture in plain and valley areas.",
+    "benefits": "40% subsidy for General category and 60% subsidy for SC/ST/Women on constructing new fish ponds, purchasing fish seed, and fish feed.",
+    "eligibility": [
+      "Individual farmers, youth groups, and cooperatives in Mizoram owning suitable land with perennial water sources"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "LSC / Village Council Land Certificate",
+      "Bank Passbook Details",
+      "Water Availability Certificate"
+    ],
+    "application_mode": "Offline via District Fisheries Development Officer (DFDO)",
+    "official_website": "https://fisheries.mizoram.gov.in",
+    "last_updated": "2026-06-10"
+  },
+  {
+    "id": 9,
+    "scheme_name": "PM-KUSUM Off-Grid Solar Pumpset Scheme (Mizoram Component)",
+    "state": "Mizoram",
+    "category": "Renewable Energy & Off-Grid Power",
+    "description": "Provides standalone solar-powered water pumpsets to farmers on remote hill slopes where conventional electricity grid connection is absent.",
+    "benefits": "Up to 85% financial subsidy (combined central and state grant) on standalone solar water pumpsets (2 HP to 5 HP capacity).",
+    "eligibility": [
+      "Farmers owning land in Mizoram with access to streams, rivers, or open wells lacking grid power"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "LSC / Land Possession Certificate",
+      "Self-Declaration of No Existing Electric Pump Connection",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via ZEDA (Zoram Energy Development Agency) / District Agriculture Office",
+    "official_website": "https://zeda.mizoram.gov.in",
+    "last_updated": "2026-04-20"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Sloping Agricultural Land Technology (SALT) & Soil Conservation Scheme",
+    "state": "Mizoram",
+    "category": "Soil Conservation & Watershed Management",
+    "description": "Promotes SALT farming techniques, contour hedgerows, and bench terracing to prevent soil erosion, retain soil nutrients, and restore degraded hill slopes.",
+    "benefits": "80% financial subsidy for constructing terraced fields, contour bunding, and planting nitrogen-fixing hedgerow plants.",
+    "eligibility": [
+      "Farmers practicing hill slope farming in Mizoram"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "LSC / Village Council Land Record",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via District Officer (Directorate of Soil & Water Conservation)",
+    "official_website": "https://soil.mizoram.gov.in",
+    "last_updated": "2026-05-18"
+  }
+]

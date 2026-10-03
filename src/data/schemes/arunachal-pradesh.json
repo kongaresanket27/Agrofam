@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+    "state": "Arunachal Pradesh",
+    "category": "Agricultural Credit & Interest Subvention",
+    "description": "Provides crop loans and short-term agricultural credit to farmers at 0% effective interest rate by offering state interest subvention on top of central crop loan schemes.",
+    "benefits": "100% interest subvention (0% effective interest rate) on timely repaid agricultural crop loans up to ₹3,00,000.",
+    "eligibility": [
+      "Farmers, tenant cultivators, and Self Help Groups (SHGs) involved in agriculture in Arunachal Pradesh holding Kisan Credit Cards (KCC)"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Kisan Credit Card (KCC) Details",
+      "Land Possession Certificate (LPC) / Land Records",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via Commercial Banks / Regional Rural Banks (APStRBN) / Deputy Commissioner (DC) Office",
+    "official_website": "https://arunachalpradesh.gov.in",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Atma Nirbhar Krishi Yojana (ANKY)",
+    "state": "Arunachal Pradesh",
+    "category": "Farm Mechanization & Direct Subsidy",
+    "description": "A front-ended credit-linked subsidy scheme aimed at boosting farm mechanization, seed support, and post-harvest infrastructure for farmers across the state.",
+    "benefits": "45% Government Subsidy, 45% Bank Credit Loan, and only 10% Beneficiary Contribution for agricultural equipment and inputs.",
+    "eligibility": [
+      "Individual farmers, Farmers Producer Organizations (FPOs), SHGs, and Agri-cooperatives resident in Arunachal Pradesh"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Possession Certificate (LPC)",
+      "ST Certificate (if applicable)",
+      "Bank Account Passbook and Quotation for Implements"
+    ],
+    "application_mode": "Online via ANKY Portal / District Agriculture Officer (DAO) Office",
+    "official_website": "https://agri.arunachal.gov.in",
+    "last_updated": "2026-06-30"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Chief Minister’s Plantation Scheme (Kiwi, Large Cardamom & Tea)",
+    "state": "Arunachal Pradesh",
+    "category": "Horticulture & Cash Crop Promotion",
+    "description": "Promotes high-value horticulture crops like Kiwi, Large Cardamom, Orange, and Tea by providing subsidised quality planting material and establishment grants.",
+    "benefits": "Up to 50% capital and input subsidy for orchard establishment, fencing, and drip irrigation installation.",
+    "eligibility": [
+      "Small and marginal farmers owning suitable land in mid and high-altitude zones of Arunachal Pradesh"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Possession Certificate (LPC)",
+      "Bank Account Passbook",
+      "Passport Size Photographs"
+    ],
+    "application_mode": "Offline via District Horticulture Officer (DHO) / Circle Officer",
+    "official_website": "https://horticulture.arunachal.gov.in",
+    "last_updated": "2026-06-18"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Atma Nirbhar Bagwani Yojana (ANBY)",
+    "state": "Arunachal Pradesh",
+    "category": "Horticulture Infrastructure & Credit",
+    "description": "A financial scheme designed to increase production of commercial fruits (Apple, Walnut, Kiwi, Orange) with structured bank loans and heavy state subsidies.",
+    "benefits": "45% State Subsidy + 45% Bank Loan + 10% Farmers' contribution for orchard setup and micro-irrigation equipment.",
+    "eligibility": [
+      "Individual farmers, SHGs, and registered horticulture cooperatives in Arunachal Pradesh"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Possession Certificate (LPC)",
+      "Bank Account Details",
+      "Project Plan / Quotation"
+    ],
+    "application_mode": "Online / Offline via District Horticulture Office",
+    "official_website": "https://horticulture.arunachal.gov.in",
+    "last_updated": "2026-05-25"
+  }
+]

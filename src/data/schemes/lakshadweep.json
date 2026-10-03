@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Lakshadweep Organic Coconut Farming & Development Scheme",
+    "state": "Lakshadweep (UT)",
+    "category": "Organic Farming & Horticulture",
+    "description": "Supports local islanders in maintaining 100% organic status for coconut cultivation through certified high-yielding dwarf/hybrid seedlings, bio-inputs, micro-irrigation, and solar copra processing equipment.",
+    "benefits": "50% capital subsidy on dwarf/hybrid coconut seedlings, organic input kits, copra dryers, and virgin coconut oil (VCO) processing units.",
+    "eligibility": [
+      "Native landholders and registered coconut growers in Lakshadweep UT.",
+      "Must commit to 100% organic agricultural practices with zero chemical inputs."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Ownership Record (Pattayam / Island Land Record)",
+      "Bank Account Details",
+      "Organic Farmer Registration Proof"
+    ],
+    "application_mode": "Offline via Department of Agriculture, UT Administration Lakshadweep",
+    "official_website": "https://lakshadweep.gov.in",
+    "last_updated": "2026-05-27"
+  },
+  {
+    "id": 2,
+    "scheme_name": "PM Matsya Sampada Yojana (PMMSY - Lakshadweep Chapter)",
+    "state": "Lakshadweep (UT)",
+    "category": "Fisheries & Marine Livelihoods",
+    "description": "Customized central scheme for island fisherfolk to modernize deep-sea tuna fishing, establish seaweed culture, install modern fish processing/drying infrastructure, and improve safety at sea.",
+    "benefits": "40% subsidy for General category and 60% subsidy for Women/ST beneficiaries for motorized/deep-sea fishing boats, safety gear, solar fish dryers, and seaweed farming rafts.",
+    "eligibility": [
+      "Resident fishermen, fish farmers, traditional tuna fishers, and Self-Help Groups (SHGs) in Lakshadweep.",
+      "Valid Fishermen Identity Card issued by Lakshadweep Fisheries Department."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Fisherman Biometric ID Card",
+      "Bank Account Details",
+      "Project Proposal for Unit/Boat Purchase"
+    ],
+    "application_mode": "Offline/Online via Department of Fisheries, Kavaratti / Respective Island Administration",
+    "official_website": "https://pmmsy.dof.gov.in",
+    "last_updated": "2026-06-10"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Lakshadweep Coconut Climbers & Tappers Welfare Scheme",
+    "state": "Lakshadweep (UT)",
+    "category": "Occupational Safety & Social Security",
+    "description": "Provides occupational safety equipment, free personal insurance coverage, and harvesting incentives to traditional coconut climbers and Neera tappers across all inhabited islands.",
+    "benefits": "Free hydraulic/mechanical palm climbing safety gear, ₹5 Lakh comprehensive personal accident insurance cover, and financial assistance per palm harvested/tapped.",
+    "eligibility": [
+      "Native residents engaged in coconut palm harvesting or Neera tapping in Lakshadweep UT.",
+      "Registered with the local Dweep Panchayat Agriculture Wing."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Dweep Panchayat Residence Certificate",
+      "Bank Account Details",
+      "Registration Certificate as Palm Climber"
+    ],
+    "application_mode": "Offline through Dweep Panchayats / Island Agricultural Extension Officers",
+    "official_website": "https://lakshadweep.gov.in",
+    "last_updated": "2026-04-15"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Lakshadweep Fishermen Cooperative Loan & Boat Subsidy Scheme",
+    "state": "Lakshadweep (UT)",
+    "category": "Fisheries Credit & Capital Assistance",
+    "description": "Offers low-interest revolving credit and equipment subsidies through primary fishermen cooperative societies for acquiring navigational equipment, nets, and outboard motors.",
+    "benefits": "Low-interest loans up to ₹2 Lakh at 4% interest per annum along with up to 50% capital subsidy on OBM (Outboard Motors) and navigational GPS/Sonar units.",
+    "eligibility": [
+      "Active members of registered Fishermen Cooperative Societies in Lakshadweep.",
+      "Resident of any of the 10 inhabited islands."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Fishermen Cooperative Membership Card",
+      "Bank Passbook",
+      "Vessel Registration Certificate (if applicable)"
+    ],
+    "application_mode": "Offline via Island Primary Fishermen Cooperative Societies",
+    "official_website": "https://lakshadweep.gov.in",
+    "last_updated": "2026-05-18"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Lakshadweep Island Development Higher Education Scholarship",
+    "state": "Lakshadweep (UT)",
+    "category": "Education & Student Welfare",
+    "description": "Financial aid for native students of Lakshadweep who travel to mainland India (Kerala, Tamil Nadu, etc.) to pursue undergraduate, professional, and postgraduate higher education.",
+    "benefits": "Annual scholarship stipend up to ₹18,000 to ₹25,000 per year covering mainland travel, hostel accommodation, and education expenses.",
+    "eligibility": [
+      "Native Scheduled Tribe (ST) students domiciled in Lakshadweep UT.",
+      "Enrolled in recognized higher education courses in mainland institutions."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Lakshadweep Native ST Certificate",
+      "College Admission & Fee Receipt (Mainland Institute)",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via National Scholarship Portal (NSP) / UT Education Directorate",
+    "official_website": "https://scholarships.gov.in",
+    "last_updated": "2026-05-20"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Kisan Credit Card (KCC) for Marine Fishery & Agriculture - Lakshadweep",
+    "state": "Lakshadweep (UT)",
+    "category": "Agricultural & Marine Credit",
+    "description": "Extends short-term working capital credit to traditional island farmers, coconut growers, and marine fishermen at subsidized interest rates.",
+    "benefits": "Revolving credit limit up to ₹3 Lakh at an effective interest rate of 4% per annum (after 3% prompt repayment incentive).",
+    "eligibility": [
+      "Island farmers, coconut landholders, and marine fishermen operating in UT Lakshadweep.",
+      "No default history in local cooperative or commercial banks."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Record / Fishing Boat Registration Certificate",
+      "Passport Size Photos",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline through Syndicate Bank / Canara Bank / SBI branches in Lakshadweep",
+    "official_website": "https://lakshadweep.gov.in",
+    "last_updated": "2026-03-22"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Lakshadweep Eco-Tourism & Island Homestay Incentive Scheme",
+    "state": "Lakshadweep (UT)",
+    "category": "Tourism & Self-Employment",
+    "description": "Encourages native island youth and local households to establish regulated, sustainable eco-homestays and water sports ventures to boost local tourism revenue.",
+    "benefits": "Capital financial grant up to ₹2 Lakh for homestay interior renovation, eco-toilet setup, and certified water sports operator training.",
+    "eligibility": [
+      "Native Lakshadweep residents owning residential property suitable for homestays.",
+      "Must adhere to Lakshadweep Eco-Tourism guidelines and environmental clearance norms."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Property Ownership / Native Domicile Proof",
+      "Homestay Registration Form with UT Tourism Dept",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Society for Promotion of Nature Tourism & Sports (SPORTS) / Tourism Dept",
+    "official_website": "https://lakshadweep.gov.in",
+    "last_updated": "2026-05-12"
+  },
+  {
+    "id": 8,
+    "scheme_name": "PM Vishwakarma Scheme (Lakshadweep Artisans Chapter)",
+    "state": "Lakshadweep (UT)",
+    "category": "Traditional Crafts & Artisans",
+    "description": "Provides end-to-end support to traditional boat builders, coir artisans, net weavers, and wood carvers native to Lakshadweep.",
+    "benefits": "₹15,000 toolkit grant, free skill training with ₹500/day stipend, and collateral-free loan up to ₹3 Lakh at 5% interest rate.",
+    "eligibility": [
+      "Native artisans practicing one of 18 eligible trades (e.g., boat makers, coir craftspersons).",
+      "Minimum age 18 years; restricted to one person per household."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Ration Card / Native Certificate",
+      "Bank Account Details",
+      "Trade Practice Self-Declaration"
+    ],
+    "application_mode": "Online via PM Vishwakarma Portal / CSCs on islands",
+    "official_website": "https://pmvishwakarma.gov.in",
+    "last_updated": "2026-06-05"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Lakshadweep Social Security Pension Scheme",
+    "state": "Lakshadweep (UT)",
+    "category": "Social Security & Old Age Welfare",
+    "description": "UT-administered welfare pension scheme providing direct financial assistance to senior citizens, widows, and persons with benchmark disabilities residing across the islands.",
+    "benefits": "Direct Benefit Transfer (DBT) of ₹1,500 per month directly into beneficiary bank accounts.",
+    "eligibility": [
+      "Permanent resident senior citizens (aged 60+), widows, or disabled individuals (40%+ disability).",
+      "Must belong to Low Income / BPL households on the island."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Age Proof / Disability Certificate / Widow Certificate",
+      "Island Domicile Certificate",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via Directorate of Social Welfare & Tribal Affairs, Kavaratti",
+    "official_website": "https://lakshadweep.gov.in",
+    "last_updated": "2026-05-30"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Sub-Mission on Agricultural Mechanization (SMAM - Lakshadweep Island Edition)",
+    "state": "Lakshadweep (UT)",
+    "category": "Farm Machinery & Coir Processing Subsidy",
+    "description": "Provides specialized, light-weight agricultural machinery suitable for sandy coral soil and island conditions, including coir defibering machines, shredders, and mini-cultivators.",
+    "benefits": "50% to 60% capital financial subsidy on approved light farm and coir-processing machinery.",
+    "eligibility": [
+      "Small and marginal island farmers, women SHGs, and agricultural coir worker groups."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Island Land Record",
+      "Bank Account Details",
+      "Category / ST Certificate"
+    ],
+    "application_mode": "Online via Farmech Agri Machinery Portal / Island Agriculture Officer",
+    "official_website": "https://agrimachinery.nic.in",
+    "last_updated": "2026-04-02"
+  }
+]

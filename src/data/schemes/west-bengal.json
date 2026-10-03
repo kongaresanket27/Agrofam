@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Krishak Bandhu (Kamiya)",
+    "state": "West Bengal",
+    "category": "Direct Cash Transfer & Social Security",
+    "description": "Provides dual benefits of annual crop investment support and life insurance coverage to farmers and sharecroppers across West Bengal.",
+    "benefits": "Financial assistance of ₹10,000/year (minimum ₹4,000/year for small holdings) in two installments, plus ₹2,00,000 death benefit insurance cover.",
+    "eligibility": [
+      "Landowning farmers and registered sharecroppers (Bargadars) in West Bengal aged 18 to 60 years"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "RoR / Khatian Copy / Barga Registration Certificate",
+      "Voter ID (EPIC)",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via Krishak Bandhu Portal / Duare Sarkar Camps",
+    "official_website": "https://krishakbandhu.wb.gov.in",
+    "last_updated": "2026-06-18"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Bangla Shasya Bima (BSB)",
+    "state": "West Bengal",
+    "category": "Crop Insurance",
+    "description": "A state-sponsored crop insurance program covering crop loss due to adverse weather events with no premium cost for farmers.",
+    "benefits": "100% premium cost borne by the West Bengal government for all notified food and oilseed crops; direct financial compensation for loss.",
+    "eligibility": [
+      "All farmers (owner-cultivators, sharecroppers, and tenant farmers) cultivating notified crops in West Bengal"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Record (Khatian/Porcha) or Barga Certificate",
+      "Sowing Certificate from local Krishi Prajukti Sahayak (KPS)",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online via BSB Portal / Block Development Office",
+    "official_website": "https://banglashasyabima.net",
+    "last_updated": "2026-05-28"
+  },
+  {
+    "id": 3,
+    "scheme_name": "West Bengal Farm Mechanization Scheme (FSM)",
+    "state": "West Bengal",
+    "category": "Farm Mechanization",
+    "description": "Offers subsidies for purchasing small equipment, power tillers, and setting up Custom Hiring Centers (CHCs) to encourage mechanized farming.",
+    "benefits": "50% to 60% subsidy (up to ₹3,00,000) for machinery and up to 40% grant (up to ₹10,00,000) for CHC establishment.",
+    "eligibility": [
+      "Individual farmers, Farmer Producer Organizations (FPOs), and SHGs registered on the Matir Katha portal"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Khatian / Porcha Extract",
+      "Proforma Invoice",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via Matir Katha Portal",
+    "official_website": "https://matirkatha.gov.in",
+    "last_updated": "2026-06-05"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Matir Srishti Scheme",
+    "state": "West Bengal",
+    "category": "Land Transformation & Horticulture",
+    "description": "Transforms barren and red-laterite soil lands across western districts into productive horticulture and animal husbandry hubs.",
+    "benefits": "Free distribution of fruit saplings, soil conditioning support, drip irrigation installation, and micro-credit access.",
+    "eligibility": [
+      "Farmers owning underutilized or barren land in Bankura, Purulia, Jhargram, Birbhum, and Paschim Medinipur"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Record (Khatian)",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Block Development Office (BDO) / Duare Sarkar",
+    "official_website": "https://wb.gov.in",
+    "last_updated": "2026-04-10"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Amar Fasal Amar Gola",
+    "state": "West Bengal",
+    "category": "Post-Harvest Storage & Infrastructure",
+    "description": "Provides financial support to build post-harvest storage structures like low-cost grain stores, onion storage units, and seed stores.",
+    "benefits": "Financial subsidy ranging from ₹5,000 to ₹25,000 depending on the type and storage capacity of the structure built.",
+    "eligibility": [
+      "Small and marginal farmers holding registered agricultural land in West Bengal"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Record Copy",
+      "Voter ID",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Assistant Director of Agriculture (ADA) Block Office",
+    "official_website": "https://matirkatha.gov.in",
+    "last_updated": "2026-05-12"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Jal Dharo Jal Bharo",
+    "state": "West Bengal",
+    "category": "Irrigation & Water Conservation",
+    "description": "Promotes rainwater harvesting and farm-pond creation to ensure year-round irrigation availability for agricultural lands.",
+    "benefits": "100% state funding or direct assistance up to ₹1,50,000 for digging dedicated farm ponds and water retention tanks.",
+    "eligibility": [
+      "Farmers and landowners in West Bengal with suitable land for pond excavation"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Ownership Record (Porcha)",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via Water Resources Investigation & Development Department",
+    "official_website": "https://wb.gov.in",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Sufal Bangla Infrastructure & Market Linkage",
+    "state": "West Bengal",
+    "category": "Marketing & Price Realization",
+    "description": "Facilitates direct sales of farm produce from growers to urban consumers through state-managed retail outlets and mobile vans.",
+    "benefits": "Direct procurement at fair prices, eliminating middleman commissions; subsidies on mobile vending vehicles for FPOs.",
+    "eligibility": [
+      "Farmers, Farmer Producer Organizations (FPOs), and Self-Help Groups (SHGs) in West Bengal"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Farmer Registration ID / FPO Registration Certificate",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online / Offline via Sufal Bangla Project Management Unit",
+    "official_website": "https://sufalbangla.in",
+    "last_updated": "2026-05-22"
+  },
+  {
+    "id": 8,
+    "scheme_name": "West Bengal Cattle & Livestock Distribution Scheme",
+    "state": "West Bengal",
+    "category": "Animal Husbandry & Allied Agriculture",
+    "description": "Distributes high-yielding milch cows, goats, and poultry to rural farming families to supplement farm income.",
+    "benefits": "Up to 80% to 100% subsidized distribution of livestock units and free veterinary health support.",
+    "eligibility": [
+      "Small, marginal, and landless agricultural laborers in West Bengal with preference given to women"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Ration Card / Caste Certificate",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Block Livestock Development Officer (BLDO)",
+    "official_website": "https://ard.wb.gov.in",
+    "last_updated": "2026-04-18"
+  },
+  {
+    "id": 9,
+    "scheme_name": "State Tea Garden Workers & Small Tea Growers Assistance",
+    "state": "West Bengal",
+    "category": "Specialty Crop Support",
+    "description": "Provides specialized input incentives, green leaf price protection, and equipment support to small tea growers (STGs) in North Bengal.",
+    "benefits": "Subsidized fertilizers, tea pruning tools, and financial grants for organic certification.",
+    "eligibility": [
+      "Small tea growers holding land up to 10.12 hectares registered with the Tea Board / WB Agri Department"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Tea Board / Small Tea Grower Registration",
+      "Land Ownership Certificate",
+      "Bank Passbook"
+    ],
+    "application_mode": "Offline via District Agricultural Office (North Bengal Districts)",
+    "official_website": "https://matirkatha.gov.in",
+    "last_updated": "2026-05-05"
+  },
+  {
+    "id": 10,
+    "scheme_name": "State Inland Fisheries & Pisciculture Support",
+    "state": "West Bengal",
+    "category": "Fisheries Development",
+    "description": "Offers assistance for fish pond re-excavation, supply of high-quality fingerlings, and fish feed to small scale aquaculture farmers.",
+    "benefits": "50% financial subsidy on input purchases (fish seed/feed) and technical aid for brackish and freshwater fish farming.",
+    "eligibility": [
+      "Fish farmers, fishers' cooperatives, and pond owners/lessees in West Bengal"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Pond Ownership Record or Lease Agreement",
+      "Bank Passbook"
+    ],
+    "application_mode": "Offline via Assistant Director of Fisheries (ADF) at Block Level",
+    "official_website": "https://wbfisheries.in",
+    "last_updated": "2026-06-14"
+  }
+]

@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Shetkari Adhar Yojana (SAY)",
+    "state": "Goa",
+    "category": "Income Support & Price Stabilization",
+    "description": "Provides financial compensation to farmers during severe crop loss caused by natural calamities, wildlife damage, or unseasonal weather.",
+    "benefits": "Financial assistance ranging from ₹20,000 to ₹1,00,000 per hectare depending on the crop and extent of damage.",
+    "eligibility": [
+      "Farmers residing in Goa with registered agriculture land or Krishi Card",
+      "Cultivators of paddy, sugarcane, cashew, coconut, spices, and vegetables"
+    ],
+    "documents": [
+      "Krishi Card / Farmer ID",
+      "Land Ownership Document (Form I & XIV) / Lease Deed",
+      "Aadhaar Card Copy",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via Zonal Agricultural Office (ZAO)",
+    "official_website": "https://agri.goa.gov.in",
+    "last_updated": "2026-06-10"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Assistance for Fencing / Crop Protection Scheme",
+    "state": "Goa",
+    "category": "Infrastructure & Crop Protection",
+    "description": "Offers subsidy for constructing perimeter fencing (solar, chain-link, or bio-fencing) to protect crops from wild animals like wild boars and stray cattle.",
+    "benefits": "75% to 90% subsidy on total cost of chain-link, stone masonry, or solar fencing installation.",
+    "eligibility": [
+      "Individual farmers, farmer groups, or tenant farmers holding Krishi Card in Goa"
+    ],
+    "documents": [
+      "Krishi Card",
+      "Form I & XIV / Land Record Copy",
+      "Aadhaar Card Copy",
+      "Estimate and Invoice from Approved Vendor"
+    ],
+    "application_mode": "Offline via Zonal Agricultural Office (ZAO)",
+    "official_website": "https://agri.goa.gov.in",
+    "last_updated": "2026-05-18"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Cashew Rejuvenation & Plantation Scheme",
+    "state": "Goa",
+    "category": "Horticulture",
+    "description": "Encourages cashew cultivation by offering subsidies for fresh cashew planting, high-yielding graft varieties, and rejuvenating old unproductive cashew orchards.",
+    "benefits": "Subsidy up to ₹40,000 per hectare for planting high-yielding cashew grafts and maintaining orchards.",
+    "eligibility": [
+      "Goan farmers owning land suitable for cashew cultivation holding a Krishi Card"
+    ],
+    "documents": [
+      "Krishi Card",
+      "Form I & XIV (Land Document)",
+      "Bank Account Details",
+      "Aadhaar Card Copy"
+    ],
+    "application_mode": "Offline via Zonal Agricultural Office (ZAO)",
+    "official_website": "https://agri.goa.gov.in",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Organic Farming & Vermicomposting Subsidy Scheme",
+    "state": "Goa",
+    "category": "Organic Farming & Soil Health",
+    "description": "Promotes eco-friendly agricultural practices by subsidizing the construction of organic manure units, vermicompost units, and organic certification.",
+    "benefits": "50% subsidy up to ₹50,000 for constructing permanent vermicompost units and purchasing organic inputs.",
+    "eligibility": [
+      "Registered Goan farmers practicing or adopting organic farming methods"
+    ],
+    "documents": [
+      "Krishi Card",
+      "Form I & XIV Land Record",
+      "Aadhaar Card Copy",
+      "Bank Passbook"
+    ],
+    "application_mode": "Offline via Zonal Agricultural Office (ZAO)",
+    "official_website": "https://agri.goa.gov.in",
+    "last_updated": "2026-04-20"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Assistance for Agricultural Machinery & Implements (Mechanization)",
+    "state": "Goa",
+    "category": "Farm Mechanization",
+    "description": "Provides capital subsidies to purchase tractors, power tillers, brush cutters, weeders, and paddy transplanters to address labor shortage.",
+    "benefits": "50% to 75% subsidy on cost of agricultural machinery (up to ₹2,50,000 per machine depending on category).",
+    "eligibility": [
+      "Krishi Card holding farmers and Registered Farmers' Clubs/Self Help Groups in Goa"
+    ],
+    "documents": [
+      "Krishi Card",
+      "Form I & XIV Document",
+      "Proforma Invoice from Authorized Dealer",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Zonal Agricultural Office (ZAO)",
+    "official_website": "https://agri.goa.gov.in",
+    "last_updated": "2026-05-25"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Goa Paddy Cultivation Incentive Scheme (Assured Price Support)",
+    "state": "Goa",
+    "category": "Price Support & Grain Procurement",
+    "description": "Provides an assured minimum support price/incentive for paddy produced and sold by local farmers to government-designated procurement agencies.",
+    "benefits": "Direct incentive bonus over MSP (up to ₹20–₹25 per kg) credited straight to the farmer's bank account.",
+    "eligibility": [
+      "Paddy growers in Goa holding a valid Krishi Card and registered with ZAO"
+    ],
+    "documents": [
+      "Krishi Card",
+      "Paddy Procurement Receipt / Crop Sowing Certificate from ZAO",
+      "Bank Passbook Details",
+      "Aadhaar Card Copy"
+    ],
+    "application_mode": "Offline via Zonal Agricultural Office / Procurement Centers",
+    "official_website": "https://agri.goa.gov.in",
+    "last_updated": "2026-06-05"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Dairy Cattle Induction & Kamdhenu Scheme",
+    "state": "Goa",
+    "category": "Animal Husbandry & Dairy",
+    "description": "Supports livestock farmers in purchasing crossbred cows and high-yielding buffaloes to make Goa self-sufficient in milk production.",
+    "benefits": "Subsidy ranging from 80% to 90% of the cost of crossbred cows/buffaloes (up to 10 animals per beneficiary), including transport and insurance.",
+    "eligibility": [
+      "Residents of Goa for at least 5 years engaged in or starting dairy farming"
+    ],
+    "documents": [
+      "Residence Certificate (15 years in Goa)",
+      "Aadhaar Card",
+      "Bank Account Passbook",
+      "Veternary Doctor Purchase Verification Report"
+    ],
+    "application_mode": "Offline via Department of Animal Husbandry & Veterinary Services (AHVS)",
+    "official_website": "https://ahvs.goa.gov.in",
+    "last_updated": "2026-05-12"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Community Borewell & Micro Irrigation Scheme",
+    "state": "Goa",
+    "category": "Water Resources & Irrigation",
+    "description": "Assists groups of farmers in constructing community borewells, open wells, and installing micro-irrigation systems in water-scarce zones.",
+    "benefits": "75% to 90% financial grant for drilling borewells, pump set setup, and drip/sprinkler pipeline installation.",
+    "eligibility": [
+      "Group of at least 3 to 5 farmers owning adjoining cultivable lands in Goa holding Krishi Cards"
+    ],
+    "documents": [
+      "Krishi Cards of All Group Members",
+      "Form I & XIV of Adjoining Plots",
+      "NOC from Ground Water Cell",
+      "Joint Bank Account Details"
+    ],
+    "application_mode": "Offline via Zonal Agricultural Office (ZAO)",
+    "official_website": "https://agri.goa.gov.in",
+    "last_updated": "2026-04-15"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Financial Assistance for Brackish Water / Freshwater Aquaculture",
+    "state": "Goa",
+    "category": "Fisheries & Aquaculture",
+    "description": "Encourages fish, crab, and shrimp farming in brackish water estuaries and freshwater ponds across coastal and inland areas.",
+    "benefits": "40% to 60% capital subsidy for pond construction, seed purchase, feed, and aeration equipment.",
+    "eligibility": [
+      "Inland fishers, youth entrepreneurs, and SHGs in Goa holding suitable waterbodies or land"
+    ],
+    "documents": [
+      "Identity Proof / Residence Certificate",
+      "Land Record / Lease Deed of Water Body",
+      "Fisheries Department Registration",
+      "Bank Passbook"
+    ],
+    "application_mode": "Offline via Directorate of Fisheries, Panaji",
+    "official_website": "https://fisheries.goa.gov.in",
+    "last_updated": "2026-05-30"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Cultivation of High Value / Protected Crops in Polyhouse",
+    "state": "Goa",
+    "category": "Horticulture & Polyhouse Cultivation",
+    "description": "Promotes modern protected cultivation of orchids, anthuriums, exotic vegetables, and capsicum using polyhouses and shade-net structures.",
+    "benefits": "50% to 75% subsidy on polyhouse/shade-net structure construction costs and quality planting material.",
+    "eligibility": [
+      "Individual progressive farmers or farmer producer organizations (FPOs) in Goa with valid Krishi Card"
+    ],
+    "documents": [
+      "Krishi Card",
+      "Form I & XIV Document",
+      "Detailed Project Report (DPR)",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via State Horticulture Corporation / ZAO",
+    "official_website": "https://agri.goa.gov.in",
+    "last_updated": "2026-06-12"
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Subhiksha Keralam - Integrated Agricultural Development",
+    "state": "Kerala",
+    "category": "Food Security & Land Utilization",
+    "description": "A comprehensive food self-sufficiency program bringing fallow lands back into active cultivation for paddy, vegetables, tubers, and pulses.",
+    "benefits": "Incentive grants up to ₹40,000/hectare for fallow land cultivation, subsidized seeds, organic fertilizers, and credit facilities.",
+    "eligibility": [
+      "Individual farmers, Kudumbashree groups, joint liability groups, and cooperatives in Kerala"
+    ],
+    "documents": [
+      "Identity Proof",
+      "Land Ownership / Possession Certificate",
+      "AIMS Registration ID",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online via AIMS Kerala Portal / Krishi Bhavan",
+    "official_website": "https://www.aims.kerala.gov.in",
+    "last_updated": "2026-06-12"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Kerala State Crop Insurance Scheme (State Crop Insurance Policy)",
+    "state": "Kerala",
+    "category": "Crop Insurance",
+    "description": "Provides quick compensation for damages caused to key horticultural, cash, and food crops due to natural hazards including flood, landslide, and drought.",
+    "benefits": "Fixed sum insured compensation (e.g., ₹300 per coconut palm, ₹100 per banana plant, ₹32,000/hectare for paddy) at nominal annual premiums.",
+    "eligibility": [
+      "Farmers in Kerala cultivating 27 notified crops (paddy, banana, coconut, rubber, tapioca, spices, etc.)"
+    ],
+    "documents": [
+      "Identity Proof",
+      "AIMS Farmer ID",
+      "Land Possession Certificate / Tax Receipt",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via AIMS Portal / Local Krishi Bhavan",
+    "official_website": "https://aims.kerala.gov.in",
+    "last_updated": "2026-05-15"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Keragrama Scheme (Integrated Coconut Development)",
+    "state": "Kerala",
+    "category": "Horticulture & Coconut Development",
+    "description": "A focused initiative to rejuvenate coconut farming through disease management, high-yielding sapling distribution, and micro-irrigation installation.",
+    "benefits": "50% subsidy for pump set installation, drip systems, cutting old trees, plant protection materials, and inter-cropping financial assistance.",
+    "eligibility": [
+      "Coconut growers in Kerala owning at least 10 bearing coconut palms within designated Keragramam clusters"
+    ],
+    "documents": [
+      "Identity Proof",
+      "Land Tax Receipt",
+      "AIMS Registration ID",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via AIMS Portal / Krishi Bhavan Officer",
+    "official_website": "https://keralaagriculture.gov.in",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Paddy Production Incentive (PPI)",
+    "state": "Kerala",
+    "category": "Direct Cash Support & Rice Cultivation",
+    "description": "Encourages paddy farmers by providing direct royalty/incentive per hectare to sustain wetland ecology and boost rice production.",
+    "benefits": "Royalty payment of ₹3,000 per hectare per year directly transferred to the registered farmer's bank account.",
+    "eligibility": [
+      "Farmers actively cultivating paddy in wetlands/fields across Kerala"
+    ],
+    "documents": [
+      "Identity Proof",
+      "Land Tax Receipt / Possession Certificate",
+      "AIMS Registration ID",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via AIMS Portal",
+    "official_website": "https://aims.kerala.gov.in",
+    "last_updated": "2026-05-20"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Kerala Farm Mechanization & Custom Hiring Scheme",
+    "state": "Kerala",
+    "category": "Farm Mechanization",
+    "description": "Promotes modern labor-saving machinery including paddy transplanters, mini-tractors, and brush cutters to overcome agricultural labor shortages.",
+    "benefits": "50% to 80% subsidy on purchase of individual farm tools and support for setting up Karshika Karma Senas (CHC units).",
+    "eligibility": [
+      "Individual smallholders, Karshika Karma Senas, and Kudumbashree JLGs in Kerala"
+    ],
+    "documents": [
+      "Identity Proof",
+      "Land Record Copy",
+      "Proforma Invoice",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via AIMS Portal / Krishi Bhavan",
+    "official_website": "https://keralaagriculture.gov.in",
+    "last_updated": "2026-06-10"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Kera Suraksha Insurance Scheme for Coconut Tree Climbers",
+    "state": "Kerala",
+    "category": "Labor Social Security",
+    "description": "Comprehensive insurance coverage for coconut harvesters (Neera technicians / Friends of Coconut) against accidental injury or death during work.",
+    "benefits": "Insurance cover up to ₹5,00,000 in case of death or permanent disability while harvesting or pruning.",
+    "eligibility": [
+      "Trained coconut tree climbers and harvesters aged 18 to 65 years residing in Kerala"
+    ],
+    "documents": [
+      "Identity Proof",
+      "Training Certificate / Registration Certificate",
+      "Nominee Details & Bank Account"
+    ],
+    "application_mode": "Offline via Coconut Development Board / Krishi Bhavan",
+    "official_website": "https://keralaagriculture.gov.in",
+    "last_updated": "2026-04-25"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Kerala Organic & Natural Farming Mission (Jaiva Keralam)",
+    "state": "Kerala",
+    "category": "Organic Farming",
+    "description": "Supports the conversion of conventional cropland into certified organic farming units and promotes bio-pesticide production units.",
+    "benefits": "Financial support up to ₹20,000/hectare for organic conversion, free organic certification, and input distribution.",
+    "eligibility": [
+      "Farmers and farmer clusters in Kerala practicing organic farming methods"
+    ],
+    "documents": [
+      "Identity Proof",
+      "Land Ownership Document",
+      "AIMS Registration ID"
+    ],
+    "application_mode": "Online via AIMS Portal",
+    "official_website": "https://aims.kerala.gov.in",
+    "last_updated": "2026-05-18"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Commercial Vegetable Production Development Scheme",
+    "state": "Kerala",
+    "category": "Horticulture",
+    "description": "Promotes high-value and off-season vegetable cultivation under rain-shelters and open fields to achieve vegetable self-reliance.",
+    "benefits": "Subsidies up to ₹50,000 per unit for rain-shelter construction, hybrid seed distribution, and micro-irrigation kits.",
+    "eligibility": [
+      "Individual vegetable growers and Kudumbashree groups in Kerala"
+    ],
+    "documents": [
+      "Identity Proof",
+      "Land Tax Receipt / Lease Agreement",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via AIMS Portal / Krishi Bhavan",
+    "official_website": "https://aims.kerala.gov.in",
+    "last_updated": "2026-06-05"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Dairy Development Scheme (Milma Input Support)",
+    "state": "Kerala",
+    "category": "Animal Husbandry & Dairy",
+    "description": "Offers subsidized cattle feed, insurance support, and milking machine grants to dairy farmers to increase milk production.",
+    "benefits": "50% subsidy on cattle feed purchase, up to 75% grant for milking machine installation, and subsidized veterinary services.",
+    "eligibility": [
+      "Dairy farmers supplying milk to registered Primary Milk Cooperative Societies (APCOS / Milma) in Kerala"
+    ],
+    "documents": [
+      "Identity Proof",
+      "Milk Society Membership Card",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Primary Milk Cooperative Society / Dairy Extension Officer",
+    "official_website": "https://dairydevelopment.kerala.gov.in",
+    "last_updated": "2026-05-30"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Kerala Integrated Inland Fisheries Development Project",
+    "state": "Kerala",
+    "category": "Aquaculture & Fisheries",
+    "description": "Encourages biofloc fish farming, cage culture, and shrimp farming in backwaters and freshwater ponds across coastal and inland districts.",
+    "benefits": "40% to 60% financial subsidy on cage setup, fingerling procurement, feed cost, and biofloc tanks.",
+    "eligibility": [
+      "Inland fishers, youth entrepreneurs, and SHGs in Kerala registered with the Department of Fisheries"
+    ],
+    "documents": [
+      "Identity Proof",
+      "Fishermen Registration Card / Waterbody License",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via Matsyaaketham Portal / District Fisheries Office",
+    "official_website": "https://fisheries.kerala.gov.in",
+    "last_updated": "2026-06-15"
+  }
+]

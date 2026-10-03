@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Delhi Urban Farming & Rooftop Gardening Initiative",
+    "state": "Delhi",
+    "category": "Urban Agriculture & Horticulture",
+    "description": "A flagship initiative by the Delhi Government to promote organic rooftop gardening, balcony micro-farming, and backyard vegetable cultivation across residential colonies and urban clusters in Delhi.",
+    "benefits": "Free urban farming DIY kits, hands-on training workshops by horticulture experts, distribution of native seeds, organic compost, and technical support for vertical garden setups.",
+    "eligibility": [
+      "Must be a resident of NCT of Delhi.",
+      "Individuals, Resident Welfare Associations (RWAs), schools, or local community groups.",
+      "Access to adequate open space (rooftop, balcony, or backyard) with sunlight."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Proof of Residence in Delhi (Electricity Bill / Voter ID)",
+      "Passport Size Photo"
+    ],
+    "application_mode": "Online / Offline via Environment & Forest Dept",
+    "official_website": "https://environment.delhigovt.nic.in",
+    "last_updated": "2026-06-15"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Paramparagat Krishi Vikas Yojana (PKVY) - Delhi Region",
+    "state": "Delhi",
+    "category": "Organic Farming",
+    "description": "Promotes chemical-free organic farming in Delhi's rural and peri-urban belts (such as Najafgarh, Alipur, and South West Delhi) through cluster-based approaches and Participatory Guarantee System (PGS) certification.",
+    "benefits": "Financial assistance of ₹50,000 per hectare over 3 years for organic inputs, seeds, bio-fertilizers, cluster formation, packaging, and branding.",
+    "eligibility": [
+      "Farmers owning cultivable land in rural/peri-urban villages of Delhi.",
+      "Group of 20 or more farmers forming an organic farming cluster of 50 acres.",
+      "Willingness to adopt 100% organic techniques under PGS guidelines."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Ownership Proof (Khasra/Khatoni extract)",
+      "Bank Account Details",
+      "PGS Cluster Registration Form"
+    ],
+    "application_mode": "Offline via District Horticulture / Agriculture Extension Office",
+    "official_website": "https://dmsouthwest.delhi.gov.in",
+    "last_updated": "2026-05-20"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Mission for Integrated Development of Horticulture (MIDH) - Delhi",
+    "state": "Delhi",
+    "category": "Protected Cultivation & Polyhouse",
+    "description": "Provides financial assistance to farmers in Delhi for setting up protected cultivation structures like shade net houses, polyhouses, and hi-tech nurseries for high-value floriculture and vegetable crops.",
+    "benefits": "50% to 60% credit-linked capital subsidy for polyhouse construction, drip fertigation systems, and high-quality plant nursery infrastructure.",
+    "eligibility": [
+      "Individual farmers, FPOs, or agri-entrepreneurs in Delhi rural/peri-urban zones.",
+      "Must have clear title to land or registered lease agreement for minimum 10 years.",
+      "Assured source of irrigation at the project site."
+    ],
+    "documents": [
+      "Aadhaar Card & PAN Card",
+      "Land Records (Khasra/Khatoni) or Registered Lease Deed",
+      "Detailed Project Report (DPR)",
+      "Bank Term Loan Sanction Letter"
+    ],
+    "application_mode": "Online via MIDH / e-District Delhi Portal",
+    "official_website": "https://midh.gov.in",
+    "last_updated": "2026-04-10"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Soil Health Card Scheme - NCT of Delhi",
+    "state": "Delhi",
+    "category": "Soil & Land Health",
+    "description": "A government scheme to sample and analyze soil samples across Delhi's agricultural pockets to provide micro-nutrient status and customized fertilizer recommendations to farmers.",
+    "benefits": "Free soil testing covering 12 critical parameters (N, P, K, pH, EC, Organic Carbon, S, Zn, Fe, Cu, Mn, B) and personalized crop-wise soil health cards.",
+    "eligibility": [
+      "All farmers operating agricultural land within the NCT of Delhi."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Survey / Khasra Number details",
+      "Mobile Number"
+    ],
+    "application_mode": "Offline via Village Agri-Extension Officer / District Labs",
+    "official_website": "https://soilhealth.dac.gov.in",
+    "last_updated": "2026-03-18"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) - Micro Irrigation Delhi",
+    "state": "Delhi",
+    "category": "Irrigation & Water Conservation",
+    "description": "Focuses on 'More Crop Per Drop' by incentivizing water-saving technologies like drip and sprinkler irrigation systems for crops and orchards in Delhi's peri-urban agricultural belts.",
+    "benefits": "45% to 55% subsidy on the total cost of installing micro-irrigation systems (drip/sprinkler) connected to farm tube wells or water storage structures.",
+    "eligibility": [
+      "Farmers owning agricultural land or long-term lease holders in Delhi.",
+      "Functional water source (borewell/pond) with pump set."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Ownership Document (Khatoni)",
+      "Bank Passbook",
+      "Electricity Bill of Water Pump"
+    ],
+    "application_mode": "Online via District Administration Portal",
+    "official_website": "https://pmksy.gov.in",
+    "last_updated": "2026-02-28"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Agri-Clinics and Agri-Business Centres (ACABC) - Delhi Region",
+    "state": "Delhi",
+    "category": "Agri-Entrepreneurship",
+    "description": "Supports agricultural graduates and diploma holders in Delhi to set up commercial agri-ventures, expert advisory centers, custom hiring centers, and soil testing labs.",
+    "benefits": "45 days of free residential training, plus capital subsidy up to 36% (44% for SC/ST/Women) on bank loans up to ₹20 lakh for individual projects.",
+    "eligibility": [
+      "Graduates or diploma holders in Agriculture, Horticulture, Animal Husbandry, or allied sciences.",
+      "Age above 18 years residing or operating in NCT of Delhi."
+    ],
+    "documents": [
+      "Degree/Diploma Certificate in Agri-Sciences",
+      "Aadhaar & PAN Card",
+      "Project Business Plan",
+      "Bank Loan Approval Letter"
+    ],
+    "application_mode": "Online via MANAGE Portal",
+    "official_website": "https://www.agriclinics.net",
+    "last_updated": "2026-05-12"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Agriculture Infrastructure Fund (AIF) - Delhi",
+    "state": "Delhi",
+    "category": "Post-Harvest Infrastructure",
+    "description": "Financing facility for building post-harvest management infrastructure such as cold storages, pack houses, assaying units, and sorting/grading hubs in Delhi's wholesale and peri-urban markets.",
+    "benefits": "3% per annum interest subvention on bank loans up to ₹2 crore for a maximum period of 7 years, alongside credit guarantee coverage under CGTMSE.",
+    "eligibility": [
+      "Primary Agricultural Credit Societies (PACS), FPOs, Agri-Entrepreneurs, and Startups registered in Delhi."
+    ],
+    "documents": [
+      "Aadhaar Card & Company/FPO Registration",
+      "Detailed Project Report (DPR)",
+      "Land Ownership or Lease Agreement",
+      "Bank Loan Application"
+    ],
+    "application_mode": "Online via AIF Portal",
+    "official_website": "https://agriinfra.dac.gov.in",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Sub-Mission on Agricultural Mechanization (SMAM) - Delhi",
+    "state": "Delhi",
+    "category": "Farm Mechanization",
+    "description": "Promotes modern, eco-friendly farm machinery like happy seeders, rotavators, electric tillers, and crop residue management equipment among farmers in Delhi to curb stubble burning.",
+    "benefits": "Financial subsidy of 40% to 50% on individual machinery purchases or up to 80% for setting up Custom Hiring Centres (CHCs).",
+    "eligibility": [
+      "Individual farmers, SHGs, and user groups operating in Delhi's farming villages.",
+      "Priority given to small and marginal farmers."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Revenue Record (Khasra)",
+      "Bank Account Details",
+      "Quotation from Authorized Dealer"
+    ],
+    "application_mode": "Online via FARMECH Portal",
+    "official_website": "https://agrimachinery.nic.in",
+    "last_updated": "2026-01-25"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Rashtriya Krishi Vikas Yojana (RKVY) - Delhi UT Chapter",
+    "state": "Delhi",
+    "category": "Holistic Agricultural Development",
+    "description": "Provides flexible funding to Delhi's agriculture and animal husbandry departments to execute high-impact local interventions like hydroponics promotion, peri-urban mushroom cultivation, and dairy extension.",
+    "benefits": "Financial assistance and grants up to 50% for specialized projects in hydroponics, vertical farming units, apiculture (beekeeping), and mushroom spawning.",
+    "eligibility": [
+      "Farmers, self-help groups, and agri-entrepreneurs located in Delhi.",
+      "Must undergo mandatory technical training organized by the Department."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Address Proof in Delhi",
+      "Training Completion Certificate (if applicable)",
+      "Bank Passbook Copy"
+    ],
+    "application_mode": "Offline via Development Department, Govt of NCT Delhi",
+    "official_website": "https://rkvy.nic.in",
+    "last_updated": "2026-04-18"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Livestock Health & Dairy Development Scheme - Delhi",
+    "state": "Delhi",
+    "category": "Animal Husbandry & Dairy",
+    "description": "Provides preventive healthcare, door-step artificial insemination, free vaccination drives, and fodder development support for cattle and dairy livestock reared in Delhi's rural and gaushala belts.",
+    "benefits": "Free door-step veterinary health care services, free foot-and-mouth disease (FMD) vaccinations, subsidized high-yielding fodder seeds, and artificial insemination kits.",
+    "eligibility": [
+      "Dairy farmers, cattle rearers, and registered Gaushalas located within Delhi NCT boundaries."
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Animal Tag / INAPH Registration Number",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Government Veterinary Hospitals / Dispensaries in Delhi",
+    "official_website": "https://development.delhi.gov.in",
+    "last_updated": "2026-03-05"
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Nagaland Agro-Forestry & Coffee Expansion Mission",
+    "state": "Nagaland",
+    "category": "High-Value Plantation & Agro-Forestry",
+    "description": "A major initiative in partnership with the Coffee Board of India to promote shade-grown Arabica and Robusta coffee plantations across hill slopes, offering sustainable livelihoods as an alternative to jhum (shifting) cultivation.",
+    "benefits": "Free high-quality coffee saplings, financial support of ₹30,000 per hectare spread over 3 years for maintenance, and 75% subsidy on coffee pulping machines.",
+    "eligibility": [
+      "Traditional jhum farmers, SHGs, and land-owning tribal households in Nagaland",
+      "Must have suitable shade-canopy land on hill slopes recommended by Land Resources Department"
+    ],
+    "documents": [
+      "Indigenous Inhabitant Certificate / Resident Certificate of Nagaland",
+      "Aadhaar Card Copy",
+      "Village Council Land Ownership / Authorization Certificate",
+      "Bank Account Passbook Details"
+    ],
+    "application_mode": "Offline via District Land Resources Officer (DLRO) / Directorate of Land Resources",
+    "official_website": "https://landresources.nagaland.gov.in",
+    "last_updated": "2026-06-18"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Mission Organic Value Chain Development for North Eastern Region (MOVCDNER-Nagaland)",
+    "state": "Nagaland",
+    "category": "Organic Farming & Certification",
+    "description": "Develops commercial organic value chains for signature crops like Naga King Chili (Raja Mircha), Naga Sweet Cucumber, Ginger, Turmeric, and Organic Maize.",
+    "benefits": "Financial assistance of ₹45,000 per hectare over 3 years for organic inputs, free Third-Party PGS/NPOP organic certification, and processing unit subsidies.",
+    "eligibility": [
+      "Farmers, Farmer Interest Groups (FIGs), and Farmer Producer Companies (FPCs) operating in notified organic clusters in Nagaland"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Village Council Land Certificate",
+      "FIG / FPC Membership Document",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via District Agriculture Officer (DAO) / NOAM (Nagaland Organic Mission)",
+    "official_website": "https://agriculture.nagaland.gov.in",
+    "last_updated": "2026-06-05"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Nagaland Honey Mission (Apiculture Promotion)",
+    "state": "Nagaland",
+    "category": "Beekeeping & Value Addition",
+    "description": "Promotes scientific apiculture for stingless and Rock/Apis cerana bees, leveraging Nagaland's rich floral diversity to produce premium wildflower honey.",
+    "benefits": "80% subsidy on scientific bee boxes, swarm catchers, and extraction equipment, alongside free training by the Nagaland Honey and Beekeeping Mission (NHBM).",
+    "eligibility": [
+      "Individual farmers, rural youth, and SHGs residing in Nagaland"
+    ],
+    "documents": [
+      "Indigenous Inhabitant Certificate",
+      "Aadhaar Card Copy",
+      "Village Council Recommendation Letter",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via Nagaland Honey & Beekeeping Mission (NHBM) Offices / Team Metamorphosis",
+    "official_website": "https://nhbm.nagaland.gov.in",
+    "last_updated": "2026-05-20"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Sub-Mission on Agricultural Mechanization (SMAM - Nagaland)",
+    "state": "Nagaland",
+    "category": "Farm Mechanization",
+    "description": "Provides financial subsidies on power tillers, brush cutters, paddy harvesters, and terracing tools designed for Nagaland's hilly and terrace farming conditions.",
+    "benefits": "50% to 80% subsidy for individual smallholders and up to 80% subsidy for establishing Custom Hiring Centers (CHCs) operated by SHGs/Village Councils.",
+    "eligibility": [
+      "Farmers owning or operating land in Nagaland, registered SHGs, and Village Council Cooperatives"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Village Council Land Certificate",
+      "Dealer Quotation / Proforma Invoice",
+      "Bank Passbook Details"
+    ],
+    "application_mode": "Online via Agmachinery Portal / Offline via District Agriculture Office",
+    "official_website": "https://agriculture.nagaland.gov.in",
+    "last_updated": "2026-05-28"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Chief Minister's Micro-Finance Initiative (CMMFI - Agriculture Wing)",
+    "state": "Nagaland",
+    "category": "Agri-Credit & Entrepreneurship",
+    "description": "Provides affordable credit and capital subsidies to farmers, SHGs, and agri-entrepreneurs for setting up greenhouses, cold stores, processing units, and farm machinery.",
+    "benefits": "30% capital subsidy from state government, 60% bank loan with 4% interest subvention, and only 10% beneficiary contribution.",
+    "eligibility": [
+      "Permanent resident farmers, SHGs, Joint Liability Groups, and Farmers Producer Organizations in Nagaland"
+    ],
+    "documents": [
+      "Indigenous Inhabitant Certificate",
+      "Aadhaar Card Copy",
+      "Detailed Project Report (DPR)",
+      "Village Council NOC / Land Certificate",
+      "Bank Passbook"
+    ],
+    "application_mode": "Offline via District Level Implementation Committee (DLIC) headed by Deputy Commissioner",
+    "official_website": "https://nagaland.gov.in",
+    "last_updated": "2026-06-12"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Integrated Horticulture Development Scheme (Polyhouse & Kiwi Mission)",
+    "state": "Nagaland",
+    "category": "Protected Cultivation & High-Value Horticulture",
+    "description": "Supports commercial cultivation of Kiwi fruit, Naga Cucumber, Dragon Fruit, and off-season vegetables under tubular polyhouses and shade nets.",
+    "benefits": "50% to 75% subsidy on polyhouse construction, micro-irrigation systems, and high-yielding kiwi/fruit saplings.",
+    "eligibility": [
+      "Horticulture growers, smallholders, and SHGs residing in Nagaland with land and water availability"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Village Council Land Identification Certificate",
+      "Bank Passbook Details",
+      "Polyhouse Structure Blueprint"
+    ],
+    "application_mode": "Offline via District Horticulture Officer (DHO) / Directorate of Horticulture",
+    "official_website": "https://horticulture.nagaland.gov.in",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Backyard Piggery & Livestock Development Mission",
+    "state": "Nagaland",
+    "category": "Animal Husbandry & Pork Production",
+    "description": "Supports rural households in establishing modern pig breeding and fattening units to meet local pork demand and increase household cash flow.",
+    "benefits": "50% to 75% subsidy on high-quality piglets, pig feed, pig shelter construction, and free swine fever vaccination.",
+    "eligibility": [
+      "Permanent resident households of Nagaland with space for piggery management"
+    ],
+    "documents": [
+      "Indigenous Inhabitant Certificate",
+      "Aadhaar Card Copy",
+      "Village Council Certificate",
+      "Bank Account Passbook Details"
+    ],
+    "application_mode": "Offline via District Veterinary & Animal Husbandry Officer",
+    "official_website": "https://veterinary.nagaland.gov.in",
+    "last_updated": "2026-05-15"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Nagaland Fisheries & Aqua-Park Promotion Scheme",
+    "state": "Nagaland",
+    "category": "Fisheries & Inland Aquaculture",
+    "description": "Encourages fish culture in paddy fields (paddy-cum-fish culture), construction of new fish ponds, and high-altitude trout farming in cold-water streams.",
+    "benefits": "40% subsidy for General and 60% for SC/ST/Women on constructing new fish ponds, fish seed, and feed inputs.",
+    "eligibility": [
+      "Fish farmers, youth groups, and village cooperatives in Nagaland owning land with suitable water supply"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Village Council Land Allotment / NOC Certificate",
+      "Bank Passbook Details",
+      "Water Availability Certificate"
+    ],
+    "application_mode": "Offline via District Fisheries Development Officer (DFDO)",
+    "official_website": "https://fisheries.nagaland.gov.in",
+    "last_updated": "2026-06-08"
+  },
+  {
+    "id": 9,
+    "scheme_name": "PM-KUSUM Off-Grid Solar Pumping Scheme (Nagaland Component)",
+    "state": "Nagaland",
+    "category": "Renewable Energy & Off-Grid Power",
+    "description": "Installs standalone solar-powered water pumpsets in off-grid hilly agricultural areas to ensure reliable life-saving irrigation for winter crops.",
+    "benefits": "Up to 85% combined central and state financial subsidy on standalone solar water pumpsets (2 HP to 5 HP).",
+    "eligibility": [
+      "Farmers owning land in Nagaland with access to surface water or wells lacking conventional grid electricity"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Village Council Land Possession Certificate",
+      "Self-Declaration of No Grid Connection at Pumping Site",
+      "Bank Passbook Details"
+    ],
+    "application_mode": "Offline via NEDA (Nagaland Renewable Energy Development Agency) / District Agriculture Office",
+    "official_website": "https://neda.nagaland.gov.in",
+    "last_updated": "2026-04-28"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Terrace Rice Cultivation (TRC) & Soil Conservation Scheme",
+    "state": "Nagaland",
+    "category": "Soil Conservation & Watershed Development",
+    "description": "Promotes settled Terrace Rice Cultivation (TRC) on hill slopes through bench terracing, water harvesting ponds, and contour bunding to prevent soil erosion.",
+    "benefits": "Financial assistance up to ₹20,000 per hectare for bench terrace construction, plus free distribution of high-yielding paddy seeds.",
+    "eligibility": [
+      "Farmers transitioning from jhum to settled terrace cultivation in Nagaland"
+    ],
+    "documents": [
+      "Indigenous Inhabitant Certificate",
+      "Aadhaar Card Copy",
+      "Village Council Certificate",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via District Soil & Water Conservation Officer",
+    "official_website": "https://soil.nagaland.gov.in",
+    "last_updated": "2026-05-10"
+  }
+]

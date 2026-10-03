@@ -1,0 +1,203 @@
+ [
+  {
+    "id": 1,
+    "scheme_name": "Makhana Vikas Yojana",
+    "state": "Bihar",
+    "category": "Horticulture & Specialty Crops",
+    "description": "Promotes high-yielding foxnut (Makhana) cultivation, field expansion, and modern post-harvest processing infrastructure across eastern Bihar.",
+    "benefits": "Up to 75% subsidy (max ₹72,750/hectare) for high-yield seeds and field expansion; up to ₹16,575 grant for processing toolkits.",
+    "eligibility": [
+      "Farmers owning or leasing land/waterbodies from 0.25 to 10 acres in notified Makhana districts of Bihar",
+      "Must be registered on the Bihar DBT Agriculture Portal"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Record (LPC) / Lease Agreement",
+      "Kisan Registration ID",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via Bihar Horticulture Portal",
+    "official_website": "https://horticulture.bihar.gov.in",
+    "last_updated": "2026-06-12"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Bihar Rajya Fasal Sahayata Yojana (BRFSY)",
+    "state": "Bihar",
+    "category": "Crop Loss Assistance",
+    "description": "Replaces traditional crop insurance by offering completely premium-free financial compensation to farmers suffering crop loss from floods, drought, or hail.",
+    "benefits": "Direct payout of ₹7,500/hectare for yield loss up to 20%, and ₹10,000/hectare for yield loss exceeding 20% (up to 2 hectares).",
+    "eligibility": [
+      "Owner-farmers and non-ryot (tenant) farmers in Bihar cultivating notified crops"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Possession Certificate (LPC) or Self-Declaration for Tenant Farmers",
+      "Kisan Registration Number",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via Cooperative Department / DBT Bihar Portal",
+    "official_website": "https://pacsonline.bih.nic.in",
+    "last_updated": "2026-05-25"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Bihar Diesel Anudan Yojana",
+    "state": "Bihar",
+    "category": "Irrigation Energy Support",
+    "description": "Provides financial fuel subsidies to offset high irrigation costs incurred by farmers relying on diesel pump sets during dry spells.",
+    "benefits": "Subsidy of ₹75 per liter of diesel (up to ₹750/acre per irrigation cycle, max 3 cycles depending on crop type).",
+    "eligibility": [
+      "Registered farmers in Bihar operating diesel-powered irrigation pump sets"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Kisan Registration ID",
+      "Valid Diesel Purchase Receipt from authorized fuel pump",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via Bihar DBT Agriculture Portal",
+    "official_website": "https://dbtagriculture.bihar.gov.in",
+    "last_updated": "2026-06-18"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Bihar Krishi Yantra Subsidy Scheme",
+    "state": "Bihar",
+    "category": "Farm Mechanization",
+    "description": "Offers capital subsidies on over 80 types of modern agricultural machinery to accelerate farm mechanization across the state.",
+    "benefits": "Direct financial subsidy ranging from 40% to 80% on tractors, threshers, combine harvesters, and zero-till seed drills.",
+    "eligibility": [
+      "Registered farmers or custom hiring center operators in Bihar possessing valid Kisan Registration"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Possession Certificate (LPC)",
+      "Dealer Quotation",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via OFMAS Bihar Portal",
+    "official_website": "https://farmech.bih.nic.in",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Bihar Beej Gram & Seed Subsidy Scheme",
+    "state": "Bihar",
+    "category": "Quality Seed Distribution",
+    "description": "Provides high-quality, certified high-yielding variety (HYV) seeds of paddy, wheat, pulses, and oilseeds at heavily subsidized rates.",
+    "benefits": "50% to 90% subsidy on certified seeds with optional direct home delivery service.",
+    "eligibility": [
+      "Registered farmers in Bihar applying through the official seed portal"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Kisan Registration ID",
+      "Mobile Number linked with Aadhaar",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via BRBN Bihar Portal / DBT Agriculture",
+    "official_website": "https://brbn.bihar.gov.in",
+    "last_updated": "2026-05-10"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Bihar Micro Irrigation Scheme",
+    "state": "Bihar",
+    "category": "Water Efficient Irrigation",
+    "description": "Promotes micro-irrigation systems to optimize water use efficiency in fruit, vegetable, and field crop production.",
+    "benefits": "80% to 90% grant on installation of drip and sprinkler irrigation units.",
+    "eligibility": [
+      "Farmers owning agricultural land with a verified water source (borewell/pond) in Bihar"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land LPC Copy",
+      "Kisan Registration ID",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via Bihar Horticulture Portal",
+    "official_website": "https://horticulture.bihar.gov.in",
+    "last_updated": "2026-04-15"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Bihar Organic Corridor Scheme (Jaivik Koridor Yojana)",
+    "state": "Bihar",
+    "category": "Organic Farming",
+    "description": "Establishes a dedicated green agricultural belt along 13 districts adjoining the Ganga river to produce certified organic crops.",
+    "benefits": "Advance financial grant of ₹11,500/acre in the first year for organic inputs, free organic certification, and vermicompost support.",
+    "eligibility": [
+      "Farmers holding cultivable land in designated organic corridor clusters along the Ganges"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "LPC / Land Details",
+      "Cluster Group Registration",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via Bihar DBT Agriculture / Horticulture Portal",
+    "official_website": "https://dbtagriculture.bihar.gov.in",
+    "last_updated": "2026-03-30"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Bihar Mushroom Vikas Yojana",
+    "state": "Bihar",
+    "category": "Allied Enterprise & Income Support",
+    "description": "Encourages mushroom cultivation and spawn production units to provide supplementary income for landless workers and smallholders.",
+    "benefits": "50% capital subsidy for establishing mushroom spawn manufacturing units, compost preparation, and growing kits.",
+    "eligibility": [
+      "Individual farmers, landless agricultural workers, and women SHGs in Bihar"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "KVK Training Certificate (if applicable)",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via Directorate of Horticulture Bihar",
+    "official_website": "https://horticulture.bihar.gov.in",
+    "last_updated": "2026-05-04"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Bihar Special Horticulture Development Mission",
+    "state": "Bihar",
+    "category": "Horticulture Development",
+    "description": "Drives commercial fruit production by subsidizing high-density plantations of dragon fruit, papaya, banana, and tissue-culture crops.",
+    "benefits": "Up to 50% subsidy on saplings, drip line integration, and field maintenance costs spread over 3 years.",
+    "eligibility": [
+      "Landholders owning minimum 0.1 hectare dedicated cultivable land in Bihar"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "LPC / Land Receipt",
+      "Kisan Registration ID",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via Bihar Horticulture Portal",
+    "official_website": "https://horticulture.bihar.gov.in",
+    "last_updated": "2026-06-08"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Mukhyamantri Dairy Vikas Yojana (Bihar)",
+    "state": "Bihar",
+    "category": "Animal Husbandry & Dairy",
+    "description": "Encourages dairy entrepreneurship and self-employment by assisting in purchasing milch cattle and modern dairy equipment.",
+    "benefits": "50% to 75% subsidy on purchasing 2, 4, or 10 milch cows/buffaloes, plus subsidy on chaff cutters and milking units.",
+    "eligibility": [
+      "Permanent residents of Bihar aged 18 to 55 years setting up dairy units"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Caste Certificate (for higher SC/ST subsidy)",
+      "Dairy Training Certificate",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via Bihar Animal Husbandry Portal",
+    "official_website": "https://ahd.bihar.gov.in",
+    "last_updated": "2026-05-19"
+  }
+ ]
+ 

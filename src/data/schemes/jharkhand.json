@@ -1,0 +1,205 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Birsa Fasal Rahat Yojana (Jharkhand Rajya Fasal Rahat Yojana)",
+    "state": "Jharkhand",
+    "category": "Crop Loss Financial Relief",
+    "description": "A financial compensation scheme replacing crop insurance, providing direct monetary assistance to farmers who face major crop losses due to drought, floods, or unseasonal weather.",
+    "benefits": "Financial relief of ₹3,000 per acre for crop damage between 30% and 50%; ₹4,000 per acre for crop damage exceeding 50% (up to a maximum cap of 5 acres per farmer).",
+    "eligibility": [
+      "Small, marginal, and tenant/sharecropper farmers residing in Jharkhand",
+      "Must have cultivated crops during the notified Kharif or Rabi season on registered land"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Possession Certificate (LPC) or Revenue Receipt",
+      "Self-Declaration Form for Sharecroppers/Tenant Farmers (certified by Mukhiya/Patwari)",
+      "Bank Passbook linked with Aadhaar"
+    ],
+    "application_mode": "Online via JRFRY Portal (jrfry.jharkhand.gov.in) or CSC Outlets",
+    "official_website": "https://jrfry.jharkhand.gov.in",
+    "last_updated": "2026-06-18"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Birsa Harit Gram Yojana",
+    "state": "Jharkhand",
+    "category": "Horticulture & Agro-Forestry",
+    "description": "Promotes fruit orchard cultivation (mango, guava, lemon, teak) on fallow or unutilized land under MGNREGA, generating long-term sustainable income for rural households.",
+    "benefits": "Free supply of high-yielding fruit saplings (100 plants per acre), 100% wage coverage for land preparation/fencing/pitting under MGNREGA, and complete maintenance support for 3 years.",
+    "eligibility": [
+      "Rural households with MGNREGA Job Card owning 0.5 to 1 acre of fallow/barren land",
+      "Priority given to SC/ST households, single women, and smallholder farmers"
+    ],
+    "documents": [
+      "MGNREGA Job Card Copy",
+      "Aadhaar Card Copy",
+      "Land Ownership Documents / Possession Certificate",
+      "Bank Account Details linked to MGNREGA"
+    ],
+    "application_mode": "Offline through Gram Sabha / MGNREGA Block Program Officer (BPO)",
+    "official_website": "https://mgnrega.jharkhand.gov.in",
+    "last_updated": "2026-05-20"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Mukhyamantri Krishi Yantrikaran Yojana",
+    "state": "Jharkhand",
+    "category": "Farm Mechanization",
+    "description": "Provides financial subsidies to small and marginal farmers, SHGs, and FPOs to purchase modern agricultural machinery like tractors, rotavators, power tillers, and harvesters.",
+    "benefits": "50% to 80% subsidy on farm implements and micro-tractors for individual farmers; up to 80% subsidy for setting up Custom Hiring Centers (CHCs) by Women SHGs.",
+    "eligibility": [
+      "Farmers owning land in Jharkhand, Women Self-Help Groups (SHGs), and registered FPOs"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Record Extract (Khasra/Khatauni)",
+      "Quotations from Authorized Machinery Dealers",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online via Jharkhand Krishi Portal / District Agriculture Office",
+    "official_website": "https://agri.jharkhand.gov.in",
+    "last_updated": "2026-06-02"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Birsa Munda Irrigation / Well Construction Scheme",
+    "state": "Jharkhand",
+    "category": "Water Resources & Irrigation",
+    "description": "Provides financial support for digging open irrigation wells (Kua Construction) to ensure round-the-year water availability for small-scale farming and vegetable growing.",
+    "benefits": "Financial grant up to ₹5,00,000 per well constructed under MGNREGA and state agriculture convergence funds.",
+    "eligibility": [
+      "Small and marginal SC/ST farmers owning arable land with suitable underground water table"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Category/Caste Certificate (SC/ST)",
+      "Land Record Documents",
+      "MGNREGA Job Card",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Gram Panchayat / Block Development Office (BDO)",
+    "official_website": "https://agri.jharkhand.gov.in",
+    "last_updated": "2026-05-12"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Jharkhand Organic Farming Promotion Scheme",
+    "state": "Jharkhand",
+    "category": "Organic Farming & Certification",
+    "description": "Encourages adoption of chemical-free organic farming practices through cluster formation, training, bio-input distribution, and free Third-Party PGS Organic Certification.",
+    "benefits": "Financial assistance of ₹20,000 per hectare over 3 years for organic inputs, vermicompost unit construction, and free group organic certification.",
+    "eligibility": [
+      "Farmers or farmer groups/clusters (minimum 20 hectares total) committed to organic practices in Jharkhand"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Revenue Records",
+      "Cluster Group Formation Document",
+      "Bank Passbook Copy"
+    ],
+    "application_mode": "Online via Jharkhand State Organic Certification Agency (JSOCA) / District Agriculture Office",
+    "official_website": "https://agri.jharkhand.gov.in",
+    "last_updated": "2026-04-28"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Siddho-Kanho Agriculture and Forestry Co-operative Development Scheme",
+    "state": "Jharkhand",
+    "category": "Cooperative Agri-Marketing & Minor Forest Produce",
+    "description": "Strengthens rural cooperatives involved in collecting, processing, and marketing minor forest produce (Tendu leaves, Mahua, Lac, Sal seeds) and rainfed crops.",
+    "benefits": "Financial assistance, working capital soft loans, and processing equipment subsidies up to 75% for tribal co-operatives and SHGs.",
+    "eligibility": [
+      "Primary Agriculture Cooperative Societies (PACS), Forest Cooperatives, and Tribal SHGs in Jharkhand"
+    ],
+    "documents": [
+      "Society / SHG Registration Certificate",
+      "List of Member Farmers / Forest Collectors",
+      "Aadhaar Copies of Office Bearers",
+      "Bank Account Details of the Society"
+    ],
+    "application_mode": "Offline through District Cooperative Officer (DCO) / Cooperative Department Portal",
+    "official_website": "https://cooperative.jharkhand.gov.in",
+    "last_updated": "2026-06-08"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Jharkhand Dairy Development Scheme (Kamdhenu Scheme)",
+    "state": "Jharkhand",
+    "category": "Dairy Rearing & Livestock",
+    "description": "Promotes high-yielding crossbred cow and buffalo rearing, establishment of mini dairy units (2 to 10 cattle), and setting up automatic milk collection centers.",
+    "benefits": "50% capital subsidy for General category and up to 75% subsidy for SC/ST and Women beneficiaries on purchase of milch cattle and construction of cattle sheds.",
+    "eligibility": [
+      "Permanent resident livestock farmers, women SHGs, and rural unemployed youth in Jharkhand"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Caste / Category Certificate (if applicable)",
+      "Land Availability Proof for Cattle Shed",
+      "Bank Passbook Details"
+    ],
+    "application_mode": "Offline via District Animal Husbandry Officer (DAHO) or Online via State AH Portal",
+    "official_website": "https://ahd.jharkhand.gov.in",
+    "last_updated": "2026-05-15"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Integrated Lac Cultivation Promotion Scheme",
+    "state": "Jharkhand",
+    "category": "Niche Crop & Tribal Livelihoods",
+    "description": "Supports traditional lac growers by providing high-yielding brood lac, pruning equipment, host tree (Ber, Palas, Kusum) care, and processing support.",
+    "benefits": "Free supply of brood lac seeds, 80% subsidy on lac processing kits, and free technical training provided by ICAR-IINRG Ranchi.",
+    "eligibility": [
+      "Tribal and smallholder lac farmers residing in notified forest/fringe districts of Jharkhand"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Residential Proof / Tribal Certificate",
+      "Forest Right / Land Document for Host Trees",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via District Forest Office / ICAR-IINRG / Block Extension Office",
+    "official_website": "https://agri.jharkhand.gov.in",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Mukhya Mantri Fisheries Development Scheme (Cage Culture & Ponds)",
+    "state": "Jharkhand",
+    "category": "Fisheries & Inland Aquaculture",
+    "description": "Promotes fish production through cage culture in large reservoirs (e.g., Chandil Dam), renovation of old ponds, and setting up fish hatcheries.",
+    "benefits": "50% to 60% subsidy for setting up fish farming cages, purchasing fish seed/feed, and constructing new fish ponds (up to ₹2.5 Lakh per acre).",
+    "eligibility": [
+      "Local fishermen, displaced reservoir families, SHGs, and small farmers in Jharkhand"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Fishermen Cooperative Membership Proof / Land LPC",
+      "Bank Passbook Copy",
+      "Displaced Family Certificate (for reservoir cage culture)"
+    ],
+    "application_mode": "Online via Jharkhand Fisheries Portal / District Fisheries Office",
+    "official_website": "https://fisheries.jharkhand.gov.in",
+    "last_updated": "2026-05-22"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Solar Pump Installation Scheme (PM-KUSUM Component-B Jharkhand)",
+    "state": "Jharkhand",
+    "category": "Renewable Energy & Off-Grid Irrigation",
+    "description": "Helps farmers replace diesel pumps with stand-alone solar water pumps for reliable, cost-effective irrigation in un-electrified agricultural fields.",
+    "benefits": "Up to 80% combined state and central subsidy on standalone solar pumpsets (3 HP to 7.5 HP capacity).",
+    "eligibility": [
+      "Individual farmers, water user associations, and joint liability groups owning land in Jharkhand without electricity access"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Ownership LPC / Revenue Receipt",
+      "Bank Passbook Details",
+      "Declaration of No Existing Electric Connection on Pump Site"
+    ],
+    "application_mode": "Online via JREDA Portal (jreda.com) or District Agriculture Office",
+    "official_website": "https://jreda.com",
+    "last_updated": "2026-06-10"
+  }
+]

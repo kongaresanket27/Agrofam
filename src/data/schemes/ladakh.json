@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Special Development Package - Poly Trench Green House Scheme",
+    "state": "Ladakh",
+    "category": "Protected Cultivation & Cold Climate Tech",
+    "description": "Provides financial and material assistance for setting up Poly Trench Greenhouses to enable winter vegetable cultivation in sub-zero Himalayan weather conditions.",
+    "benefits": "Subsidized construction cost and Poly Film distribution for 30ft x 10ft x 5ft trench structures.",
+    "eligibility": [
+      "Individual farmers and women farmer groups residing in Leh and Kargil districts of Ladakh"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "ST Certificate / Resident Certificate",
+      "Land Record / Revenue Certificate",
+      "Bank Passbook"
+    ],
+    "application_mode": "Offline via Chief Agriculture Officer (CAO) Leh / Kargil",
+    "official_website": "https://ladakh.gov.in",
+    "last_updated": "2026-07-01"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Ladakh Apricot & High-Density Apple Nursery Production Scheme",
+    "state": "Ladakh",
+    "category": "Horticulture Development",
+    "description": "Encourages establishment of high-density fruit orchards (Raktsey Karpo Apricot and Apple) by funding nursery production and planting material.",
+    "benefits": "Direct cash assistance and subsidized planting material for high-density orchard creation.",
+    "eligibility": [
+      "Farmers and orchardists in Leh and Kargil possessing agricultural land"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Revenue Land Extract",
+      "Bank Account Details",
+      "Passport Photograph"
+    ],
+    "application_mode": "Offline via District Horticulture Office, Leh/Kargil",
+    "official_website": "https://horticulture.ladakh.gov.in",
+    "last_updated": "2026-06-20"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Subsidized Power Tiller & Weeder Distribution Scheme",
+    "state": "Ladakh",
+    "category": "Farm Mechanization",
+    "description": "Distributes light-weight, high-altitude suitable farm machinery like power tillers and weeders to reduce farm labor bottlenecks.",
+    "benefits": "50% capital subsidy (up to ₹60,000 max per unit) on Power Tillers and Weeders.",
+    "eligibility": [
+      "Individual small and marginal farmers residing in UT Ladakh"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Holding Document",
+      "Bank Account Details",
+      "Quotation from Authorized Dealer"
+    ],
+    "application_mode": "Offline via Block Agriculture Extension Officer",
+    "official_website": "https://ladakh.gov.in",
+    "last_updated": "2026-05-18"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Buckwheat & Black Zeera Production Incentive Scheme",
+    "state": "Ladakh",
+    "category": "Crop Diversification & Cash Incentive",
+    "description": "Promotes the cultivation of high-value native crops like Buckwheat and Black Zeera (Cumin) suited to cold desert ecology.",
+    "benefits": "Incentive of ₹3,000 per Kanal for Buckwheat and ₹6,000 per Kanal for Black Zeera cultivation.",
+    "eligibility": [
+      "Farmers growing native Buckwheat or Black Cumin in Ladakh"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Pattadar/Land Record Certificate",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via District Agriculture Office",
+    "official_website": "https://ladakh.gov.in",
+    "last_updated": "2026-06-10"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Ladakh Organic Farming Promotion & Vermicompost Scheme",
+    "state": "Ladakh",
+    "category": "Organic Inputs & Soil Health",
+    "description": "Supports conversion to 100% organic farming by subsidizing the setup of Vermicompost units and bio-fertilizer supply.",
+    "benefits": "Financial aid for building 30x8x2.5 ft vermicompost pits plus free bio-inputs.",
+    "eligibility": [
+      "Individual farmers and organic cluster farming groups in UT Ladakh"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Ownership Certificate",
+      "Bank Passbook Copy"
+    ],
+    "application_mode": "Offline via Agriculture/Horticulture Department, UT Ladakh",
+    "official_website": "https://ladakh.gov.in",
+    "last_updated": "2026-04-12"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Freight Subsidy for Air Cargo/Road Transport of Fruits",
+    "state": "Ladakh",
+    "category": "Post-Harvest & Marketing",
+    "description": "Provides air freight and transport subsidies to fruit growers to transport perishable fruits like fresh apricots and cherry outside Ladakh.",
+    "benefits": "75% transport subsidy on air freight/road freight charges for sending local fruit produce to mainland markets.",
+    "eligibility": [
+      "Registered fruit growers, cooperatives, and agri-entrepreneurs in Ladakh"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Grower Registration Certificate",
+      "Freight Bills and Waybills",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via Chief Horticulture Officer",
+    "official_website": "https://horticulture.ladakh.gov.in",
+    "last_updated": "2026-05-30"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Solarized Light Trap & Pest Management Support",
+    "state": "Ladakh",
+    "category": "Plant Protection & Eco-Farming",
+    "description": "Distributes solar light traps and pheromone trap toolkits for chemical-free insect control in fruit orchards.",
+    "benefits": "75% subsidy on solar light traps, pheromone traps, and canopy management toolkits.",
+    "eligibility": [
+      "Fruit and vegetable growers in Leh and Kargil"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Resident Certificate",
+      "Land Record details"
+    ],
+    "application_mode": "Offline via Horticulture Inspector / Agriculture Extension Officer",
+    "official_website": "https://ladakh.gov.in",
+    "last_updated": "2026-03-22"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Borewell & Water Harvesting System Scheme",
+    "state": "Ladakh",
+    "category": "Irrigation & Water Conservation",
+    "description": "Offers direct financial assistance to dig borewells and build water storage tanks for irrigation in arid cold-desert areas.",
+    "benefits": "Cash grant assistance for borewell digging, water lift pumps, and micro-storage tanks.",
+    "eligibility": [
+      "Farmers without assured surface water sources in UT Ladakh"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Record Proof",
+      "NOC from Local Panchayat / Revenue Dept",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via District Horticulture / Agriculture Office",
+    "official_website": "https://ladakh.gov.in",
+    "last_updated": "2026-06-05"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Drip & Micro-Irrigation Subsidy Scheme",
+    "state": "Ladakh",
+    "category": "Micro Irrigation",
+    "description": "Improves water efficiency in dry valley orchards through drip irrigation systems.",
+    "benefits": "50% financial subsidy @ up to ₹73,000 per hectare for micro-drip layout.",
+    "eligibility": [
+      "Orchardists and crop cultivators in Ladakh"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Possession Extract",
+      "Drip System Estimate/Quotation"
+    ],
+    "application_mode": "Offline via District Horticulture Office",
+    "official_website": "https://horticulture.ladakh.gov.in",
+    "last_updated": "2026-04-20"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Tubular UV-Film Structure Assistance for SHGs",
+    "state": "Ladakh",
+    "category": "Community Greenhouse Infrastructure",
+    "description": "Provides high-grade UV-resistant greenhouse structures to women Self-Help Groups (SHGs) for commercial seedling and vegetable raising.",
+    "benefits": "100% subsidy (up to ₹25,500 per unit) for community/SHG level tubular UV structures.",
+    "eligibility": [
+      "Registered Women Self-Help Groups (SHGs) in Ladakh"
+    ],
+    "documents": [
+      "SHG Registration Certificate",
+      "Aadhaar of President/Secretary",
+      "Group Bank Passbook"
+    ],
+    "application_mode": "Offline via Block Development / Agriculture Office",
+    "official_website": "https://ladakh.gov.in",
+    "last_updated": "2026-05-12"
+  }
+]

@@ -1,0 +1,210 @@
+  [
+  {
+    "id": 1,
+    "scheme_name": "Mukhyamantri Kisan Samman Nidhi Yojana",
+    "state": "Rajasthan",
+    "category": "Income Support",
+    "description": "A state-level top-up income support program providing direct financial assistance to landholding farmers over and above the central PM-KISAN payouts.",
+    "benefits": "Additional annual direct benefit transfer (DBT) assistance credited directly into the farmer's bank account in periodic installments.",
+    "eligibility": [
+      "Resident landholding farmers of Rajasthan",
+      "Must be registered and verified under the PM-KISAN database with completed eKYC"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Jamabandi (Land Record Copy)",
+      "Bank Account Passbook linked with Aadhaar",
+      "Jan Aadhar Card"
+    ],
+    "application_mode": "Online via Raj Kisan Sathi Portal / SSO ID",
+    "official_website": "https://rajkisan.rajasthan.gov.in",
+    "last_updated": "2026-06-15"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Rajasthan Tarbandi Yojana (Farm Fencing Subsidy)",
+    "state": "Rajasthan",
+    "category": "Crop Protection",
+    "description": "Offers financial subsidies for boundary wire fencing to protect standing crops from damage caused by stray cattle, Nilgai (blue bulls), and wild animals.",
+    "benefits": "50% to 70% financial subsidy on fencing costs (up to a maximum of ₹48,000 for individual farmers or higher for group clusters up to 400 running meters).",
+    "eligibility": [
+      "Individual farmers possessing at least 1.5 hectares of cultivable land in Rajasthan",
+      "Group of farmers (minimum 2 farmers) possessing combined contiguous land of 1.5 hectares or more"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Jan Aadhar Card",
+      "Jamabandi Extract (less than 6 months old)",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via Raj Kisan Sathi Portal",
+    "official_website": "https://rajkisan.rajasthan.gov.in",
+    "last_updated": "2026-05-28"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Rajasthan Diggi Construction Subsidy Scheme",
+    "state": "Rajasthan",
+    "category": "Water Conservation & Storage",
+    "description": "Provides financial support to construct specialized water storage tanks (Diggis) in canal-irrigated regions to harvest water and ensure life-saving crop irrigation.",
+    "benefits": "Financial grant up to 75% to 85% of total construction cost (capped at ₹3,00,000 to ₹3,40,000 based on capacity and category).",
+    "eligibility": [
+      "Farmers owning at least 0.5 hectares of agricultural land in designated canal command areas of Rajasthan"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Jan Aadhar Card",
+      "Jamabandi Record Extract",
+      "Canal Water Rights Certificate / Irrigation Receipt",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via Raj Kisan Sathi Portal",
+    "official_website": "https://rajkisan.rajasthan.gov.in",
+    "last_updated": "2026-06-02"
+  },
+  {
+    "id": 4,
+    "scheme_name": "PM-KUSUM Component-B Solar Pump Scheme (Rajasthan)",
+    "state": "Rajasthan",
+    "category": "Renewable Energy & Irrigation",
+    "description": "Subsidizes off-grid solar-powered water pumping systems (3 HP to 10 HP) to provide clean, daylight irrigation and eliminate dependence on expensive diesel pumps.",
+    "benefits": "Up to 60% total subsidy (30% Central + 30% State); farmer pays only 40% (or 10% with institutional financing).",
+    "eligibility": [
+      "Farmers with agricultural land having an active open well, borewell, or surface water source without grid power connection"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Jan Aadhar Card",
+      "Jamabandi Copy",
+      "Water Availability Affidavit",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via Raj Kisan Sathi Portal",
+    "official_website": "https://rajkisan.rajasthan.gov.in",
+    "last_updated": "2026-06-20"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Rajasthan Farm Pond (Khet Talai) Scheme",
+    "state": "Rajasthan",
+    "category": "Water Harvesting",
+    "description": "Promotes farm pond construction in rainfed regions to store monsoon runoff for supplementary irrigation during dry spells.",
+    "benefits": "Up to 60% to 70% subsidy (capped between ₹63,000 and ₹1,35,000 depending on plastic lining and farmer category).",
+    "eligibility": [
+      "Landholding farmers in Rajasthan with minimum 0.3 hectares of cultivable land"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Jan Aadhar Card",
+      "Jamabandi Copy",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online via Raj Kisan Sathi Portal",
+    "official_website": "https://rajkisan.rajasthan.gov.in",
+    "last_updated": "2026-04-18"
+  },
+  {
+    "id": 6,
+    "scheme_name": "RajKisan Micro-Irrigation Scheme (Drip & Sprinkler)",
+    "state": "Rajasthan",
+    "category": "Water Management",
+    "description": "Assists farmers in adopting modern drip, mini-sprinkler, and rain-gun irrigation systems to optimize water usage in hyper-arid zones.",
+    "benefits": "70% to 80% subsidy for small, marginal, and women farmers; 50% to 60% subsidy for general category farmers.",
+    "eligibility": [
+      "Farmers owning cultivable land with a functional water source (borewell, diggi, or pond)"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Jan Aadhar Card",
+      "Jamabandi Land Extract",
+      "Registered Vendor Quotation",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via Raj Kisan Sathi Portal",
+    "official_website": "https://rajkisan.rajasthan.gov.in",
+    "last_updated": "2026-05-10"
+  },
+  {
+    "id": 7,
+    "scheme_name": "RajKisan Krishi Yantra Subsidy Scheme",
+    "state": "Rajasthan",
+    "category": "Farm Mechanization",
+    "description": "Provides financial assistance for purchasing essential agricultural machinery such as rotavators, seed-cum-fertilizer drills, threshers, disc harrows, and chizel plows.",
+    "benefits": "40% to 50% capital subsidy (up to ₹15,000–₹1,00,000 depending on machine type and farmer category).",
+    "eligibility": [
+      "Landholding farmers registered on the Raj Kisan Sathi portal in Rajasthan"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Jan Aadhar Card",
+      "Jamabandi Land Proof",
+      "Authorized Dealer Quotation",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via Raj Kisan Sathi Portal",
+    "official_website": "https://rajkisan.rajasthan.gov.in",
+    "last_updated": "2026-06-12"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Rajiv Gandhi Krishak Sathi Sahayata Yojana",
+    "state": "Rajasthan",
+    "category": "Farmer Insurance & Social Security",
+    "description": "Provides financial compensation to farmers and agricultural laborers in the event of accidental death or permanent disability while operating farm machinery or working in fields.",
+    "benefits": "Financial ex-gratia grant of ₹2,00,000 in case of death or total disability; partial compensation ranging from ₹5,00,0 to ₹1,00,000 for limb/eye loss.",
+    "eligibility": [
+      "Farmers, farm laborers, and mandi workers aged between 14 and 70 years residing in Rajasthan"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Jan Aadhar Card",
+      "FIR / Post-Mortem Report (in case of accidental death)",
+      "Disability Certificate (if applicable)",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via Raj Kisan Sathi Portal / Krishi Upaj Mandi Office",
+    "official_website": "https://rajkisan.rajasthan.gov.in",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Mukhyamantri Beej Swavalamban Yojana",
+    "state": "Rajasthan",
+    "category": "Seed Production & Self-Reliance",
+    "description": "Encourages farmers to produce and use certified high-quality seeds of major field crops (wheat, gram, mustard, soybean, barley) on their own farms.",
+    "benefits": "Free foundation/certified seed mini-kits and technical training on seed production and processing.",
+    "eligibility": [
+      "Small, marginal, and progressive farmers cultivating major field crops in Rajasthan"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Jan Aadhar Card",
+      "Jamabandi Copy",
+      "Bank Details"
+    ],
+    "application_mode": "Raj Kisan Sathi Portal / Agriculture Extension Worker (Gram Panchayat)",
+    "official_website": "https://rajkisan.rajasthan.gov.in",
+    "last_updated": "2026-05-04"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Pipeline Subsidy Scheme for Irrigation",
+    "state": "Rajasthan",
+    "category": "Water Distribution",
+    "description": "Offers subsidies for laying underground PVC/HDPE irrigation pipelines from the water source (well/borewell/diggi) directly to crop fields to prevent seepage and evaporation water losses.",
+    "benefits": "50% to 60% financial subsidy on pipe cost (up to a maximum of ₹18,000 to ₹20,000 or ₹50 per meter).",
+    "eligibility": [
+      "Landholding farmers in Rajasthan with an operational water source"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Jan Aadhar Card",
+      "Jamabandi Record",
+      "Pipe Purchase GST Bill from authorized dealer",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via Raj Kisan Sathi Portal",
+    "official_website": "https://rajkisan.rajasthan.gov.in",
+    "last_updated": "2026-06-08"
+  }
+]

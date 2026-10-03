@@ -1,0 +1,201 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Crop Residue Management (CRM) Scheme",
+    "state": "Punjab",
+    "category": "Environmental & Farm Machinery",
+    "description": "A high-priority initiative in Punjab aimed at curbing stubble burning (paddy straw) by subsidizing in-situ and ex-situ crop residue management machinery like Happy Seeders, Super Seeders, Paddy Straw Choppers, and Balers.",
+    "benefits": "50% subsidy for individual farmers and 80% subsidy for Custom Hiring Centers (CHCs), Panchayats, and Farmers Cooperative Societies on approved straw management machinery.",
+    "eligibility": [
+      "Individual farmers owning agricultural land in Punjab",
+      "Registered Farmers Cooperative Societies, Panchayats, and FPOs in Punjab"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Record Documents (Jamabandi / Khasra)",
+      "Bank Account Details",
+      "Tractor Registration Certificate (RC)"
+    ],
+    "application_mode": "Online via Punjab Agripmachinery Portal",
+    "official_website": "https://agrimachinerypb.com",
+    "last_updated": "2026-06-18"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Mukh Mantri Khet Sadak Yojana",
+    "state": "Punjab",
+    "category": "Agricultural Infrastructure",
+    "description": "A state infrastructure project designed to repair, widen, and pave rural link roads connecting agricultural fields to local grain markets (Mandis) to facilitate seamless crop transportation.",
+    "benefits": "State-funded construction and repair of rural agricultural link roads, reducing transport time and crop spillage loss.",
+    "eligibility": [
+      "Community/Panchayat-level infrastructure initiative benefiting all regional farmers in Punjab"
+    ],
+    "documents": [
+      "Gram Panchayat Resolution / Request Form",
+      "Village Land Map Records"
+    ],
+    "application_mode": "Offline via Punjab Mandi Board / District Agriculture Office",
+    "official_website": "https://mandiboard.punjab.gov.in",
+    "last_updated": "2026-04-10"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Pani Bachao, Paisa Kamao (PBPK)",
+    "state": "Punjab",
+    "category": "Water & Energy Conservation",
+    "description": "An innovative voluntary incentive scheme that encourages farmers to conserve groundwater and electricity by offering cash rewards for consuming less electricity than their allocated farm limit for tubewells.",
+    "benefits": "Direct cash transfer of ₹4 per kilowatt-hour (unit) of electricity saved compared to the baseline allocation.",
+    "eligibility": [
+      "Farmers in Punjab with metered agricultural tubewell electricity connections"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "PSPCL Electricity Connection / Meter Account Number",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online / PSPCL (Punjab State Power Corporation Limited) Offices",
+    "official_website": "https://pspcl.in",
+    "last_updated": "2026-05-22"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Direct Sowing of Rice (DSR) Incentive Scheme",
+    "state": "Punjab",
+    "category": "Water Conservation & Agronomy",
+    "description": "Promotes direct seeding of rice instead of traditional nursery transplantation to drastically reduce groundwater consumption and labor requirements during Kharif sowing.",
+    "benefits": "Direct financial incentive of ₹1,500 per acre paid directly into the farmer's bank account.",
+    "eligibility": [
+      "Farmers in Punjab adopting the Direct Sowing of Rice (DSR) technique on their lands",
+      "Verification completed by local Agriculture Extension Officers"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Khasra / Jamabandi Land Records",
+      "Active Bank Passbook",
+      "Self-Declaration Form for DSR Area"
+    ],
+    "application_mode": "Online via AgriPunjab Portal",
+    "official_website": "https://agri.punjab.gov.in",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Punjab Horticulture Crop Insurance Scheme",
+    "state": "Punjab",
+    "category": "Crop Insurance",
+    "description": "A state scheme providing targeted risk coverage for fruit and vegetable growers against adverse weather conditions, unseasonal rains, hail, and disease outbreaks.",
+    "benefits": "Financial compensation up to ₹15,000 to ₹40,000 per acre depending on the specific horticultural crop damaged.",
+    "eligibility": [
+      "Farmers cultivating notified fruit and vegetable crops in Punjab"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Jamabandi (Land Record)",
+      "Bank Passbook",
+      "Sowing Certificate from Patwari/Horticulture Inspector"
+    ],
+    "application_mode": "Online / District Horticulture Office",
+    "official_website": "https://horticulture.punjab.gov.in",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Sub-Mission on Seeds and Planting Material (SMSP) - Punjab",
+    "state": "Punjab",
+    "category": "Seed Subsidies",
+    "description": "Provides high-quality, certified seeds for wheat, paddy, pulses, and fodder crops at subsidized rates to raise crop yields and crop quality across the state.",
+    "benefits": "50% subsidy on the purchase of certified high-yielding seed varieties.",
+    "eligibility": [
+      "All resident farmers registered on the Punjab Agriculture Department portal"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Jamabandi / Land Extract",
+      "Bank Account details"
+    ],
+    "application_mode": "Online Portal / Punjab State Seeds Corporation (PUNSEED) Outlets",
+    "official_website": "https://agri.punjab.gov.in",
+    "last_updated": "2026-05-10"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Punjab Dairy Development Board (PDDB) Capital Subsidy",
+    "state": "Punjab",
+    "category": "Dairy & Animal Husbandry",
+    "description": "Offers capital assistance for modernizing dairy units, purchasing high-yield milch cattle, and setting up automated milking machines and bulk milk coolers.",
+    "benefits": "25% subsidy for general category and 33.33% subsidy for SC category farmers on modern dairy unit setups (up to 20 cattle units).",
+    "eligibility": [
+      "Farmers and unemployed youth residing in Punjab taking up dairy farming",
+      "Completion of basic dairy management training from PDDB"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "PDDB Training Completion Certificate",
+      "Caste Certificate (if applicable)",
+      "Bank Loan Sanction Letter / Passbook"
+    ],
+    "application_mode": "Online / District Dairy Development Office",
+    "official_website": "https://pddb.punjab.gov.in",
+    "last_updated": "2026-04-20"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Punjab Micro-Irrigation Scheme (UGPIP)",
+    "state": "Punjab",
+    "category": "Irrigation Infrastructure",
+    "description": "Focuses on laying Underground Pipeline Systems (UGPIP) for efficient irrigation water distribution from canals and tubewells, eliminating conveyance water losses.",
+    "benefits": "90% subsidy for group/community projects and 50% for individual landholders laying underground irrigation pipelines.",
+    "eligibility": [
+      "Individual landholders or groups of minimum 3 farmers sharing a water source in Punjab"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Jamabandi Records",
+      "Water source approval certificate",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via Soil and Water Conservation Department Punjab",
+    "official_website": "https://soilwaterpunjab.gov.in",
+    "last_updated": "2026-05-05"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Promotion of Organic and Natural Farming - Punjab",
+    "state": "Punjab",
+    "category": "Organic Farming",
+    "description": "Encourages farmers to transition land from chemical-intensive practices to certified organic and natural farming through input grants and eco-marketing aid.",
+    "benefits": "Financial assistance up to ₹10,000 per acre spread over 3 years for organic inputs, soil testing, and certification.",
+    "eligibility": [
+      "Farmers in Punjab dedicating a minimum of 1 acre of land to organic farming"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Jamabandi / Land Proof",
+      "Bank Passbook",
+      "Organic Farmer Registration Form"
+    ],
+    "application_mode": "Offline via District Organic Farming Cell / Online Portal",
+    "official_website": "https://agri.punjab.gov.in",
+    "last_updated": "2026-04-01"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Punjab Agricultural Insurance & Disaster Relief",
+    "state": "Punjab",
+    "category": "Disaster Financial Relief",
+    "description": "Provides state compensation to farmers experiencing significant crop loss caused by floods, hail, pest outbreaks, or unexpected weather disruptions.",
+    "benefits": "Direct compensation up to ₹15,000 per acre for 75% to 100% crop damage.",
+    "eligibility": [
+      "Farmers in notified flood-affected or natural calamity-hit districts in Punjab"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Jamabandi Land Record",
+      "Girdawari Report (Special Crop Loss Assessment by Revenue Dept)",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "District Revenue Officer / Local Revenue Patwari verification",
+    "official_website": "https://punjab.gov.in",
+    "last_updated": "2026-06-25"
+  }
+]

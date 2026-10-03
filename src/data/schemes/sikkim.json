@@ -1,0 +1,208 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Sikkim Garib Thekka Incentive Scheme (Production Incentive Scheme)",
+    "state": "Sikkim",
+    "category": "Direct Income Support & Crop Incentive",
+    "description": "Provides direct financial cash incentives to local organic farmers based on the quantity of certified organic crops produced and sold through formal channels to boost rural incomes.",
+    "benefits": "Direct cash incentive paid per kilogram for major crops like Large Cardamom (₹100/kg), Ginger (₹20/kg), Turmeric (₹10/kg), Buckwheat (₹10/kg), and Milk (₹8/liter).",
+    "eligibility": [
+      "Organic farmers residing in Sikkim selling produce through recognized cooperatives, FPOs, or government procurement centers",
+      "Must hold Sikkim Subject Certificate / Certificate of Identification (CoI)"
+    ],
+    "documents": [
+      "Sikkim Subject Certificate / Certificate of Identification (CoI)",
+      "Aadhaar Card Copy",
+      "Organic Farmer Registration Card",
+      "Produce Sale Receipt from FPO / Cooperative",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via District Horticulture / Agriculture Extension Officer or Local FPO",
+    "official_website": "https://sikkim.gov.in",
+    "last_updated": "2026-06-20"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Sikkim Organic Mission & NPOP/PGS Certification Scheme",
+    "state": "Sikkim",
+    "category": "Organic Farming & Certification",
+    "description": "Maintains and expands Sikkim's status as India's 100% organic state by funding organic inputs, bio-pesticides, soil testing, and free organic re-certification.",
+    "benefits": "Free supply of certified bio-fertilizers and bio-pesticides, zero-cost third-party NPOP/PGS organic certification, and training on vermicomposting.",
+    "eligibility": [
+      "All practicing farmers and landholders operating agricultural land in Sikkim"
+    ],
+    "documents": [
+      "Certificate of Identification (CoI) / Domicile Proof",
+      "Aadhaar Card Copy",
+      "Land Ownership Document (Parcha Copy)",
+      "Organic Farmer Identity Card"
+    ],
+    "application_mode": "Offline via Block Agriculture Development Officer (ADO) / Sikkim Organic Mission Office",
+    "official_website": "https://sikkimorganicmission.gov.in",
+    "last_updated": "2026-06-12"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Integrated Horticulture Development Scheme (Polyhouse & Floriculture)",
+    "state": "Sikkim",
+    "category": "Protected Cultivation & Floriculture",
+    "description": "Supports commercial greenhouse cultivation of high-value orchids (Cymbidium), Gerbera, Rose, and off-season organic vegetables tailored for hill climates.",
+    "benefits": "50% to 75% capital subsidy for installing polyhouses, shade-net structures, drip irrigation systems, and purchasing disease-free tissue culture plantlets.",
+    "eligibility": [
+      "Horticulture growers and registered SHGs in Sikkim with suitable land terrace access"
+    ],
+    "documents": [
+      "Certificate of Identification (CoI)",
+      "Aadhaar Card Copy",
+      "Land Record (Parcha Extract)",
+      "Polyhouse Blueprint & Dealer Quotation",
+      "Bank Passbook Details"
+    ],
+    "application_mode": "Offline via District Horticulture Officer (DHO) / Horticulture Department",
+    "official_website": "https://horticulture.sikkim.gov.in",
+    "last_updated": "2026-06-05"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Sikkim Large Cardamom Rejuvenation Mission",
+    "state": "Sikkim",
+    "category": "High-Value Cash Crops",
+    "description": "Aims to restore and expand high-yielding Large Cardamom plantations across hill districts by replacing disease-affected old bushes with certified virus-free suckers.",
+    "benefits": "Financial assistance of up to ₹70,000 per hectare for trench digging, certified disease-free suckers, organic inputs, and eco-friendly cardamom curing kilns (Bhatti).",
+    "eligibility": [
+      "Traditional cardamom growers and landowners in Sikkim"
+    ],
+    "documents": [
+      "Certificate of Identification (CoI)",
+      "Aadhaar Card Copy",
+      "Land Parcha Copy",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via District Horticulture Office / Spices Board Local Office",
+    "official_website": "https://horticulture.sikkim.gov.in",
+    "last_updated": "2026-05-25"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Sub-Mission on Agricultural Mechanization (SMAM - Sikkim)",
+    "state": "Sikkim",
+    "category": "Farm Mechanization",
+    "description": "Provides financial subsidies on power tillers, brush cutters, mini-paddy threshers, and power weeders engineered specifically for terrace farming in mountain terrain.",
+    "benefits": "50% to 80% subsidy for individual smallholders and up to 80% subsidy for establishing Custom Hiring Centers (CHCs) operated by SHGs/Cooperatives.",
+    "eligibility": [
+      "Farmers owning or cultivating land in Sikkim, registered SHGs, and cooperatives"
+    ],
+    "documents": [
+      "Certificate of Identification (CoI)",
+      "Aadhaar Card Copy",
+      "Land Record Parcha Copy",
+      "Equipment Proforma Invoice",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online via Agmachinery Portal / Offline via District Agriculture Officer",
+    "official_website": "https://sikkim.gov.in",
+    "last_updated": "2026-05-20"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Chief Minister’s Livestock Development Incentive Scheme",
+    "state": "Sikkim",
+    "category": "Animal Husbandry & Dairy",
+    "description": "Promotes high-yielding dairy farming, goat rearing, and backyard piggery by providing cattle purchase grants and milk production bonuses.",
+    "benefits": "Direct cash bonus of ₹8 per liter of milk delivered to dairy cooperatives, 50% subsidy on buying crossbred cows/pigs, and free artificial insemination/vaccination.",
+    "eligibility": [
+      "Livestock farmers and rural households in Sikkim holding CoI / Resident Proof"
+    ],
+    "documents": [
+      "Certificate of Identification (CoI)",
+      "Aadhaar Card Copy",
+      "Dairy Cooperative Membership ID",
+      "Bank Account Passbook Details"
+    ],
+    "application_mode": "Offline via District Animal Husbandry Officer / Local Dairy Cooperative Society",
+    "official_website": "https://sikkim.gov.in",
+    "last_updated": "2026-06-15"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Sikkim Trout Culture & Cold-Water Fisheries Mission",
+    "state": "Sikkim",
+    "category": "Fisheries & High-Altitude Aquaculture",
+    "description": "Leverages cold freshwater mountain streams to promote high-value Rainbow Trout culture and carp farming in raceways and tanks.",
+    "benefits": "60% financial subsidy for constructing concrete trout raceways, purchasing high-quality trout ova/fingerlings, and specialized floating fish feed.",
+    "eligibility": [
+      "Landholders and mountain farmers in Sikkim with access to perennial cold-water streams"
+    ],
+    "documents": [
+      "Certificate of Identification (CoI)",
+      "Aadhaar Card Copy",
+      "Land Parcha Copy",
+      "Stream Water Quality / Availability Certificate",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Directorate of Fisheries / District Fisheries Officer",
+    "official_website": "https://sikkim.gov.in",
+    "last_updated": "2026-06-08"
+  },
+  {
+    "id": 8,
+    "scheme_name": "PM-KUSUM Off-Grid Solar Pumping Scheme (Sikkim Component)",
+    "state": "Sikkim",
+    "category": "Renewable Energy & Off-Grid Irrigation",
+    "description": "Installs standalone solar-powered water pumpsets on remote mountain slopes where regular electricity grid connections are inaccessible.",
+    "benefits": "Up to 85% combined central and state financial subsidy on standalone solar water pumpsets (2 HP to 5 HP).",
+    "eligibility": [
+      "Farmers owning land in Sikkim with access to surface water sources (springs/rivers) lacking electricity grid power"
+    ],
+    "documents": [
+      "Certificate of Identification (CoI)",
+      "Aadhaar Card Copy",
+      "Land Record Parcha Copy",
+      "Self-Declaration of No Grid Power",
+      "Bank Passbook Details"
+    ],
+    "application_mode": "Offline via SREDA (Sikkim Renewable Energy Development Agency) / District Agriculture Office",
+    "official_website": "https://sreda.sikkim.gov.in",
+    "last_updated": "2026-04-30"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Sikkim Buckwheat & Traditional Crop Revival Scheme",
+    "state": "Sikkim",
+    "category": "Indigenous Food Crops",
+    "description": "Encourages cultivation of traditional climate-resilient crops like Buckwheat (Mithey/Titey Phaper), Finger Millet, and Native Beans to enhance nutritional security and soil health.",
+    "benefits": "Free distribution of high-quality seeds, ₹10,000 per hectare incentive for traditional crop cultivation, and guaranteed state marketing support.",
+    "eligibility": [
+      "Farmers cultivating indigenous crops in hill areas of Sikkim"
+    ],
+    "documents": [
+      "Certificate of Identification (CoI)",
+      "Aadhaar Card Copy",
+      "Land Record Copy",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Block Agriculture Development Office",
+    "official_website": "https://sikkim.gov.in",
+    "last_updated": "2026-05-18"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Terrace Land Development & Spring-Shed Rejuvenation Scheme",
+    "state": "Sikkim",
+    "category": "Soil & Water Conservation",
+    "description": "Provides financial and technical support for bench terracing, contour stone bunding, and recharging dried-up mountain springs (Dhars) for year-round agricultural water.",
+    "benefits": "Financial grant up to ₹30,000 per hectare for bench terrace construction and spring-shed recharge structure building.",
+    "eligibility": [
+      "Farmers practicing hill slope agriculture in Sikkim"
+    ],
+    "documents": [
+      "Certificate of Identification (CoI)",
+      "Aadhaar Card Copy",
+      "Land Record (Parcha Copy)",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via District Water Resources / Soil Conservation Department",
+    "official_website": "https://sikkim.gov.in",
+    "last_updated": "2026-05-10"
+  }
+]

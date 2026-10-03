@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Kalaignarin All Village Integrated Agricultural Development Programme",
+    "state": "Tamil Nadu",
+    "category": "Integrated Village Development",
+    "description": "A comprehensive multi-departmental program targeting overall agricultural development at the Gram Panchayat level by converting fallow lands into cultivable land and creating water assets.",
+    "benefits": "Free distribution of coconut saplings, horticulture kits, micro-irrigation grants, and community borewell installations.",
+    "eligibility": [
+      "Farmers residing in selected focus Gram Panchayats across Tamil Nadu"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Patta / Chitta Land Records",
+      "Ration Card",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online via Uzhavan App / Village Agricultural Extension Centers",
+    "official_website": "https://tnagrisnet.tn.gov.in",
+    "last_updated": "2026-06-05"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Chief Minister's Solar Powered Pumpset Scheme",
+    "state": "Tamil Nadu",
+    "category": "Renewable Energy & Irrigation",
+    "description": "Provides standalone off-grid solar-powered irrigation pumpsets to replace diesel engines, ensuring uninterrupted daytime crop irrigation.",
+    "benefits": "70% state subsidy (30% Central + 40% State) on 5 HP, 7.5 HP, and 10 HP solar pumpsets; farmer pays remaining 30%.",
+    "eligibility": [
+      "Farmers in Tamil Nadu with an active well/borewell water source",
+      "Must not have an existing TANGEDCO grid agricultural electricity connection"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Patta / Chitta Documents",
+      "TANGEDCO No-Objection Certificate (NOC)",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via Uzhavan App / AED (Agricultural Engineering Dept)",
+    "official_website": "https://aed.tn.gov.in",
+    "last_updated": "2026-05-12"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Tamil Nadu Millet Mission",
+    "state": "Tamil Nadu",
+    "category": "Crop Diversification & Nutrition",
+    "description": "Promotes cultivation and processing of major and minor millets (Ragi, Cholam, Kambu, Samai) across rainfed districts to tackle climate resilience and dietary health.",
+    "benefits": "100% subsidy on millet seed mini-kits, 50% subsidy on crop production inputs, and grants for establishing millet processing machinery.",
+    "eligibility": [
+      "Farmers and Self-Help Groups (SHGs) cultivating millets in notified Tamil Nadu districts"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Patta / Chitta Copy",
+      "Uzhavan App Registration ID",
+      "Bank Passbook"
+    ],
+    "application_mode": "Uzhavan Mobile App / Local Block Agri Office",
+    "official_website": "https://tnagrisnet.tn.gov.in",
+    "last_updated": "2026-06-20"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Tamil Nadu Organic Farming Mission",
+    "state": "Tamil Nadu",
+    "category": "Organic Farming & Certification",
+    "description": "Aimed at transforming chemical-intensive agricultural lands into chemical-free certified organic farms through training, bio-input production hubs, and certification support.",
+    "benefits": "Financial aid of ₹10,000 per hectare for organic inputs, vermicompost unit setup, and free PGS/TNOCCA organic certification.",
+    "eligibility": [
+      "Individual farmers or farmer clusters dedicated to converting land to organic practices"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Patta / Chitta Land Record",
+      "Bank Account Details",
+      "Organic Cultivation Self-Declaration Form"
+    ],
+    "application_mode": "Online via TNOCCA Portal / Uzhavan App",
+    "official_website": "https://tnagrisnet.tn.gov.in",
+    "last_updated": "2026-04-15"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Chief Minister's Mannuyir Kaathu Mannuyir Kaapom Scheme",
+    "state": "Tamil Nadu",
+    "category": "Soil Health & Sustainability",
+    "description": "Focuses on rebuilding soil organic carbon and soil health by distributing green manure seeds, bio-fertilizers, and liquid bio-inoculants statewide.",
+    "benefits": "50% subsidy on green manure seeds (Daincha, Sunnhemp) and free distribution of bio-fertilizers/Trichoderma viride kits.",
+    "eligibility": [
+      "All resident farmers holding agricultural land in Tamil Nadu"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Patta / Chitta Copy",
+      "Uzhavan Registration ID"
+    ],
+    "application_mode": "Uzhavan App / Agricultural Extension Center (AEC)",
+    "official_website": "https://tnagrisnet.tn.gov.in",
+    "last_updated": "2026-05-30"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Tamil Nadu Agricultural Mechanization Scheme",
+    "state": "Tamil Nadu",
+    "category": "Farm Machinery",
+    "description": "Subsidizes high-cost agricultural machinery including power weeders, paddy transplanters, tractors, sugarcane harvesters, and brush cutters.",
+    "benefits": "40% subsidy for general category farmers and 50% subsidy for SC/ST, small, marginal, and women farmers.",
+    "eligibility": [
+      "Resident farmers registered on the Uzhavan portal in Tamil Nadu"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Patta / Chitta Land Proof",
+      "Proforma Invoice from authorized manufacturer",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via Uzhavan App / AED Portal",
+    "official_website": "https://aed.tn.gov.in",
+    "last_updated": "2026-06-10"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Kuruvai Paddy Special Package Scheme",
+    "state": "Tamil Nadu",
+    "category": "Seasonal Production Support",
+    "description": "A targeted seasonal package for Delta region farmers to maximize Kuruvai paddy production using certified seeds, fertilizers, and mechanized transplanting.",
+    "benefits": "Full subsidy (100%) on certified paddy seeds, micronutrient mixtures, and chemical fertilizers for eligible acres.",
+    "eligibility": [
+      "Paddy farmers in Cauvery Delta districts (Thanjavur, Tiruvarur, Nagapattinam, Mayiladuthurai, etc.)"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Patta / Chitta / Adangal Record",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Uzhavan Mobile App / Local Agri Extension Officers",
+    "official_website": "https://tnagrisnet.tn.gov.in",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Periyar Ninaivu Samathuvapuram Horticulture Kit Distribution",
+    "state": "Tamil Nadu",
+    "category": "Horticulture & Kitchen Gardening",
+    "description": "Promotes household nutritional security by distributing rooftop vegetable gardening kits, fruit tree saplings, and high-yield seed packets to rural and semi-urban households.",
+    "benefits": "75% subsidized rooftop garden kits, fruit plants (Guava, Amla, Lemon), and vegetable seed mini-kits.",
+    "eligibility": [
+      "Resident households, women, and small farmers across Tamil Nadu"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Ration Card"
+    ],
+    "application_mode": "Online via Uzhavan App / Horticulture Department Outlets",
+    "official_website": "https://tnhorticulture.tn.gov.in",
+    "last_updated": "2026-03-25"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Tamil Nadu Micro Irrigation Scheme (TANIDA / PMKSY)",
+    "state": "Tamil Nadu",
+    "category": "Water Conservation",
+    "description": "Provides financial aid for installing drip and sprinkler irrigation systems to conserve water in sugarcane, banana, coconut, and vegetable crop fields.",
+    "benefits": "100% full subsidy for Small and Marginal farmers; 75% subsidy for other landholding farmers.",
+    "eligibility": [
+      "Landholding farmers in Tamil Nadu with functional irrigation wells or canal access"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Patta / Chitta & Adangal Extracts",
+      "Field Sketch (FMB)",
+      "Bank Account Details"
+    ],
+    "application_mode": "Uzhavan App / Micro Irrigation Information System (MIIS) Portal",
+    "official_website": "https://tnhorticulture.tn.gov.in",
+    "last_updated": "2026-05-18"
+  },
+  {
+    "id": 10,
+    "scheme_name": "State Protected Agricultural Zone (SPAZ) Sustainable Support",
+    "state": "Tamil Nadu",
+    "category": "Ecological Preservation & Credit",
+    "description": "Provides special financial and input incentives to farmers in the Cauvery Delta region to preserve agricultural land from industrial encroachment and support pulse/oilseed cultivation.",
+    "benefits": "Subsidized pulse seed kits, free soil health testing, and prioritized zero-interest seasonal crop loans.",
+    "eligibility": [
+      "Farmers holding agricultural land within the designated Protected Agricultural Zone districts"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Patta / Chitta Record",
+      "Cooperative Bank Account Details"
+    ],
+    "application_mode": "Online via Uzhavan App / Local Primary Agricultural Cooperative Societies (PACCS)",
+    "official_website": "https://tnagrisnet.tn.gov.in",
+    "last_updated": "2026-04-30"
+  }
+]

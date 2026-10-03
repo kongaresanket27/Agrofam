@@ -1,0 +1,199 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Mission Queen Pineapple Value Chain Development",
+    "state": "Tripura",
+    "category": "Horticulture & GI Crop Export Promotion",
+    "description": "A comprehensive convergence-led initiative designed to transform Tripura's GI-tagged 'Queen Pineapple' into a globally recognized brand by building end-to-end post-harvest infrastructure, cold chains, and market linkages.",
+    "benefits": "Comprehensive value-chain support including planting material assistance, hub-and-spoke cold storage access, reefer logistics, organic certification, and direct buyer linkages.",
+    "eligibility": [
+      "Pineapple cultivators, Farmer Producer Organizations (FPOs), and agricultural entrepreneurs in Tripura"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Ownership / Lease Document",
+      "FPO / Farmer Registration Proof",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via Tripura Horticulture Portal / Offline through District Horticulture Office",
+    "official_website": "https://tnhorticulture.tripura.gov.in",
+    "last_updated": "2026-06-20"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Tripura Rubber Plantation & Replanting Development Scheme",
+    "state": "Tripura",
+    "category": "Cash Crops & Plantation Economy",
+    "description": "Provides financial and technical assistance for expanding new rubber plantations and rejuvenating old, senile rubber orchards across suitable hill tracts of Tripura.",
+    "benefits": "Financial subsidies ranging up to 50% of development costs, distribution of high-yielding clonal saplings, and technical advisory support through the Rubber Board convergence.",
+    "eligibility": [
+      "Small and marginal rubber growers, tribal farmers with land rights, and TTAADC beneficiaries in Tripura"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Patta / Forest Rights Act (RoFR) Land Document",
+      "Rubber Board Registration Certificate",
+      "Bank Passbook Copy"
+    ],
+    "application_mode": "Offline via Rubber Board Regional Offices / Tripura Forest Development and Plantation Corporation (TFDPC)",
+    "official_website": "https://rubberboard.org.in",
+    "last_updated": "2026-06-18"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Tripura True Potato Seed (TPS) & Hybrid Tuberlet Promotion Scheme",
+    "state": "Tripura",
+    "category": "Seed Technology & Vegetable Self-Sufficiency",
+    "description": "Leverages advanced True Potato Seed (TPS) and hybrid tuberlet technology developed at the State Horticulture Research Complex to produce disease-resistant, high-yield potato crops locally.",
+    "benefits": "Subsidized distribution of hybrid potato seedling tubers, technical training on late-blight management, and cold-storage preservation assistance.",
+    "eligibility": [
+      "Potato growers and cooperative farming groups registered with Tripura Horticulture Corporation Ltd (THCL)"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Possession Certificate",
+      "THCL Grower Registration Card",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via State Horticulture Research Complex, Nagicherra / Local Agriculture Office",
+    "official_website": "https://agri.tripura.gov.in",
+    "last_updated": "2026-06-15"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Tripura Orange Cultivation & Hilly Floriculture Expansion Mission",
+    "state": "Tripura",
+    "category": "Hill Agriculture & High-Value Floriculture",
+    "description": "Expands citrus (orange/mosambi) orchards into hilly terrains (Baramura, Jampui Hills, Sakhan Hills, Gomati) and promotes round-the-year commercial floriculture.",
+    "benefits": "Subsidized sapling distribution, orchard rejuvenation grants (₹2,000 per hectare support for old orchards), and protected flower cultivation input kits.",
+    "eligibility": [
+      "Farmers and tribal cultivators residing in hilly and designated horticultural zones of Tripura"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Patta / RoFR Document",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via Tripura Horticulture Portal / Offline through District Horticulture Officer",
+    "official_website": "https://tnhorticulture.tripura.gov.in",
+    "last_updated": "2026-06-12"
+  },
+  {
+    "id": 5,
+    "scheme_name": "State Micro-Irrigation Scheme (MIDH Convergence - Tripura)",
+    "state": "Tripura",
+    "category": "Water Conservation & Irrigation",
+    "description": "Promotes drip and sprinkler irrigation systems to maximize water use efficiency during dry spells for vegetable, fruit, and plantation crops.",
+    "benefits": "Up to 50% to 80% capital subsidy on installation of drip and sprinkler irrigation systems, prioritized for small, marginal, and tribal farmers.",
+    "eligibility": [
+      "Farmers in Tripura owning cultivable land with an assured water source"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Ownership Document / Patta",
+      "Water Source Availability Certificate",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via MIDH Portal / Offline through District Superintendent of Agriculture",
+    "official_website": "https://agri.tripura.gov.in",
+    "last_updated": "2026-06-10"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Tripura Chief Minister's Krishi Protsahan & Input Subsidy Scheme",
+    "state": "Tripura",
+    "category": "Direct Input Support & Crop Production",
+    "description": "Provides essential agricultural inputs including certified high-yielding seeds, bio-fertilizers, and plant protection chemicals at heavily subsidized rates to boost staple food production.",
+    "benefits": "50% to 100% subsidy on seasonal seed minikits (paddy, pulses, oilseeds), bio-pesticides, and soil health card remedial inputs.",
+    "eligibility": [
+      "All registered farmers, particularly small and marginal farmers across rural subdivisions of Tripura"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Record / Land Possession Certificate",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via Block Agriculture Extension Office / Village Agriculture Worker (VLW)",
+    "official_website": "https://agri.tripura.gov.in",
+    "last_updated": "2026-06-05"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Tripura Integrated Inland Fisheries & Aquaculture Development Scheme",
+    "state": "Tripura",
+    "category": "Fisheries & Rural Livelihoods",
+    "description": "Supports excavation of new fish ponds, renovation of derelict water bodies, Biofloc fish farming units, and free fish fingerling stocking in public and community reservoirs.",
+    "benefits": "40% to 60% subsidy on pond construction, fish feed, aerators, and 100% free distribution of fish fingerlings for community water bodies.",
+    "eligibility": [
+      "Inland fish farmers, Matsyajibi Cooperative Societies, and rural households in Tripura"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Pond Ownership or Long-Term Lease Agreement",
+      "Fishery Cooperative Membership Card (if applicable)",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via Tripura Fisheries Portal / Offline via District Superintendent of Fisheries",
+    "official_website": "https://fisheries.tripura.gov.in",
+    "last_updated": "2026-06-02"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Tripura Animal Resource Development (ARDD) Backyard Poultry & Piggery Scheme",
+    "state": "Tripura",
+    "category": "Animal Husbandry & Nutritional Security",
+    "description": "Enhances rural household incomes and nutritional standards by distributing subsidized high-yielding backyard poultry (Vanaraja/Giriraja) and piggery units.",
+    "benefits": "Subsidized distribution of chick units, piglet breeding pairs, low-cost shelter construction assistance, and free vaccination camps.",
+    "eligibility": [
+      "Rural families, women Self-Help Groups (SHGs), and BPL/tribal households in Tripura"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "BPL Card / Ration Card",
+      "SHG Membership Proof (if applicable)",
+      "Bank Passbook Details"
+    ],
+    "application_mode": "Offline via Local Veterinary Dispensary / District Animal Resource Development Office",
+    "official_website": "https://ardd.tripura.gov.in",
+    "last_updated": "2026-05-28"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Tripura Organic & Natural Farming Promotion Mission (PKVY Convergence)",
+    "state": "Tripura",
+    "category": "Sustainable Agriculture & Organic Certification",
+    "description": "Encourages chemical-free, eco-friendly farming practices by organizing farmer clusters, providing organic inputs, and facilitating Participatory Guarantee System (PGS) certification.",
+    "benefits": "Financial assistance of ₹50,000 per hectare spread over 3 years for organic inputs, cluster formation, packaging, and branding of native organic produce.",
+    "eligibility": [
+      "Farmers forming clusters of at least 20 hectares practicing or willing to adopt organic farming in Tripura"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Cluster Member List & Land Documents",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via National Center for Organic Farming Portal / Offline through District Agriculture Office",
+    "official_website": "https://agri.tripura.gov.in",
+    "last_updated": "2026-05-20"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Tripura Agricultural Mechanization & Power Tiller Distribution Scheme",
+    "state": "Tripura",
+    "category": "Farm Mechanization",
+    "description": "Overcomes labor shortages in hilly and wetland terrains by providing capital subsidies on power tillers, brush cutters, weeders, and small multi-crop threshers.",
+    "benefits": "40% to 50% subsidy on purchasing power tillers and farm machinery through Tripura Horticulture Corporation and Agriculture Department channels.",
+    "eligibility": [
+      "Farmers and registered farming cooperatives holding land in Tripura"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Ownership Document / Patta",
+      "Dealer Quotation / Proforma Invoice",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online via Agri DBT Portal / Offline through Block Agriculture Office",
+    "official_website": "https://agri.tripura.gov.in",
+    "last_updated": "2026-05-15"
+  }
+]

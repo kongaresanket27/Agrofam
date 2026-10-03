@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "UP Krishi Yantra Subsidy Yojana",
+    "state": "Uttar Pradesh",
+    "category": "Farm Mechanization",
+    "description": "Offers financial assistance to farmers in Uttar Pradesh to purchase modern agricultural equipment such as laser land levelers, rotavators, tractors, seed drills, and power tillers.",
+    "benefits": "50% to 80% subsidy on selected agricultural machinery (higher percentages apply to small, marginal, and SC/ST farmers).",
+    "eligibility": [
+      "Resident farmers of Uttar Pradesh registered on the UP Agriculture Portal (Pardarshi Kisan Seva Yojana)"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Khasra/Khatauni Land Record",
+      "UP Kisan Registration Number",
+      "Bank Account details"
+    ],
+    "application_mode": "Online via UP Agriculture Portal",
+    "official_website": "http://upagriculture.com",
+    "last_updated": "2026-06-05"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Mukhyamantri Kisan Sarvhit Bima Yojana",
+    "state": "Uttar Pradesh",
+    "category": "Insurance & Social Security",
+    "description": "A comprehensive social security and insurance scheme that provides financial protection to agricultural families in UP against accidental death, permanent disability, and emergency medical costs.",
+    "benefits": "Accidental death/disability coverage up to ₹5 Lakh, along with emergency hospitalization coverage up to ₹2.5 Lakh.",
+    "eligibility": [
+      "Head of household/farmer residing in Uttar Pradesh aged 18 to 70 years",
+      "Annual family income below ₹75,000 or landless/marginal farmers"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Khasra/Khatauni (Land Record) or BPL Ration Card",
+      "Nominee Details"
+    ],
+    "application_mode": "Online via UP Social Welfare Portal / District Agriculture Office",
+    "official_website": "http://upagriculture.com",
+    "last_updated": "2026-04-12"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Mukhyamantri Khet Suraksha Yojana",
+    "state": "Uttar Pradesh",
+    "category": "Crop Protection",
+    "description": "Provides financial aid for installing low-voltage solar fencing around farm perimeters to protect standing crops from wild and stray animals without causing harm to animals.",
+    "benefits": "Subsidy up to 60% (maximum ₹1.43 Lakh per hectare) for installing solar-powered crop protection fencing.",
+    "eligibility": [
+      "Small and marginal farmers of Uttar Pradesh",
+      "Available for individual or cluster farm plots"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Ownership Document (Khatauni)",
+      "Bank Account Passbook",
+      "UP Kisan Registration ID"
+    ],
+    "application_mode": "Online via UP Agriculture Portal",
+    "official_website": "http://upagriculture.com",
+    "last_updated": "2026-05-30"
+  },
+  {
+    "id": 4,
+    "scheme_name": "UP Agris Scheme (Agricultural Resilient & Inclusive Systems)",
+    "state": "Uttar Pradesh",
+    "category": "Climate Resilient Farming",
+    "description": "A World Bank-assisted flagship initiative targeting climate resilience, crop diversification (pulses, oilseeds), seed sovereignty, and post-harvest supply chain development across Uttar Pradesh.",
+    "benefits": "Direct subsidies on climate-resilient seed varieties, bio-pesticides, drip irrigation setups, and cold storage linkage grants.",
+    "eligibility": [
+      "Farmers, Self-Help Groups (SHGs), and Farmer Producer Organizations (FPOs) operating in UP"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Record Documents",
+      "Bank Passbook",
+      "FPO Registration Certificate (if applying as FPO)"
+    ],
+    "application_mode": "Online / District Agriculture Extension Offices",
+    "official_website": "http://upagriculture.com",
+    "last_updated": "2026-06-20"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Kisan Pathshala (Million Farmers School)",
+    "state": "Uttar Pradesh",
+    "category": "Agricultural Extension & Training",
+    "description": "A statewide extension and capacity-building initiative conducted at the Gram Panchayat level to train farmers in modern cropping techniques, soil health management, natural farming, and government scheme awareness.",
+    "benefits": "Free practical field training, soil testing kits, complimentary high-yield seed mini-kits, and direct connection with agricultural scientists.",
+    "eligibility": [
+      "Open to all farmers residing in Uttar Pradesh"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Kisan Credit Card / UP Kisan Registration"
+    ],
+    "application_mode": "Direct participation at Village Panchayat Training Centers",
+    "official_website": "http://upagriculture.com",
+    "last_updated": "2026-03-10"
+  },
+  {
+    "id": 6,
+    "scheme_name": "PM-KUSUM Component-B (Solar Pump Scheme UP)",
+    "state": "Uttar Pradesh",
+    "category": "Renewable Energy & Irrigation",
+    "description": "Encourages farmers to replace diesel irrigation pumps with eco-friendly solar-powered pumps, reducing operational costs and supporting sustainable irrigation.",
+    "benefits": "60% overall subsidy (30% Central + 30% State) on 2 HP, 3 HP, 5 HP, and 7.5 HP standalone solar pump installations.",
+    "eligibility": [
+      "Farmers owning agricultural land with a valid water source (borewell/well)",
+      "Farmers who have not previously availed solar pump subsidies"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Khatauni Land Record",
+      "Bank Passbook",
+      "Water Source Proof"
+    ],
+    "application_mode": "Online via UP Agriculture Portal (e-lottery mode)",
+    "official_website": "http://upagriculture.com",
+    "last_updated": "2026-05-15"
+  },
+  {
+    "id": 7,
+    "scheme_name": "UP Pulses and Oilseeds Mission",
+    "state": "Uttar Pradesh",
+    "category": "Crop Diversification",
+    "description": "Designed to encourage crop diversification away from water-intensive rice-wheat cycles toward high-value pulses (Gram, Arhar, Urad) and oilseeds (Mustard, Groundnut).",
+    "benefits": "Free certified seed mini-kits (up to 100% subsidy) and specialized bio-fertilizer packages.",
+    "eligibility": [
+      "Small and marginal farmers willing to allocate land for pulses and oilseed cultivation in notified districts"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Khasra/Khatauni Proof",
+      "UP Farmer Registration ID"
+    ],
+    "application_mode": "Online portal registration / Local Krishi Vigyan Kendra (KVK)",
+    "official_website": "http://upagriculture.com",
+    "last_updated": "2026-04-18"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Kisan Credit Card (KCC) - Crop & Livestock Loan UP",
+    "state": "Uttar Pradesh",
+    "category": "Farm Credit",
+    "description": "Provides short-term credit facilities at heavily subsidized interest rates to meet agricultural, animal husbandry, and dairy operational costs.",
+    "benefits": "Institutional credit up to ₹3 Lakh (extended to ₹5 Lakh) at an effective interest rate of 4% per annum upon prompt repayment.",
+    "eligibility": [
+      "Individual landowning farmers, tenant farmers, sharecroppers, oral lessees, and dairy/poultry farmers in UP"
+    ],
+    "documents": [
+      "KCC Application Form",
+      "Aadhaar Card & PAN Card",
+      "Khatauni Land Extract",
+      "No-Dues Certificate from local banks"
+    ],
+    "application_mode": "Online via Banks / CSCs / Land Development Banks",
+    "official_website": "http://upagriculture.com",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "id": 9,
+    "scheme_name": "UP Commercial Crop & Micro-Irrigation Subsidy",
+    "state": "Uttar Pradesh",
+    "category": "Water Management",
+    "description": "Promotes micro-irrigation systems (drip and sprinkler) specifically for sugarcane, horticulture, and commercial crops to improve water-use efficiency.",
+    "benefits": "Subsidies ranging between 80% to 90% for small and marginal farmers on drip and sprinkler hardware installation.",
+    "eligibility": [
+      "Farmers growing sugarcane, horticultural, or vegetable crops in Uttar Pradesh with available irrigation sources"
+    ],
+    "documents": [
+      "Khatauni Land Record",
+      "Aadhaar Card",
+      "Electricity Bill / Pump Connection Details",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online via UP Agriculture Portal",
+    "official_website": "http://upagriculture.com",
+    "last_updated": "2026-05-25"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Pardarshi Kisan Seva Yojana (UP Farmer Registration)",
+    "state": "Uttar Pradesh",
+    "category": "Direct Benefit Transfer (DBT)",
+    "description": "The unified Single-Sign-On portal for Uttar Pradesh farmers that links all state and central agricultural subsidies (seeds, fertilizers, machinery, solar) directly to their bank accounts.",
+    "benefits": "Single window access to all state farm schemes and direct benefit transfers without intermediary deductions.",
+    "eligibility": [
+      "All resident agricultural landholders in Uttar Pradesh"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Khatauni Land Copy",
+      "Aadhaar-linked Bank Passbook",
+      "Mobile Number linked with Aadhaar"
+    ],
+    "application_mode": "Online via Portal or nearest CSC / Jan Seva Kendra",
+    "official_website": "http://upagriculture.com",
+    "last_updated": "2026-07-01"
+  }
+]

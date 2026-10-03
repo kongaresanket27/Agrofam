@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Chief Minister Krishi Sa-Sajuli Yojana",
+    "state": "Assam",
+    "category": "Farm Mechanization & Input Support",
+    "description": "Provides direct financial assistance to small and marginal farmers for purchasing farm tools and scientific equipment to enhance farm productivity.",
+    "benefits": "One-time financial grant of ₹5,000 transferred directly to the farmer's bank account for purchasing agricultural implements.",
+    "eligibility": [
+      "Small and marginal farmers residing in Assam owning cultivable land up to 15 bighas (approx. 2 hectares)",
+      "Tenant farmers, sharecroppers, and farm workers with active agricultural practice"
+    ],
+    "documents": [
+      "Identity Proof",
+      "Land Holding Certificate / Dag-Patta Copy or Land Ownership Self-Declaration",
+      "Bank Account Details",
+      "Kisan Credit Card (if available)"
+    ],
+    "application_mode": "Offline via Agriculture Development Officer (ADO) / Block Office",
+    "official_website": "https://diragri.assam.gov.in",
+    "last_updated": "2026-06-10"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Chief Minister Samagra Gramya Unnayan Yojana (CMSGUY) - Tractor Distribution",
+    "state": "Assam",
+    "category": "Farm Mechanization",
+    "description": "Distributes high-power tractor units to selected farmer groups in every revenue village to accelerate double-cropping and farm mechanization.",
+    "benefits": "70% capital subsidy (up to ₹5,50,000) on tractor units with accessories, 20% covered by bank loan, and 10% contributed by the group.",
+    "eligibility": [
+      "Selected farmer groups / Self-Help Groups consisting of 8 to 10 active farmers per village in Assam"
+    ],
+    "documents": [
+      "Identity Proofs of Group Members",
+      "Group Registration & Resolution Certificate",
+      "Joint Bank Account Details",
+      "Land Holding Documents of Group Members"
+    ],
+    "application_mode": "Offline via District Agriculture Officer (DAO) / CMSGUY Society",
+    "official_website": "https://cmsguy.assam.gov.in",
+    "last_updated": "2026-05-18"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Assam Millet Mission (AMM)",
+    "state": "Assam",
+    "category": "Crop Diversification & Sustainability",
+    "description": "Encourages millet production across rainfed regions by providing seed kits, technical support, processing infrastructure, and market linkages.",
+    "benefits": "Financial incentives up to ₹12,000/hectare spread across three years, free high-yield seed kits, and micro-processing machinery grants.",
+    "eligibility": [
+      "Farmers in designated project blocks of Assam taking up millet (Ragi, Foxtail, Proso) cultivation"
+    ],
+    "documents": [
+      "Identity Proof",
+      "Land Record Copy (Dag / Patta)",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via ADO Office / APART Project Officers",
+    "official_website": "https://diragri.assam.gov.in",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Assam Micro Irrigation Scheme (Per Drop More Crop - PMKSY)",
+    "state": "Assam",
+    "category": "Water Efficient Irrigation",
+    "description": "Subsidizes micro-irrigation systems (drip and sprinkler) to maximize water use efficiency for horticultural crops and tea estates.",
+    "benefits": "80% to 90% subsidy on installation costs of drip and sprinkler irrigation systems for small and marginal farmers.",
+    "eligibility": [
+      "Farmers owning or leasing land in Assam with an assured water source (tube well, pond, river)"
+    ],
+    "documents": [
+      "Identity Proof",
+      "Land Ownership Record (Patta/Khatian)",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online / Offline via District Horticulture Office",
+    "official_website": "https://horticulture.assam.gov.in",
+    "last_updated": "2026-04-20"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Assam State Crop Insurance Scheme (Mukhya Mantri Fasal Bima Yojana)",
+    "state": "Assam",
+    "category": "Crop Insurance",
+    "description": "Protects farmers against severe crop failure caused by floods, heavy rain, dry spells, and pest attacks.",
+    "benefits": "100% premium cost subsidized by the state government for non-loanee farmers; direct bank transfer for crop loss compensation.",
+    "eligibility": [
+      "All farmers (owner-cultivators and tenant farmers) in Assam growing notified crops like paddy, jute, and oilseeds"
+    ],
+    "documents": [
+      "Identity Proof",
+      "Sowing Certificate from Village Headman (Gaon Burha) / ADO",
+      "Land Patta Copy or Lease Agreement",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via Local Agriculture Extension Officer / CSCs",
+    "official_website": "https://diragri.assam.gov.in",
+    "last_updated": "2026-05-25"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Small Tea Growers Support Scheme (Assam)",
+    "state": "Assam",
+    "category": "Specialty & Plantation Crops",
+    "description": "Offers technical guidance, subsidized fertilizers, tea garden machinery, and green leaf price monitoring to small tea growers.",
+    "benefits": "50% financial subsidy on tea plucking machines, pruning tools, transport vehicles, and free soil testing services.",
+    "eligibility": [
+      "Small tea growers in Assam holding up to 10.12 hectares of land registered with the Directorate of Tea",
+      "Must hold a valid Small Tea Grower identity card"
+    ],
+    "documents": [
+      "Identity Proof",
+      "Small Tea Grower Registration Card",
+      "Land Patta Record",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via Directorate of Tea / Tea Board Development Office",
+    "official_website": "https://dirtea.assam.gov.in",
+    "last_updated": "2026-06-05"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Chief Minister's Free Seed Distribution Scheme",
+    "state": "Assam",
+    "category": "Quality Seed Assistance",
+    "description": "Distributes high-yielding and flood-tolerant crop seeds (like Sali paddy, Boro paddy, and pulses) ahead of cropping seasons.",
+    "benefits": "100% free distribution of certified high-yielding and climate-resilient seed minikits directly to registered farmers.",
+    "eligibility": [
+      "Small, marginal, and flood-affected farmers residing in Assam"
+    ],
+    "documents": [
+      "Identity Proof",
+      "Farmer ID / Land Record Copy",
+      "Bank Passbook"
+    ],
+    "application_mode": "Offline via Agriculture Development Officer (ADO) / Gram Panchayat",
+    "official_website": "https://diragri.assam.gov.in",
+    "last_updated": "2026-05-12"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Gharua Pukhuri Janasanchay Scheme (Farm Pond Development)",
+    "state": "Assam",
+    "category": "Fisheries & Water Harvesting",
+    "description": "Provides support for constructing small individual farm ponds for rainwater harvesting, fish farming, and supplementary crop irrigation.",
+    "benefits": "Financial assistance up to ₹50,000 for excavating new ponds or re-excavating existing water storage bodies.",
+    "eligibility": [
+      "Individual farmers and rural households in Assam with sufficient land for pond construction"
+    ],
+    "documents": [
+      "Identity Proof",
+      "Land Record (Patta)",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via District Fisheries Development Officer (DFDO) / Block Office",
+    "official_website": "https://fisheries.assam.gov.in",
+    "last_updated": "2026-04-15"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Mukhya Mantri Animal Husbandry & Dairy Livelihood Scheme",
+    "state": "Assam",
+    "category": "Animal Husbandry & Dairy",
+    "description": "Encourages rural self-employment by assisting smallholders and SHGs in establishing small dairy farms and goat farming units.",
+    "benefits": "50% capital subsidy on purchasing high-yielding crossbred cows or goats, plus subsidized cattle feed and veterinary cover.",
+    "eligibility": [
+      "Individual rural youth, women SHGs, and small agricultural workers in Assam"
+    ],
+    "documents": [
+      "Identity Proof",
+      "Caste / Category Certificate (if applicable)",
+      "Bank Passbook"
+    ],
+    "application_mode": "Offline via Veterinary Officer / Block Level Animal Husbandry Office",
+    "official_website": "https://veterinary.assam.gov.in",
+    "last_updated": "2026-05-30"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Assam Silk & Eri/Muga Sericulture Mission",
+    "state": "Assam",
+    "category": "Sericulture & Cottage Industry",
+    "description": "Supports traditional Muga, Eri, and Mulberry silk growers with host plant plantation grants, rearing house construction, and modern appliances.",
+    "benefits": "Financial grant up to ₹35,000 for constructing rearing houses, free saplings/disease-free layings (DFLs), and motorized spinning wheels.",
+    "eligibility": [
+      "Traditional silkworm rearers, weavers, and farmers engaged in sericulture in Assam"
+    ],
+    "documents": [
+      "Identity Proof",
+      "Sericulture Farmer Card / Land Patta Document",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via Directorate of Sericulture / Local Extension Officer",
+    "official_website": "https://sericulture.assam.gov.in",
+    "last_updated": "2026-06-12"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "Mukhyamantri Krishi Utpadan Sanrakshan Yojana (Solar Fencing & Protection)",
+    "state": "Himachal Pradesh",
+    "category": "Crop Protection Infrastructure",
+    "description": "Integrated scheme offering subsidies for solar fencing, interlink chain fencing, anti-hail nets, and polyhouse greenhouse renovation to protect crops against monkeys, wild animals, and severe hail damage.",
+    "benefits": "80% subsidy for individual farmers and 85% subsidy for group farming (3 or more farmers) on solar power fencing; 80% assistance for anti-hail nets up to 5,000 sq m; 70% assistance for greenhouse polyhouse sheet replacement.",
+    "eligibility": [
+      "Permanent resident farmers of Himachal Pradesh owning cultivable land",
+      "Priority provided to small, marginal, and hill-region farmers"
+    ],
+    "documents": [
+      "Himachal Pradesh Bonafide Resident Certificate",
+      "Jamabandi Land Revenue Extract",
+      "Aadhaar Card Copy",
+      "Bank Account Details / Passbook"
+    ],
+    "application_mode": "Online via HP DBT Portal (agridbt.hp.gov.in)",
+    "official_website": "https://agridbt.hp.gov.in",
+    "last_updated": "2026-06-20"
+  },
+  {
+    "id": 2,
+    "scheme_name": "Prakritik Kheti Khushal Kisan Yojana (PKKKY)",
+    "state": "Himachal Pradesh",
+    "category": "Natural & Zero-Budget Farming",
+    "description": "Promotes chemical-free Zero Budget Natural Farming (ZBNF) by supporting indigenous (Desi) cow purchase, bio-input preparation kits, cattle shed lining, and farm-level input shops.",
+    "benefits": "50% subsidy up to ₹25,000 (plus ₹5,000 transport allowance) for purchasing indigenous cows; ₹8,000 for cattle shed lining; ₹2,250 for plastic drums; and one-time assistance of ₹50,000 over 3 years for setting up natural input shops.",
+    "eligibility": [
+      "Farmers residing in Himachal Pradesh committed to adopting non-chemical natural farming practices"
+    ],
+    "documents": [
+      "Aadhaar Card Copy",
+      "Land Record Copy (Jamabandi)",
+      "Bank Account Passbook",
+      "Desi Cow Ownership / Purchase Bill (for cow subsidy)"
+    ],
+    "application_mode": "Online / Offline via State Natural Farming Portal (spnfhp.in) or ATMA Block Offices",
+    "official_website": "https://spnfhp.in",
+    "last_updated": "2026-05-18"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Him Unnati Yojana",
+    "state": "Himachal Pradesh",
+    "category": "Integrated Cluster Agricultural Development",
+    "description": "Supports cluster-based development in agriculture and allied sectors by linking farm production with processing, storage, branding, and direct market linkage.",
+    "benefits": "Financial grants and technical assistance up to 80% for forming farmer clusters, establishing common facility centers, and value addition infrastructure.",
+    "eligibility": [
+      "Farmer Self-Help Groups (SHGs), Farmer Producer Organizations (FPOs), and smallholder clusters in Himachal Pradesh"
+    ],
+    "documents": [
+      "Group / FPO Registration Certificate",
+      "List of Member Farmers with Land Records",
+      "Aadhaar Cards of Key Office Bearers",
+      "FPO / Group Bank Account Details"
+    ],
+    "application_mode": "Online via HP Agriculture Portal / District Agriculture Officer",
+    "official_website": "https://agriculture.hp.gov.in",
+    "last_updated": "2026-06-05"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Jal Se Krishi Ko Bal Yojana",
+    "state": "Himachal Pradesh",
+    "category": "Water Conservation & Lift Irrigation",
+    "description": "Focuses on constructing small check dams, farm ponds, and community lift irrigation or flow irrigation schemes to harness water sources in hilly terrains.",
+    "benefits": "100% state funding for community check dam construction and up to 80% financial assistance for individual lift irrigation pumpsets and piping.",
+    "eligibility": [
+      "Individual farmers or community groups of farmers in rainfed agricultural regions of Himachal Pradesh"
+    ],
+    "documents": [
+      "Jamabandi Land Extract Document",
+      "NOC from Gram Panchayat / Irrigation Source Access Certificate",
+      "Aadhaar Card Copy",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Offline via Block Development / Agriculture Officer or Online via eDistrict HP",
+    "official_website": "https://agriculture.hp.gov.in",
+    "last_updated": "2026-04-22"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Krishi Se Sampannta Yojana (Hing and Saffron Cultivation)",
+    "state": "Himachal Pradesh",
+    "category": "High-Value & Niche Crop Promotion",
+    "description": "Promotes commercial cultivation of high-value cash crops like Asafoetida (Hing) and Saffron in suitable high-altitude regions (Chamba, Lahaul-Spiti, Kinnaur, Kullu).",
+    "benefits": "Free supply of high-quality planting material (corms/seeds), 75% subsidy on specialized soil inputs, and free technical guidance from CSIR-IHBT Palampur.",
+    "eligibility": [
+      "Farmers owning cultivable land in notified high-altitude agro-climatic zones of Himachal Pradesh"
+    ],
+    "documents": [
+      "Bonafide Himachali Certificate",
+      "Jamabandi Land Extract",
+      "Aadhaar Card Copy",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline application through District Agriculture Extension Offices",
+    "official_website": "https://agriculture.hp.gov.in",
+    "last_updated": "2026-05-30"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Mukhya Mantri Green House Renovation & Polyhouse Subsidy Scheme",
+    "state": "Himachal Pradesh",
+    "category": "Protected Cultivation Infrastructure",
+    "description": "Provides capital subsidies for constructing new polyhouses and replacing worn-out poly-sheets/UV films after 5 years or following natural calamity damage.",
+    "benefits": "85% subsidy for establishing polyhouse/greenhouse structures and 70% assistance for poly-sheet replacement.",
+    "eligibility": [
+      "Horticulture and vegetable growers residing in Himachal Pradesh with eligible land titles"
+    ],
+    "documents": [
+      "Jamabandi Land Record Extract",
+      "Polyhouse Site Map and Cost Estimate",
+      "Aadhaar Card Copy",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online via HP DBT Portal (agridbt.hp.gov.in)",
+    "official_website": "https://agridbt.hp.gov.in",
+    "last_updated": "2026-06-12"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Him Kukkut Palan Yojana (Poultry Development)",
+    "state": "Himachal Pradesh",
+    "category": "Animal Husbandry & Backyard Poultry",
+    "description": "Encourages rural women and small farmers to set up backyard poultry units and commercial broilers/layers to boost subsidiary income.",
+    "benefits": "60% to 75% subsidy on purchasing day-old chicks, poultry feed, and night-shelter cage construction for 100 to 500 bird units.",
+    "eligibility": [
+      "Permanent residents of Himachal Pradesh; priority given to BPL families, Women SHGs, and SC/ST farmers"
+    ],
+    "documents": [
+      "Himachal Pradesh Resident Proof",
+      "Category / BPL Certificate (if applicable)",
+      "Aadhaar Card Copy",
+      "Bank Passbook Details"
+    ],
+    "application_mode": "Online via eDistrict Himachal / Offline at Veterinary Hospitals",
+    "official_website": "https://hpagrisnet.gov.in",
+    "last_updated": "2026-05-14"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Doodh Protsahan Yojana",
+    "state": "Himachal Pradesh",
+    "category": "Dairy Development & Price Support",
+    "description": "Offers direct price incentive bonuses per liter to dairy farmers selling cow and buffalo milk through organized cooperative societies.",
+    "benefits": "Direct benefit transfer (DBT) price support subsidy directly into farmers' bank accounts based on milk fat content and quantity logged by cooperatives.",
+    "eligibility": [
+      "Milk producers registered with primary dairy cooperative societies in Himachal Pradesh"
+    ],
+    "documents": [
+      "Dairy Cooperative Membership Passbook",
+      "Aadhaar Card Copy",
+      "Bank Passbook linked with Aadhaar"
+    ],
+    "application_mode": "Offline registration through local Dairy Cooperative Society / HP MILKFED",
+    "official_website": "https://hpmilkfed.org",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Anti-Hail Net Scheme for Apple & Fruit Orchards",
+    "state": "Himachal Pradesh",
+    "category": "Horticulture Disaster Protection",
+    "description": "Subsidizes high-density anti-hail nets to safeguard high-value apple, plum, peach, and cherry orchards from summer hailstorms.",
+    "benefits": "80% subsidy on the purchase of government-approved anti-hail nets up to a maximum area of 5,000 square meters per beneficiary.",
+    "eligibility": [
+      "Orchard owners and fruit growers with registered land in Himachal Pradesh"
+    ],
+    "documents": [
+      "Jamabandi Land Extract showing orchard status",
+      "Aadhaar Card Copy",
+      "Vendor Quotation for Anti-Hail Nets",
+      "Bank Account Details"
+    ],
+    "application_mode": "Online via HP Horticulture DBT Portal",
+    "official_website": "https://hpagrisnet.gov.in",
+    "last_updated": "2026-05-25"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Inland Fisheries & Trout Farming Promotion Scheme",
+    "state": "Himachal Pradesh",
+    "category": "Fisheries & Aquaculture",
+    "description": "Promotes cold-water trout farming and carp culture by providing capital subsidies for raceway construction, trout hatcheries, fish feed, and solar aerators.",
+    "benefits": "40% subsidy for General category and 60% for SC/ST and Women beneficiaries on trout unit construction cost (up to ₹3,30,000 per unit).",
+    "eligibility": [
+      "Fish farmers and unemployed youth residing in cold-water stream regions of Himachal Pradesh with land and water flow availability"
+    ],
+    "documents": [
+      "Bonafide Himachal Resident Certificate",
+      "Land Ownership Document or 10-year Lease Deed",
+      "Water Availability / NOC Certificate from Jal Shakti Department",
+      "Aadhaar Card and Bank Details"
+    ],
+    "application_mode": "Offline / Online via HP Fisheries Department Portal",
+    "official_website": "https://hpfisheries.nic.in",
+    "last_updated": "2026-06-10"
+  }
+]

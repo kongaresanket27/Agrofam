@@ -1,0 +1,205 @@
+[
+  {
+    "id": 1,
+    "scheme_name": "KALIA (Krushak Assistance for Livelihood and Income Augmentation)",
+    "state": "Odisha",
+    "category": "Income Support & Livelihood",
+    "description": "A comprehensive welfare package designed to accelerate agricultural prosperity and reduce poverty by providing direct financial support to farmers and landless agricultural households.",
+    "benefits": "Financial assistance of ₹10,000 per year (₹5,000 each for Kharif and Rabi seasons) for cultivators, plus ₹12,500 one-time support for landless agricultural households for allied activities.",
+    "eligibility": [
+      "Small and marginal farmers holding up to 2 hectares of cultivable land in Odisha",
+      "Landless agricultural households and vulnerable farming families",
+      "Must not be an institutional landholder or tax-paying citizen"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Holding Document (RoR) / Krushak Odisha ID",
+      "Aadhaar-linked Bank Passbook",
+      "Ration Card / Voter ID"
+    ],
+    "application_mode": "Online via KALIA / Krushak Odisha Portal",
+    "official_website": "https://kalia.odisha.gov.in",
+    "last_updated": "2026-06-15"
+  },
+  {
+    "id": 2,
+    "scheme_name": "BALARAM Scheme",
+    "state": "Odisha",
+    "category": "Credit Support & Tenant Farmers",
+    "description": "Provides collateral-free institutional credit to sharecroppers, tenant farmers, and landless agricultural workers through Joint Liability Groups (JLGs).",
+    "benefits": "Collateral-free, interest-subsidized crop loans up to ₹50,000 per season per group member.",
+    "eligibility": [
+      "Landless sharecroppers, tenant farmers, and agricultural workers in Odisha",
+      "Must form Joint Liability Groups (JLGs) consisting of 4 to 5 members"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "JLG Formation Certificate",
+      "Bank Account Details",
+      "Residential Certificate"
+    ],
+    "application_mode": "Offline via Primary Agricultural Credit Societies (PACS) / Local Banks",
+    "official_website": "https://agri.odisha.gov.in",
+    "last_updated": "2026-05-18"
+  },
+  {
+    "id": 3,
+    "scheme_name": "Mukhyamantri Krushi Udyog Yojana (MKUY)",
+    "state": "Odisha",
+    "category": "Agri-Entrepreneurship",
+    "description": "Incentivizes commercial agricultural and allied enterprises by offering substantial capital investment subsidies to individual farmers and entrepreneurs.",
+    "benefits": "Capital Investment Subsidy (CIS) of 40% to 50% (up to ₹50 lakh) on the fixed capital cost of setting up eligible agri-enterprises.",
+    "eligibility": [
+      "Agri-entrepreneurs, individual farmers, and self-help groups (SHGs) in Odisha",
+      "SC/ST, women, and agricultural graduates receive higher subsidy caps (50%)"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Detailed Project Report (DPR)",
+      "Land Possession Certificate / Lease Agreement",
+      "Bank Account & PAN Card"
+    ],
+    "application_mode": "Online via APICOL / Sujog Portal",
+    "official_website": "https://www.apicol.nic.in",
+    "last_updated": "2026-06-02"
+  },
+  {
+    "id": 4,
+    "scheme_name": "Odisha Millet Mission (Shree Anna Abhiyan)",
+    "state": "Odisha",
+    "category": "Crop Diversification & Sustainability",
+    "description": "Promotes the cultivation, processing, and consumption of climate-resilient millets across rainfed and tribal agricultural regions.",
+    "benefits": "Incentive cash transfers up to ₹12,000/hectare spread over 3 years, free seed kits, processing machinery grants, and assured procurement at MSP.",
+    "eligibility": [
+      "Farmers cultivating millets (ragi, foxtail, jowar) in designated project blocks of Odisha"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Krushak Odisha ID",
+      "Land Details (Khatiyan / Lease)",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online via Krushak Odisha Portal / Block Agriculture Office",
+    "official_website": "https://milletmission.odisha.gov.in",
+    "last_updated": "2026-06-10"
+  },
+  {
+    "id": 5,
+    "scheme_name": "Biju Krushak Kalyan Yojana (BKKY)",
+    "state": "Odisha",
+    "category": "Crop Insurance & Risk Coverage",
+    "description": "A state-supported agricultural risk mitigation scheme providing financial protection against yield losses caused by natural disasters and pest infestations.",
+    "benefits": "100% state-funded crop insurance providing coverage up to ₹30,000 per hectare for major food crops.",
+    "eligibility": [
+      "All registered landholding and tenant farmers in Odisha cultivating notified crops"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land RoR / Sowing Certificate",
+      "Krushak Odisha Registration Number",
+      "Bank Account Passbook"
+    ],
+    "application_mode": "Online via Krushak Odisha Portal",
+    "official_website": "https://agri.odisha.gov.in",
+    "last_updated": "2026-04-22"
+  },
+  {
+    "id": 6,
+    "scheme_name": "Odisha Farm Mechanization Scheme",
+    "state": "Odisha",
+    "category": "Farm Mechanization",
+    "description": "Subsidizes modern agricultural implements to reduce labor dependence, lower cultivation costs, and increase crop productivity.",
+    "benefits": "Direct Benefit Transfer (DBT) subsidy ranging from 40% to 75% on tractors, power tillers, rotavators, and harvesters.",
+    "eligibility": [
+      "Farmers owning agricultural land in Odisha registered on the Agrinet portal"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land Record Copy (RoR)",
+      "Quotation from Authorized Dealer",
+      "Bank Passbook"
+    ],
+    "application_mode": "Online via Odisha Agrinet / DBT Agriculture Portal",
+    "official_website": "https://agrisnetodisha.ori.nic.in",
+    "last_updated": "2026-06-20"
+  },
+  {
+    "id": 7,
+    "scheme_name": "Paramparagat Krishi Vikas Yojana - Odisha Organic Mission",
+    "state": "Odisha",
+    "category": "Organic Farming",
+    "description": "Encourages cluster-based organic farming practices, soil rejuvenation, and eco-friendly agricultural inputs.",
+    "benefits": "Financial support up to ₹50,000 per hectare over 3 years for organic inputs, vermicompost units, and organic certification.",
+    "eligibility": [
+      "Farmers forming organic clusters of minimum 20 hectares in designated districts"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Cluster Registration Form",
+      "Land Document Copy",
+      "Bank Passbook"
+    ],
+    "application_mode": "Offline via District Horticulture Office / Cluster Representative",
+    "official_website": "https://agri.odisha.gov.in",
+    "last_updated": "2026-03-14"
+  },
+  {
+    "id": 8,
+    "scheme_name": "Chief Minister Adibandh Scheme",
+    "state": "Odisha",
+    "category": "Irrigation & Water Conservation",
+    "description": "Constructs check dams across minor streams to conserve surface water and provide critical irrigation to surrounding farmlands.",
+    "benefits": "100% government-funded development of local water harvesting check dams providing gravity flow or lift irrigation.",
+    "eligibility": [
+      "Community farming groups and farmers in water-stressed or rainfed areas of Odisha"
+    ],
+    "documents": [
+      "Pani Panchayat / Gram Sabha Resolution",
+      "Land Possession Map / Khasra Copy",
+      "Representative Aadhaar Card"
+    ],
+    "application_mode": "Offline via Executive Engineer (Minor Irrigation) / Pani Panchayat",
+    "official_website": "https://dowrodisha.gov.in",
+    "last_updated": "2026-05-11"
+  },
+  {
+    "id": 9,
+    "scheme_name": "Odisha Dairy & Livestock Livelihood Support",
+    "state": "Odisha",
+    "category": "Animal Husbandry & Dairy",
+    "description": "Supports smallholders and women SHGs in establishing dairy units, boosting milk production, and creating sustainable rural livelihoods.",
+    "benefits": "50% to 75% subsidy on purchasing milch cows/buffaloes, cattle shed construction, and fodder cultivation.",
+    "eligibility": [
+      "Individual farmers, landless laborers, and women SHG members in Odisha"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Milk Cooperative Membership Card (if applicable)",
+      "Bank Account Details",
+      "Caste Certificate (for higher subsidy)"
+    ],
+    "application_mode": "Online via Chief District Veterinary Office / OMFED Portal",
+    "official_website": "https://fard.odisha.gov.in",
+    "last_updated": "2026-06-05"
+  },
+  {
+    "id": 10,
+    "scheme_name": "Utkalika Artisan & Cottage Agro-Industry Support",
+    "state": "Odisha",
+    "category": "Rural Enterprise & Cottage Industry",
+    "description": "Empowers traditional rural artisans and agro-based cottage craft workers through toolkit grants and direct market access.",
+    "benefits": "Grants up to ₹50,000 for modern machinery toolkits, stipend for skill upgradation, and listing on state e-commerce portals.",
+    "eligibility": [
+      "Registered rural artisans and agro-cottage workers residing in Odisha"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Artisan Card / Cottage Industry Registration",
+      "Bank Account Details"
+    ],
+    "application_mode": "Offline via District Industries Center (DIC) / Utkalika",
+    "official_website": "https://utkalika.in",
+    "last_updated": "2026-04-18"
+  }
+]
+ 

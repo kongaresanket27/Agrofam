@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #eef6f1;
+  --color-surface: #ffffff;
+  --color-fg: #14261c;
+  --color-muted: #5d7466;
+  --color-primary: #1b7a4a;
+  --color-primary-dark: #14603a;
+  --color-header: #1b7a4a;
+  --color-accent: #e8a317;
+  --color-market: #2f9e5b;
+  --color-subsidy: #f5a623;
+  --color-equip: #3d7bff;
+  --color-scheme-hero: #5b3cc4;
+  --color-border: #d7e6dc;
+  --color-ok: #1b7a4a;
+  --color-warn: #c47b12;
+  --color-chip: #f3faf6;
+  --radius-lg: 1.5rem;
+  --radius-md: 1rem;
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  html,
+  body,
+  #app {
+    min-height: 100%;
+    background: var(--color-bg);
+    color: var(--color-fg);
+  }
+  body {
+    font-family: var(--font-sans);
+  }
+  h1,
+  h2,
+  h3 {
+    text-wrap: balance;
+    font-weight: 700;
+  }
+  p {
+    text-wrap: pretty;
+  }
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+}
+
+.login-band {
+  background:
+    radial-gradient(900px 500px at 50% -10%, rgb(72 160 110 / 0.45), transparent 55%),
+    linear-gradient(180deg, #1a6b45 0%, #1f7d52 45%, #176344 100%);
+}
+
+.card-shadow {
+  box-shadow: 0 12px 40px rgb(20 38 28 / 0.08);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
