@@ -11,6 +11,7 @@ import {
   parseAppEnv,
   projectRoot,
   readAppEnv,
+  resolveCommand,
 } from "./with-app-env.mjs";
 
 const execFileAsync = promisify(execFile);
@@ -61,6 +62,12 @@ test("an explicit process-env override wins over the file", () => {
 
 test("the template ships auth off", () => {
   assert.deepEqual(readAppEnv(projectRoot()), { VITE_AUTH_ENABLED: "false" });
+});
+
+test("Windows resolves a bare executable to its .cmd shim from PATH", () => {
+  const dir = mkdtempSync(join(tmpdir(), "app-env-win-path-"));
+  writeFileSync(join(dir, "vite.cmd"), "@echo off\r\n");
+  assert.equal(resolveCommand("vite", "win32", dir), join(dir, "vite.cmd"));
 });
 
 test("vite loadEnv resolves the wrapped value", () => {
