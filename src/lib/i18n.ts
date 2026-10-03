@@ -52,7 +52,7 @@ const dict: Record<Lang, Record<string, string>> = {
     weatherDash: "Weather Dashboard",
     weatherSub: "Agricultural weather intelligence",
     createAccount: "Create farmer account",
-    version: "AgroFam v1.0 · Final Year Project 2024–25",
+    version: "AgroFam v1.0",
   },
   hi: {
     brandSub: "स्मार्ट कृषि साथी",
@@ -102,7 +102,7 @@ const dict: Record<Lang, Record<string, string>> = {
     weatherDash: "मौसम डैशबोर्ड",
     weatherSub: "कृषि मौसम जानकारी",
     createAccount: "किसान खाता बनाएँ",
-    version: "AgroFam v1.0 · अंतिम वर्ष परियोजना 2024–25",
+    version: "AgroFam v1.0",
   },
   mr: {
     brandSub: "स्मार्ट शेती साथी",
@@ -152,7 +152,7 @@ const dict: Record<Lang, Record<string, string>> = {
     weatherDash: "हवामान डॅशबोर्ड",
     weatherSub: "शेती हवामान माहिती",
     createAccount: "शेतकरी खाते तयार करा",
-    version: "AgroFam v1.0 · अंतिम वर्ष प्रकल्प 2024–25",
+    version: "AgroFam v1.0",
   },
 };
 
